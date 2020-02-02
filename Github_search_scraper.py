@@ -2,6 +2,13 @@ from bs4 import BeautifulSoup
 import requests
 import time
 from datetime import datetime, timezone
+import os
+
+# Set working directory
+getdir = os.path.dirname(os.path.abspath(inspect.stack()[0][1]))  # http://stackoverflow.com/questions/918154/relative-paths-in-python
+os.chdir(getdir)
+if os.path.isfile('Wuhan_nCoV_Github_Project_list.csv'):
+    os.rename('Wuhan_nCoV_Github_Project_list.csv', 'Wuhan_nCoV_Github_Project_list.old.csv')
 
 with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
     file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
