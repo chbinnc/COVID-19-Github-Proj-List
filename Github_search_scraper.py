@@ -14,6 +14,9 @@ with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
     file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
             'Description', 'Address', 'Last Update', 'Language', 'License', 'Star', 'Topics', 'Issues Need Help'))
 
+with open('keyword_blacklist.txt') as file:
+    keyword_blacklist = file.read().split('\n')
+
 NO_OLDER_PROJECT = False
 
 
@@ -41,6 +44,15 @@ for i in range(1, 20):
         # convert date to local timezone and format it to easy-reading string
         date = date.replace(tzinfo=timezone.utc).astimezone(tz=None).strftime('%Y-%m-%d %H:%M:%S %Z%z')
         description = item.find('p').text.strip()
+
+        UNRELATED_PROJECT = False
+        for keyword in keyword_blacklist:
+            if keyword in description:
+                UNRELATED_PROJECT = True
+                break
+        if UNRELATED_PROJECT == True:
+            continue
+
         link_list = item.find_all('a')
         url_raw = link_list[0]
         url = [url for url in str(url_raw).split('"') if 'http' in url][0]
