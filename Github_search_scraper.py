@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
     file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
-            'Description', 'Address', 'Date', 'Language', 'License', 'Star', 'Topics', 'Issues Need Help'))
+            'Description', 'Address', 'Last Update', 'Language', 'License', 'Star', 'Topics', 'Issues Need Help'))
 
 NO_OLDER_PROJECT = False
 
@@ -47,7 +47,7 @@ for i in range(1, 20):
 
         star_count = description_list[0].text.strip()
         if star_count[0] not in '0123456789':
-            star_count = 'None'
+            star_count = 0
 
         if len(description_list) > 1 and description_list[-2].text.strip() not in [language, star_count]:
             license = description_list[-2].text.strip()
