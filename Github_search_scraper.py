@@ -95,7 +95,7 @@ def main(search_keywords, output, saved_project_list, NEW=False):
                         if url in row:
                             output[output.index(row)] = [description, url, date, language, \
                         license, star_count, topic_list, issues_need_help]
-                        break
+                            break
                 else:
                     saved_project_list.append(url)
                     output.append([description, url, date, language, \
