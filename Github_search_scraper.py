@@ -4,15 +4,21 @@ import time
 from datetime import datetime, timezone
 import os, inspect
 
+def isInBlacklist(description):
+    for keyword in keyword_blacklist:
+        if keyword in description:
+            #print("{} is not a related project.".format(description)) ##test
+            return True
+    return False
 
-def main(search_keywords, output, saved_project_list, NEW=False):
-    NO_OLDER_PROJECT = False
+def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
     OLDEST_DATE = datetime(2020, 1, 20).replace(tzinfo=timezone.utc)
     for search_keyword in search_keywords:
+        NO_OLDER_PROJECT = False
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
             if page % 8 == 0:
-                print('Wait one minute as Github only allow scrap about 10 page at a time.')
+                print('Wait one minute as Github only allow scrap about 10 pages at a time.')
                 time.sleep(60)
             if NO_OLDER_PROJECT == True:
                 break
@@ -46,13 +52,7 @@ def main(search_keywords, output, saved_project_list, NEW=False):
                 url_raw = link_list[0]
                 url = [url for url in str(url_raw).split('"') if 'http' in url][0]
 
-                UNRELATED_PROJECT = False
-                for keyword in keyword_blacklist:
-                    if keyword in description:
-                        #print("{} is not a related project.".format(description)) ##test
-                        UNRELATED_PROJECT = True
-                        break
-                if UNRELATED_PROJECT == True:
+                if isInBlacklist(description) == True:
                     continue
 
                 extra_info_list = item.find(class_='text-small').find_all('div')
@@ -89,19 +89,23 @@ def main(search_keywords, output, saved_project_list, NEW=False):
                     pass
                 if topic_list == [] or topic_list == '':
                     topic_list = 'None'
-                if url in saved_project_list:
+                if url in saved_address_list:
                     #print("{} is already saved.".format(url)) ##test
-                    for row in output:
+                    for row in saved_project_list:
                         if url in row:
-                            output[output.index(row)] = [description, url, date, language, \
+                            saved_project_list[saved_project_list.index(row)] = [description, url, date, language, \
                         license, star_count, topic_list, issues_need_help]
                             break
                 else:
-                    saved_project_list.append(url)
-                    output.append([description, url, date, language, \
+                    saved_address_list.append(url)
+                    saved_project_list.append([description, url, date, language, \
                             license, star_count, topic_list, issues_need_help])
+        # wait one minute except after searching the last keyword
+        if search_keywords.index(search_keyword) != len(search_keywords) - 1:
+            print('Wait one minute as Github only allow scrap about 10 pages at a time.')
+            time.sleep(60)
 
-    return output, saved_project_list
+    return saved_project_list, saved_address_list
 
 if __name__ == '__main__':
     # Set working directory
@@ -121,45 +125,39 @@ if __name__ == '__main__':
         last_updated_date_raw = file.read().strip()
         last_updated_date = datetime.strptime(last_updated_date_raw, '%Y-%m-%d %H:%M:%S %Z%z')
 
-    output = []
     saved_project_list = []
-
-    if os.path.isfile('Wuhan_nCoV_Github_Project_list.csv'):
-        os.rename('Wuhan_nCoV_Github_Project_list.csv', 'Wuhan_nCoV_Github_Project_list.old.csv')
-    with open('Wuhan_nCoV_Github_Project_list.old.csv') as file:
+    saved_address_list = []
+    with open('Wuhan_nCoV_Github_Project_list.csv') as file:
         IS_HEADER = True
         for row in file:
             if IS_HEADER:
                 IS_HEADER = False
                 continue
             row_split = row.strip().split('\t')
-            UNRELATED_PROJECT = False
-            for keyword in keyword_blacklist:
-                if keyword in description:
-                    #print("{} is not a related project.".format(description)) ##test
-                    UNRELATED_PROJECT = True
-                    break
-            if not UNRELATED_PROJECT:
-                output.append(row_split)
-                saved_project_list.append(row_split[1]) # use address for checking duplicate project
+            if not isInBlacklist(row_split[0]):
+                saved_project_list.append(row_split)
+                saved_address_list.append(row_split[1]) # use address for checking duplicate project
 
-    output, saved_project_list = main(search_keywords, output, saved_project_list, NEW=True)
-    print('Wait one minute as Github only allow scrap about 10 page at a time.')
-    time.sleep(60)
-    output, saved_project_list = main(old_search_keywords, output, saved_project_list)
-    output = sorted(output, key=lambda entry: entry[2])[::-1] # sorted by date
+    saved_project_list, saved_address_list = main(search_keywords, saved_project_list, saved_address_list, NEW=True)
+    if search_keywords != []:
+        print('Wait one minute as Github only allow scrap about 10 pages at a time.')
+        time.sleep(60)
+    saved_project_list, saved_address_list = main(old_search_keywords, saved_project_list, saved_address_list)
+    saved_project_list = sorted(saved_project_list, key=lambda entry: entry[2])[::-1] # sorted by date
 
+    if os.path.isfile('Wuhan_nCoV_Github_Project_list.csv'):
+        os.rename('Wuhan_nCoV_Github_Project_list.csv', 'Wuhan_nCoV_Github_Project_list.old.csv')
     with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
         file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
                 'Description', 'Address', 'Last Update', 'Language', \
                 'License', 'Star', 'Topics', 'Issues Need Help'))
 
     with open('Wuhan_nCoV_Github_Project_list.csv', 'a') as file:
-        for i in output:
+        for i in saved_project_list:
             file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
                         i[0], i[1], i[2], i[3], i[4], i[5], i[6], i[7]))
 
-    last_updated_date = output[0][2]
+    last_updated_date = saved_project_list[0][2]
     with open('last_updated_date.txt', 'w') as file:
         file.write(last_updated_date)
 
