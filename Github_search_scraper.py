@@ -133,8 +133,15 @@ if __name__ == '__main__':
                 IS_HEADER = False
                 continue
             row_split = row.strip().split('\t')
-            output.append(row_split)
-            saved_project_list.append(row_split[1]) # use address for checking duplicate project
+            UNRELATED_PROJECT = False
+            for keyword in keyword_blacklist:
+                if keyword in description:
+                    #print("{} is not a related project.".format(description)) ##test
+                    UNRELATED_PROJECT = True
+                    break
+            if not UNRELATED_PROJECT:
+                output.append(row_split)
+                saved_project_list.append(row_split[1]) # use address for checking duplicate project
 
     output, saved_project_list = main(search_keywords, output, saved_project_list, NEW=True)
     print('Wait one minute as Github only allow scrap about 10 page at a time.')
