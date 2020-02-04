@@ -49,7 +49,7 @@ def main(search_keywords, output, saved_project_list, NEW=False):
                 UNRELATED_PROJECT = False
                 for keyword in keyword_blacklist:
                     if keyword in description:
-                        print("{} is not a related project.".format(description)) ##test
+                        #print("{} is not a related project.".format(description)) ##test
                         UNRELATED_PROJECT = True
                         break
                 if UNRELATED_PROJECT == True:
@@ -101,11 +101,6 @@ def main(search_keywords, output, saved_project_list, NEW=False):
                     output.append([description, url, date, language, \
                             license, star_count, topic_list, issues_need_help])
 
-            print('output size: {}'.format(len(output))) ##test
-            ##test
-            with open('test_result.txt','w') as file:
-                for i in output:
-                    file.write(str(i)+'\n')
     return output, saved_project_list
 
 if __name__ == '__main__':
