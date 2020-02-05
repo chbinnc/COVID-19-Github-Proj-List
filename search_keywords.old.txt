@@ -1,3 +1,5 @@
 武汉
 疫
 wuhan
+nCoV
+Coronavirus
