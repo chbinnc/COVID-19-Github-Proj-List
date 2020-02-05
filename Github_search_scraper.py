@@ -85,8 +85,10 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                 try:
                     topic_list = []
                     for topic in link_list[1:]:
-                        if topic.text.strip() not in [star_count, issues_need_help_raw]:
-                            topic_list.append(topic.text.strip())
+                        topic_text_strip = topic.text.strip()
+                        if topic_text_strip not in [star_count, issues_need_help_raw] and \
+                                topic_text_strip[0:4] != 'http':
+                            topic_list.append(topic_text_strip)
                     topic_list = ', '.join(topic_list)
                 except Exception as error:
                     pass
@@ -97,8 +99,9 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                     #print("{} is already saved.".format(url)) ##test
                     for row in saved_project_list:
                         if url in row:
-                            saved_project_list[saved_project_list.index(row)] = [description, url, date, language, \
-                        license, star_count, topic_list, issues_need_help]
+                            saved_project_list[saved_project_list.index(row)] = \
+                                    [description, url, date, language, \
+                                    license, star_count, topic_list, issues_need_help]
                             break
                 else:
                     saved_address_list.append(url)
@@ -142,13 +145,15 @@ if __name__ == '__main__':
                 saved_project_list.append(row_split)
                 saved_address_list.append(row_split[1]) # use address for checking duplicate project
     # search with keyword in search_keywords.txt
-    saved_project_list, saved_address_list = main(search_keywords, saved_project_list, saved_address_list, NEW=True)
+    saved_project_list, saved_address_list = main(\
+            search_keywords, saved_project_list, saved_address_list, NEW=True)
 
     if search_keywords != []:
         print('Wait one minute as Github only allow scrap about 10 pages at a time.')
         time.sleep(60)
     # search with keyword in search_keywords.old.txt
-    saved_project_list, saved_address_list = main(old_search_keywords, saved_project_list, saved_address_list)
+    saved_project_list, saved_address_list = main(\
+            old_search_keywords, saved_project_list, saved_address_list)
 
     saved_project_list = sorted(saved_project_list, key=lambda entry: entry[2])[::-1] # sorted by date
 
