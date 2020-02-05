@@ -11,6 +11,10 @@ def isInBlacklist(description):
             return True
     return False
 
+def waitOneMinute():
+    print('Wait one minute as Github only allows scrap about 10 pages at a time.')
+    time.sleep(60)
+
 def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
     OLDEST_DATE = datetime(2020, 1, 20).replace(tzinfo=timezone.utc)
     for search_keyword in search_keywords:
@@ -18,8 +22,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
             if page % 8 == 0:
-                print('Wait one minute as Github only allow scrap about 10 pages at a time.')
-                time.sleep(60)
+                waitOneMinute()
             if NO_OLDER_PROJECT == True:
                 break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
@@ -97,7 +100,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                     topic_list = 'None'
 
                 if url in saved_address_list:
-                    #print("{} is already saved.".format(url)) ##test
+                    # update saved project info
                     for row in saved_project_list:
                         if url in row:
                             saved_project_list[saved_project_list.index(row)] = \
@@ -110,8 +113,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                             license, star_count, topic_list, issues_need_help])
         # wait one minute except after searching the last keyword
         if search_keywords.index(search_keyword) != len(search_keywords) - 1:
-            print('Wait one minute as Github only allow scrap about 10 pages at a time.')
-            time.sleep(60)
+            waitOneMinute()
 
     return saved_project_list, saved_address_list
 
@@ -150,8 +152,7 @@ if __name__ == '__main__':
             search_keywords, saved_project_list, saved_address_list, NEW=True)
 
     if search_keywords != []:
-        print('Wait one minute as Github only allow scrap about 10 pages at a time.')
-        time.sleep(60)
+        waitOneMinute()
     # search with keyword in search_keywords.old.txt
     saved_project_list, saved_address_list = main(\
             old_search_keywords, saved_project_list, saved_address_list)
