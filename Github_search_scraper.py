@@ -22,7 +22,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                 time.sleep(60)
             if NO_OLDER_PROJECT == True:
                 break
-            print('Page: {}'.format(page)) ##test
+            print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
             response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
                     format(page, search_keyword))
             doc = response.text
@@ -46,14 +46,17 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                     break
                 # convert date to local timezone and format it to easy-reading string
                 date = date.astimezone(tz=None).strftime('%Y-%m-%d %H:%M:%S %Z%z')
-                description = item.find('p').text.strip()
+
+                try:
+                    description = item.find('p').text.strip()
+                except Exception as error:
+                    description = 'None'
+                if isInBlacklist(description) == True:
+                    continue
 
                 link_list = item.find_all('a')
                 url_raw = link_list[0]
                 url = [url for url in str(url_raw).split('"') if 'http' in url][0]
-
-                if isInBlacklist(description) == True:
-                    continue
 
                 extra_info_list = item.find(class_='text-small').find_all('div')
 
@@ -89,6 +92,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                     pass
                 if topic_list == [] or topic_list == '':
                     topic_list = 'None'
+
                 if url in saved_address_list:
                     #print("{} is already saved.".format(url)) ##test
                     for row in saved_project_list:
@@ -137,12 +141,15 @@ if __name__ == '__main__':
             if not isInBlacklist(row_split[0]):
                 saved_project_list.append(row_split)
                 saved_address_list.append(row_split[1]) # use address for checking duplicate project
-
+    # search with keyword in search_keywords.txt
     saved_project_list, saved_address_list = main(search_keywords, saved_project_list, saved_address_list, NEW=True)
+
     if search_keywords != []:
         print('Wait one minute as Github only allow scrap about 10 pages at a time.')
         time.sleep(60)
+    # search with keyword in search_keywords.old.txt
     saved_project_list, saved_address_list = main(old_search_keywords, saved_project_list, saved_address_list)
+
     saved_project_list = sorted(saved_project_list, key=lambda entry: entry[2])[::-1] # sorted by date
 
     if os.path.isfile('Wuhan_nCoV_Github_Project_list.csv'):

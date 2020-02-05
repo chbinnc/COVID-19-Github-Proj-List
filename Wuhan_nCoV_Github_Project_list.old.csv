@@ -1,16 +1,25 @@
 Description	Address	Last Update	Language	License	Star	Topics	Issues Need Help
+武汉疫情数据调研分析	https://github.com/axuanwu/DataScienceEpidemic	2020-02-04 16:36:14 HKT+0800	None	None	0	None	0
+记录与2020爆发的武汉新型冠状病毒相关的内容,对比其与SARS的发展阶段。	https://github.com/nnikniL/2019-nCoV_Notes	2020-02-04 16:33:29 HKT+0800	None	None	2	sars, wuhan, 2019-ncov, coronavirus	0
+新型冠状病毒防疫信息收集平台	https://github.com/wuhan2020/wuhan2020	2020-02-04 16:31:54 HKT+0800	None	MIT license	4.9k	None	2
+疫情放假偷偷学习系列	https://github.com/kiimmm/Chatbots-Study	2020-02-04 16:30:52 HKT+0800	None	None	0	None	0
 👩🏻‍⚕️2019-nCoV estimation and forecast using statistical model; 新型冠状病毒武汉肺炎统计模型预测	https://github.com/YiranJing/Coronavirus-Epidemic-2019-nCov	2020-02-04 16:29:21 HKT+0800	Jupyter Notebook	None	18	statistical-models, visualization, python, epidemic-model, 2019-ncov, coronavirus	0
-武汉疫情数据调研分析	https://github.com/axuanwu/DataScienceEpidemic	2020-02-04 16:26:27 HKT+0800	None	None	0	None	0
+疫情可视化页面	https://github.com/songcee/yiqing	2020-02-04 16:17:28 HKT+0800	JavaScript	None	0	None	0
 武汉新型冠状病毒实时省市数据2019-2020	https://github.com/hehez/wuhan-ncov-2020	2020-02-04 16:12:50 HKT+0800	TypeScript	None	0	None	0
-记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后的信息，因为假若敏感内容，墙内容易炸号，故置于此。	https://github.com/Pratitya/wuhan2020-timeline	2020-02-04 16:08:49 HKT+0800	None	None	218	china, wuhan, ncov, ncov-data-visual, wuhan-pneumonia, ncov-map, wuhan-coronavirus-outbreak, wuhan-coronavirus, wuhan-virus, wuhan2020, ncov-2019	1
+记录自2019年12月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后的信息，因为假若敏感内容，墙内容易炸号，故置于此。	https://github.com/Pratitya/wuhan2020-timeline	2020-02-04 16:08:49 HKT+0800	None	None	220	china, wuhan, ncov, ncov-data-visual, wuhan-pneumonia, ncov-map, wuhan-coronavirus-outbreak, wuhan-coronavirus, wuhan-virus, wuhan2020, ncov-2019	1
+新型冠状病毒疫情实时数据可视化系统，呈现疫情地域、时间序列分布，结合重点城市人口迁徙做适当分析。	https://github.com/simonblowsnow/2019-ncov-vis	2020-02-04 16:05:31 HKT+0800	None	None	0	None	0
+2019-nCov新型冠状病毒肺炎每日疫情数据可视化	https://github.com/tfx2001/2019-ncov-data-visualization	2020-02-04 16:03:51 HKT+0800	Vue	None	0	None	0
+中国新型冠状病毒肺炎地级市疫情图	https://github.com/lispczz/pneumonia	2020-02-04 16:03:31 HKT+0800	JavaScript	MIT license	261	None	0
+2019新型冠状病毒疫情时间序列数据仓库	https://github.com/BlankerL/DXY-2019-nCoV-Data	2020-02-04 15:41:59 HKT+0800	Python	None	188	data-warehouse, 2019-ncov	0
 🦠This is not a coronavirus game. 这不是一个关于武汉肺炎的游戏｡	https://github.com/duiyu/get-out-game	2020-02-04 15:07:53 HKT+0800	JavaScript	None	0	None	0
+用python实现全国疫情分析	https://github.com/jingsongliujing/yiqingfenxi	2020-02-04 15:02:24 HKT+0800	Python	None	0	None	0
+全国及各省新型肺炎疫情情况图	https://github.com/hack-fang/nCov	2020-02-04 14:44:46 HKT+0800	CSS	None	47	None	0
 武汉新型冠状病毒防疫物资信息捐赠通道 -> 采用更便捷的方案展示	https://github.com/WuhanZhuRong/DonationChannel	2020-02-04 14:41:33 HKT+0800	JavaScript	MIT license	9	wuhan, 2019-ncov, coronavirus	0
 抓取Github上与武汉疫情有关项目的简单爬虫	https://github.com/chbinnc/Wuhan-nCoV-Github-Proj-List	2020-02-04 14:04:13 HKT+0800	Python	MIT license	0	None	0
 一起来给湖北/武汉红十字会监工吧	https://github.com/WeileiZeng/red-cross	2020-02-04 13:41:40 HKT+0800	Python	GPL-3.0 license	15	github-pages, red-cross, coronavirus	1
-新型冠状病毒肺炎防疫指南	https://github.com/githubmajia/2019nCov_document	2020-02-04 13:41:07 HKT+0800	None	None	0	None	0
-2019新型冠状病毒疫情时间序列数据仓库	https://github.com/BlankerL/DXY-2019-nCoV-Data	2020-02-04 13:40:41 HKT+0800	Python	None	170	data-warehouse, 2019-ncov	0
+新型冠状病毒肺炎防疫指南	https://github.com/githubmajia/2019nCov_document	2020-02-04 13:41:07 HKT+0800	None	None	1	None	0
 密云区疫情防控信息系统	https://github.com/443256291/vue-wjw-antiepidemic-2020	2020-02-04 13:34:14 HKT+0800	Vue	None	0	None	0
-2019-nCov新型冠状病毒肺炎每日疫情数据可视化	https://github.com/tfx2001/2019-ncov-data-visualization	2020-02-04 13:31:50 HKT+0800	Vue	None	0	None	0
+全国新型冠状病毒，肺炎疫情实时省市地图	https://github.com/shfshanyue/2019-ncov	2020-02-04 13:33:10 HKT+0800	JavaScript	None	261	None	0
 新冠疫情小区分布数据（数据来自各城市卫健委等官方微信公众号和官方网站）	https://github.com/bjwa2020/coronavirus	2020-02-04 13:25:33 HKT+0800	None	None	0	None	0
 2020新型冠状病毒（武汉肺炎）疫情确诊人数预测	https://github.com/pxp1230/yqyc	2020-02-04 13:24:15 HKT+0800	C#	None	1	None	0
 中国新型冠状病毒肺炎世界、省级、市级疫情图	https://github.com/fyt7943tyf/pneumonia	2020-02-04 13:09:31 HKT+0800	JavaScript	None	0	None	0
@@ -24,12 +33,11 @@ Description	Address	Last Update	Language	License	Star	Topics	Issues Need Help
 一个对抗武汉肺炎的中药方子	https://github.com/cooerson/2019-nCoV	2020-02-04 11:49:48 HKT+0800	None	None	1	2019-ncov, coronavirus	0
 查看疫情实时数据	https://github.com/kirito0206/WuHanFighting	2020-02-04 11:48:51 HKT+0800	Java	None	0	None	0
 为新型冠状病毒疫情收集各渠道资源	https://github.com/aboutmydreams/2019-nCoV-data	2020-02-04 11:46:26 HKT+0800	Python	Apache-2.0 license	17	None	0
-新型冠状病毒疫情数据三维可视化	https://github.com/cesiumlab/2019-nCoV-3d	2020-02-04 11:42:35 HKT+0800	JavaScript	None	23	None	0
+新型冠状病毒疫情数据三维可视化	https://github.com/cesiumlab/2019-nCoV-3d	2020-02-04 11:42:35 HKT+0800	JavaScript	None	26	None	0
 基于WXPY的微信机器人，为武汉加油！主要功能：谣言检测、疫情追踪、同行人追踪等，欢迎加入！	https://github.com/MarkShawn2020/robot-for-wuhan	2020-02-04 11:33:17 HKT+0800	Python	None	1	python, wxpy, wuhan, ncov, ncov-2019	0
 #武汉加油 #wuhan-support 面向疫区内外民众和医疗机构的多维度信息整合平台 后端	https://github.com/wuhan-support/backend	2020-02-04 11:22:47 HKT+0800	Go	GPL-3.0 license	10	golang, ncov, wuhan-pneumonia, shimo, wuhan-support	0
 新型冠状病毒肺炎个人防疫指南	https://github.com/githubmajia/xinxingguanzhuangfeiyan	2020-02-04 11:21:13 HKT+0800	None	None	4	None	0
 #武汉加油 #wuhan-support 面向疫区内外民众和医疗机构的多维度信息整合平台 前端	https://github.com/wuhan-support/frontend	2020-02-04 11:03:02 HKT+0800	Vue	GPL-3.0 license	8	wuhan-support, support, science, vuejs, vue, openness, feiyan, ncov, wuhan-pneumonia	0
-中国新型冠状病毒肺炎地级市疫情图	https://github.com/lispczz/pneumonia	2020-02-04 10:55:28 HKT+0800	JavaScript	MIT license	257	None	0
 疫情地图	https://github.com/tommy-it/2019-nCov-Map	2020-02-04 10:47:48 HKT+0800	Python	None	0	None	0
 新型肺炎防疫😷：及时通报，有效防控，坚决打赢这场没有硝烟的战争。	https://github.com/brenner8023/2019-nCoV	2020-02-04 10:41:29 HKT+0800	JavaScript	None	2	None	0
 肺炎疫情实时数据查询 线上地址：https://zhanhongzhu.gitee.io/z_2019ncov	https://github.com/zhanhongzhu/2019-nCoV	2020-02-04 10:27:05 HKT+0800	JavaScript	None	1	https://zhanhongzhu.gitee.io/z_2019ncov	0
@@ -42,7 +50,7 @@ JSBox 版本新型冠状病毒疫情查看	https://github.com/cyanzhong/jsbox-pn
 整理县级疫情数据	https://github.com/dreamkongfu/WuhanData	2020-02-04 04:11:16 HKT+0800	None	None	0	None	0
 #武汉加油 #wuhan-support 用于微信公众号的疫情信息推送机器人	https://github.com/wuhan-support/robot-official	2020-02-04 02:42:13 HKT+0800	Python	GPL-3.0 license	7	wechat-bot, ncov, wuhan-pneumonia, wuhan-support	0
 gmgaly_2020_疫情监控	https://github.com/wangxin2/gmgaly	2020-02-04 01:26:21 HKT+0800	Vue	None	0	None	0
-2019新型冠状病毒疫情实时爬虫	https://github.com/BlankerL/DXY-2019-nCoV-Crawler	2020-02-04 00:58:39 HKT+0800	Python	MIT license	491	crawler, realtime-api, 2019-ncov	0
+2019新型冠状病毒疫情实时爬虫	https://github.com/BlankerL/DXY-2019-nCoV-Crawler	2020-02-04 00:58:39 HKT+0800	Python	MIT license	500	crawler, realtime-api, 2019-ncov	0
 针对 2020 年初在武汉爆发的新型冠状病毒疫情，本项目旨在尝试进行数据开放的展示。	https://github.com/WinSon-Zhao/2019-nCoV-DATA	2020-02-04 00:49:09 HKT+0800	JavaScript	None	1	None	0
 2019-2020 nCoV 新型肺炎疫情全球实时动态图(2019-nCoV) Global Cases	https://github.com/Baiyuetribe/2019nCovGlobalDashboard	2020-02-04 00:18:06 HKT+0800	CSS	MIT license	0	python, visualizer, sars, 2019-ncov	0
 新型冠状病毒实时疫情-数据可视化	https://github.com/xieyezi/2019-nCoV-Virus	2020-02-04 00:04:11 HKT+0800	TypeScript	None	0	react, echarts, wuhan-virus	0
@@ -54,8 +62,7 @@ gmgaly_2020_疫情监控	https://github.com/wangxin2/gmgaly	2020-02-04 01:26:21 
 武汉新型冠状病毒防疫信息收集平台-数据同步服务	https://github.com/wuhan2020/data-sync	2020-02-03 22:58:14 HKT+0800	TypeScript	MIT license	60	None	0
 武汉加油！中国加油！	https://github.com/mrkmj/simple-to-check-Wuhancoronavirus	2020-02-03 22:36:16 HKT+0800	Python	None	0	None	0
 定时爬取夸克浏览器中的新冠病毒疫情数据（jsoup部分删除，保留了模拟请求部分）	https://github.com/zby123456/wuhan	2020-02-03 22:31:41 HKT+0800	Java	None	1	None	0
-疫情可视化页面	https://github.com/songcee/yiqing	2020-02-03 22:10:05 HKT+0800	JavaScript	None	0	None	0
-新型冠状病毒 肺炎疫情实时动态	https://github.com/song940/2019-ncov	2020-02-03 21:37:01 HKT+0800	JavaScript	None	1	None	0
+新型冠状病毒 肺炎疫情实时动态	https://github.com/song940/2019-ncov	2020-02-03 21:37:01 HKT+0800	JavaScript	None	1	2019-ncov	0
 i安康App疫情防控专题	https://github.com/BigDataWeb/iak-epidemic-h5	2020-02-03 20:54:26 HKT+0800	CSS	None	0	None	0
 安康疫情防护系统H5页面	https://github.com/BigDataWeb/ak-epidemic-h5	2020-02-03 20:50:40 HKT+0800	CSS	None	0	None	0
 疫情地图	https://github.com/laomocode/yiqin	2020-02-03 20:24:59 HKT+0800	Python	GPL-3.0 license	2	None	0
@@ -74,14 +81,13 @@ sars疫情展示的页面，数据源拉取的腾讯的数据	https://github.com
 2019新型冠状病毒（2019-nCoV）疫情状况的PHP爬虫	https://github.com/lixingxing1996/DXY-2019-nCoV-Crawler-php	2020-02-03 16:02:50 HKT+0800	PHP	None	2	None	0
 2019-nCov 疫情信息聚合	https://github.com/hans362/2019-nCov-Epidemic	2020-02-03 15:51:30 HKT+0800	PHP	None	0	None	0
 #武汉加油 #wuhan-support 我们关注的是你所关注的：面向疫区内外民众和医疗机构的多维度信息整合平台	https://github.com/wuhan-support/wuhan.support	2020-02-03 14:46:30 HKT+0800	Python	GPL-3.0 license	114	wuhan-support, ncov, wuhan-pneumonia	0
-疫情统计-主仓库	https://github.com/numb-men/InfectStatistic-main	2020-02-03 14:36:48 HKT+0800	Java	None	1	None	0
+疫情统计-主仓库	https://github.com/numb-men/InfectStatistic-main	2020-02-03 14:36:48 HKT+0800	Java	None	4	None	0
 nCov疫情大数据分析与预警平台	https://github.com/TIT-Lab/coronavirus-map	2020-02-03 13:56:50 HKT+0800	Vue	None	5	None	0
 这是一个模仿微博发布疫情信息的项目。希望疫情早日消除，国家安泰。	https://github.com/MSFee/outbreak	2020-02-03 13:22:59 HKT+0800	Vue	None	0	None	0
 中国新冠肺炎 2019-nCoV 爆发最新疫情情况（API + 前端）	https://github.com/dxsooo/nCoVOutBreak	2020-02-03 13:07:12 HKT+0800	Python	None	2	None	0
 nCoV-2019 疫情数据显示 - AndroLua 实现	https://github.com/imgradeone/nCoV-2019-DataShow-for-AndroLua	2020-02-03 11:38:04 HKT+0800	Lua	MIT license	1	None	0
 传染类疫情大数据监控防治决策平台框架	https://github.com/ttaigithub/nCoV-track	2020-02-03 11:21:30 HKT+0800	Vue	None	3	None	0
 武汉同济医院互助金申请系统	https://github.com/huJingYang2017/mutualAidMoney	2020-02-03 11:14:07 HKT+0800	JavaScript	None	0	None	0
-全国及各省新型肺炎疫情情况图	https://github.com/hack-fang/nCov	2020-02-03 11:07:11 HKT+0800	CSS	None	45	None	0
 武汉新型冠状病毒防疫信息收集平台后端代理	https://github.com/wuhan2020/api-server	2020-02-03 10:34:45 HKT+0800	Python	MIT license	102	None	0
 武汉疫情地图	https://github.com/A-Yifeng/wuhan-coronavirus	2020-02-03 10:02:07 HKT+0800	JavaScript	None	0	None	0
 武汉新型冠状病毒疫情地图Vue实现	https://github.com/border-1px/2019-nCov	2020-02-03 09:55:51 HKT+0800	Vue	None	18	None	0
@@ -95,7 +101,6 @@ nCoV-2019 疫情数据显示 - AndroLua 实现	https://github.com/imgradeone/nCo
 一个轻量化基于命令行的新型冠状病毒疫情数据获取，使用Python编写	https://github.com/Lang-Zhou/2019-nCov-Command-Line-Tool	2020-02-02 22:52:48 HKT+0800	Python	MIT license	1	None	0
 武汉新型冠状病毒肺炎疫情信息查询	https://github.com/tfcx-th/wuhan-2019nCoV-info	2020-02-02 22:49:10 HKT+0800	JavaScript	None	0	None	0
 武汉2019新型冠状病毒疫情可视化(全国疫情地图及时间轴变化)	https://github.com/FelixZFB/wuhan_2019-nCoV	2020-02-02 22:41:49 HKT+0800	Python	None	8	None	0
-记录与2020爆发的武汉新型冠状病毒相关的内容,对比其与SARS的发展阶段。	https://github.com/nnikniL/2019-nCoV_Notes	2020-02-02 22:01:51 HKT+0800	None	None	2	sars, wuhan, 2019-ncov, coronavirus	0
 对多个表格文件的相同位置的提取，并将提取内容汇总到指定文件输出。（ 鼠年假期，肺炎疫情泛滥，学习Python ）	https://github.com/gzgy-leoyang/fetch_excel	2020-02-02 21:39:50 HKT+0800	Python	None	0	None	0
 #武汉加油 #wuhan-support 历史数据集与数据自动获取	https://github.com/wuhan-support/dataset	2020-02-02 21:23:26 HKT+0800	Python	GPL-3.0 license	12	ncov, wuhan-pneumonia, wuhan-support	0
 如何看待央视直播武汉红十字会仓库情况，后被保安中断阻拦进场？	https://github.com/symphony2014/-	2020-02-02 20:35:00 HKT+0800	None	None	0	None	0
@@ -117,9 +122,7 @@ PC端wuhan2020在手机端显示效果不太好，做一版小程序用在移动
 利用chartjs，将最新的冠状病毒疫情数据以图表的方式显示出来。数据来自丁香园疫情地图。	https://github.com/1446445040/AreaStat	2020-02-02 13:39:33 HKT+0800	Vue	None	1	nodejs, chartjs, data-visualization, jsdom, vue-chartjs	0
 2020年武汉肺炎疫情情况数据展示Demo	https://github.com/Object822/epidemicSituation-Demo	2020-02-02 13:18:42 HKT+0800	JavaScript	None	1	None	0
 酷Q机器人插件---疫情查询	https://github.com/zhaoguoqingit/2019-nCoV	2020-02-02 12:32:17 HKT+0800	C++	None	2	qq	0
-武汉新型冠状病毒防疫信息收集平台	https://github.com/wuhan2020/wuhan2020	2020-02-02 12:05:26 HKT+0800	None	None	4.5k	None	2
 【燃灯计划】是在武汉新冠肺炎爆发后，由互联网和知名创业家马力、谈毅等民间志愿者自愿发起的公益信息匹配社区平台，通过登记医院的求助信息和网友及爱心企业的捐助意愿，为有物资需要的医疗机构和有捐赠意愿的公益人士之间搭建起了信息的桥梁，帮助湖北省除	https://github.com/xpf1003/eep-plan	2020-02-02 09:28:26 HKT+0800	JavaScript	None	None	None	0
-武汉新型冠状病毒，肺炎疫情实时省市地图	https://github.com/shfshanyue/2019-ncov	2020-02-02 09:21:18 HKT+0800	JavaScript	None	154	None	0
 2020年武汉新型冠状病毒疫情暴露了很多问题，迫切需要利用数字化技术手段建设一个疫情信息/资源统筹/舆情处理平台。 In 2020, the new coronavirus epidemic in Wuhan exposed many…	https://github.com/Jonasonw/WuhanWin	2020-02-02 09:17:29 HKT+0800	None	None	3	None	0
 🚑 适用于 Linux | 树莓派 | 武汉肺炎疫情控制台实时刷新 | 基于Java（爬自丁香园）	https://github.com/AdlerED/live-feiyan	2020-02-02 02:01:44 HKT+0800	Java	None	3	None	0
 自动教务系统武汉疫情信息打卡	https://github.com/handsomeWeiye/AutoPunch	2020-02-02 00:41:15 HKT+0800	Python	None	None	None	0
