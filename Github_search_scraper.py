@@ -47,16 +47,17 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                 # convert date to local timezone and format it to easy-reading string
                 date = date.astimezone(tz=None).strftime('%Y-%m-%d %H:%M:%S %Z%z')
 
-                try:
-                    description = item.find('p').text.strip()
-                except Exception as error:
-                    description = 'None'
-                if isInBlacklist(description) == True:
-                    continue
-
                 link_list = item.find_all('a')
                 url_raw = link_list[0]
                 url = [url for url in str(url_raw).split('"') if 'http' in url][0]
+
+                try:
+                    description = item.find('p').text.strip()
+                except Exception as error:
+                    # use project name as description instead
+                    description = url.split('/')[-1]
+                if isInBlacklist(description) == True:
+                    continue
 
                 extra_info_list = item.find(class_='text-small').find_all('div')
 
