@@ -145,11 +145,8 @@ if __name__ == '__main__':
     saved_project_list = []
     saved_address_list = []
     with open('Wuhan_nCoV_Github_Project_list.csv') as file:
-        IS_HEADER = True
+        file.readline() # omit header
         for row in file:
-            if IS_HEADER:
-                IS_HEADER = False
-                continue
             row_split = row.strip().split('\t')
             if not inBlacklist(row_split[0]):
                 saved_project_list.append(row_split)
