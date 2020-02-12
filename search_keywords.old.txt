@@ -3,3 +3,4 @@
 wuhan
 nCoV
 Coronavirus
+COVID

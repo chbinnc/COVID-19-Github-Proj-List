@@ -17,14 +17,19 @@ def waitOneMinute():
 
 def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=False):
     OLDEST_DATE = datetime(2020, 1, 20).replace(tzinfo=timezone.utc)
+    page_sum = 0 # use page_sum for deciding when to wait one minute between keywords
     for search_keyword in search_keywords:
         NO_OLDER_PROJECT = False
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
-            if page % 8 == 0:
-                waitOneMinute()
             if NO_OLDER_PROJECT:
                 break
+            if page % 8 == 0:
+                page_sum = 0
+                waitOneMinute()
+            elif page + page_sum == 8:
+                page_sum = 0
+                waitOneMinute()
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
             response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
                     format(page, search_keyword))
@@ -61,7 +66,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                     description = url.split('/')[-1]
                 if inBlacklist(description):
                     continue
-                # extra_info_list is dynamic, include 0+ items from language, star count, license, issues need help, topic list and possibly others.
+                # extra_info_list is dynamic, includes 0+ items from language, star count, license, issues need help, topic list and possibly others.
                 extra_info_list = item.find(class_='text-small').find_all('div')
 
                 try:
@@ -111,8 +116,10 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                     saved_address_list.append(url)
                     saved_project_list.append([description, url, date, language, \
                             license, star_count, topic_list, issues_need_help])
-        # wait one minute except after searching the last keyword
-        if search_keywords.index(search_keyword) != len(search_keywords) - 1:
+        # wait one minute after searching 8 keywords and page_sum exceeds 8
+        page_sum += page - 1
+        if page_sum == 8:
+            page_sum = 0
             waitOneMinute()
 
     return saved_project_list, saved_address_list
