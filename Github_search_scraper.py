@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timezone
 import os, inspect
 
-def isInBlacklist(description):
+def inBlacklist(description):
     for keyword in keyword_blacklist:
         if keyword in description:
             #print("{} is not a related project.".format(description)) ##test
@@ -15,7 +15,7 @@ def waitOneMinute():
     print('Wait one minute as Github only allows scrap about 10 pages at a time.')
     time.sleep(60)
 
-def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
+def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=False):
     OLDEST_DATE = datetime(2020, 1, 20).replace(tzinfo=timezone.utc)
     for search_keyword in search_keywords:
         NO_OLDER_PROJECT = False
@@ -23,7 +23,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
         for page in range(1, 200):
             if page % 8 == 0:
                 waitOneMinute()
-            if NO_OLDER_PROJECT == True:
+            if NO_OLDER_PROJECT:
                 break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
             response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
@@ -37,7 +37,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                 date = item.find('relative-time').get('datetime')
                 date = datetime.fromisoformat(date[0:-1]).replace(tzinfo=timezone.utc)
                 # for old keywords, only scrap new and updated project.
-                if NEW == False:
+                if not NEW_KEYWORD:
                     if date < last_updated_date:
                         print("No older project before {}, done!".format(last_updated_date_raw))
                         NO_OLDER_PROJECT = True
@@ -59,9 +59,9 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW=False):
                 except Exception as error:
                     # use project name as description instead
                     description = url.split('/')[-1]
-                if isInBlacklist(description) == True:
+                if inBlacklist(description):
                     continue
-
+                # extra_info_list is dynamic, include 0+ items from language, star count, license, issues need help, topic list and possibly others.
                 extra_info_list = item.find(class_='text-small').find_all('div')
 
                 try:
@@ -144,12 +144,12 @@ if __name__ == '__main__':
                 IS_HEADER = False
                 continue
             row_split = row.strip().split('\t')
-            if not isInBlacklist(row_split[0]):
+            if not inBlacklist(row_split[0]):
                 saved_project_list.append(row_split)
                 saved_address_list.append(row_split[1]) # use address for checking duplicate project
     # search with keyword in search_keywords.txt
     saved_project_list, saved_address_list = main(\
-            search_keywords, saved_project_list, saved_address_list, NEW=True)
+            search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=True)
 
     if search_keywords != []:
         waitOneMinute()
