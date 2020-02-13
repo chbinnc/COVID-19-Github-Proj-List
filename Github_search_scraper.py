@@ -22,14 +22,14 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
         NO_OLDER_PROJECT = False
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
-            if NO_OLDER_PROJECT:
-                break
             if page % 8 == 0:
                 page_sum = 0
                 waitOneMinute()
             elif page + page_sum == 8:
                 page_sum = 0
                 waitOneMinute()
+            if NO_OLDER_PROJECT:
+                break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
             response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
                     format(page, search_keyword))
@@ -37,6 +37,9 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
             soup = BeautifulSoup(doc, 'html.parser')
 
             list_raw = soup.find('ul', class_='repo-list').find_all('li')
+
+            if len(list_raw) == 0:
+                NO_OLDER_PROJECT = True
 
             for item in list_raw:
                 date = item.find('relative-time').get('datetime')
