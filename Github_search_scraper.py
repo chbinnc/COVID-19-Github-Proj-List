@@ -56,7 +56,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                     NO_OLDER_PROJECT = True
                     break
                 # convert date to local timezone and format it to easy-reading string
-                date = date.astimezone(tz=None).strftime('%Y-%m-%d %H:%M:%S %Z%z')
+                date = date.astimezone(tz=None).strftime('%Y-%m-%d %H:%M:%S %z')
 
                 link_list = item.find_all('a')
                 url_raw = link_list[0]
@@ -143,7 +143,7 @@ if __name__ == '__main__':
         print('Keyword blacklist: {}'.format(keyword_blacklist))
     with open('last_updated_date.txt') as file:
         last_updated_date_raw = file.read().strip()
-        last_updated_date = datetime.strptime(last_updated_date_raw, '%Y-%m-%d %H:%M:%S %Z%z')
+        last_updated_date = datetime.strptime(last_updated_date_raw, '%Y-%m-%d %H:%M:%S %z')
 
     saved_project_list = []
     saved_address_list = []
