@@ -5,3 +5,4 @@ nCoV
 Coronavirus
 COVID
 VirusBroadcast
+肺炎
