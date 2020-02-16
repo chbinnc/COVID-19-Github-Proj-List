@@ -11,20 +11,12 @@ def inBlacklist(description):
             return True
     return False
 
-def waitOneMinute():
-    print('Wait one minute as Github only allows scrap about 10 pages at a time.')
-    time.sleep(60)
-
 def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=False):
     OLDEST_DATE = datetime(2020, 1, 20).replace(tzinfo=timezone.utc)
-    page_sum = 0 # use page_sum for deciding when to wait one minute between keywords
     for search_keyword in search_keywords:
         NO_OLDER_PROJECT = False
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
-            if page + page_sum % 8 == 0:
-                page_sum = 0
-                waitOneMinute()
             if NO_OLDER_PROJECT:
                 break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
@@ -121,8 +113,6 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                     saved_address_list.append(url)
                     saved_project_list.append([description, url, date, language, \
                             license, star_count, topic_list, issues_need_help])
-        # wait one minute after searching 8 keywords and page_sum exceeds 8
-        page_sum += page - 1
 
     return saved_project_list, saved_address_list
 
