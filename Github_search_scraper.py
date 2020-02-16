@@ -22,10 +22,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
         NO_OLDER_PROJECT = False
         print('Searching with keyword: {}'.format(search_keyword))
         for page in range(1, 200):
-            if page % 8 == 0:
-                page_sum = 0
-                waitOneMinute()
-            elif page + page_sum == 8:
+            if page + page_sum % 8 == 0:
                 page_sum = 0
                 waitOneMinute()
             if NO_OLDER_PROJECT:
@@ -127,9 +124,6 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                             license, star_count, topic_list, issues_need_help])
         # wait one minute after searching 8 keywords and page_sum exceeds 8
         page_sum += page - 1
-        if page_sum == 8:
-            page_sum = 0
-            waitOneMinute()
 
     return saved_project_list, saved_address_list
 
