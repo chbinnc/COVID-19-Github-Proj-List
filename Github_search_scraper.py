@@ -38,7 +38,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
             for item in list_raw:
                 date = item.find('relative-time').get('datetime')
                 date = datetime.fromisoformat(date[0:-1]).replace(tzinfo=timezone.utc)
-                # for old keywords, only scrap new and updated project.
+                # for saved keywords, only scrap new and updated project.
                 if not NEW_KEYWORD:
                     if date < last_updated_date:
                         print("No older project before {}, done!".format(last_updated_date_raw))
@@ -120,9 +120,9 @@ if __name__ == '__main__':
     # Set working directory
     getdir = os.path.dirname(os.path.abspath(inspect.stack()[0][1]))  # http://stackoverflow.com/questions/918154/relative-paths-in-python
     os.chdir(getdir)
-    with open('search_keywords.old.txt') as file:
-        old_search_keywords = file.read().split('\n')
-        old_search_keywords = list(filter(lambda a: a != '', old_search_keywords))
+    with open('search_keywords.saved.txt') as file:
+        saved_search_keywords = file.read().split('\n')
+        saved_search_keywords = list(filter(lambda a: a != '', saved_search_keywords))
     with open('search_keywords.txt') as file:
         search_keywords = file.read().split('\n')
         search_keywords = list(filter(lambda a: a != '', search_keywords))
@@ -149,14 +149,12 @@ if __name__ == '__main__':
 
     if search_keywords != []:
         waitOneMinute()
-    # search with keyword in search_keywords.old.txt
+    # search with keyword in search_keywords.saved.txt
     saved_project_list, saved_address_list = main(\
-            old_search_keywords, saved_project_list, saved_address_list)
+            saved_search_keywords, saved_project_list, saved_address_list)
 
     saved_project_list = sorted(saved_project_list, key=lambda entry: entry[2])[::-1] # sorted by date
 
-    if os.path.isfile('Wuhan_nCoV_Github_Project_list.csv'):
-        os.rename('Wuhan_nCoV_Github_Project_list.csv', 'Wuhan_nCoV_Github_Project_list.old.csv')
     with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
         file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
                 'Description', 'Address', 'Last Update', 'Language', \
@@ -171,10 +169,10 @@ if __name__ == '__main__':
     with open('last_updated_date.txt', 'w') as file:
         file.write(last_updated_date)
 
-    old_search_keywords += search_keywords
-    # Move search keywords to search_keywords.old.txt
-    with open('search_keywords.old.txt', 'w') as file:
-        for i in old_search_keywords:
+    saved_search_keywords += search_keywords
+    # Move search keywords to search_keywords.saved.txt
+    with open('search_keywords.saved.txt', 'w') as file:
+        for i in saved_search_keywords:
             file.write('{}\n'.format(i))
     with open('search_keywords.txt', 'w') as file:
         file.write('')
