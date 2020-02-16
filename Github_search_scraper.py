@@ -28,18 +28,17 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
             if NO_OLDER_PROJECT:
                 break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
-            for i in range(5):
+            for i in range(10):
                 try:
                     response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
                             format(page, search_keyword), timeout=10.0)
+                    doc = response.text
+                    soup = BeautifulSoup(doc, 'html.parser')
+                    list_raw = soup.find('ul', class_='repo-list').find_all('li')
                     break
                 except Exception as err:
                     print('Error: {}, sleep 10 sec.'.format(err))
                     time.sleep(10)
-            doc = response.text
-            soup = BeautifulSoup(doc, 'html.parser')
-
-            list_raw = soup.find('ul', class_='repo-list').find_all('li')
 
             if len(list_raw) == 0:
                 NO_OLDER_PROJECT = True
