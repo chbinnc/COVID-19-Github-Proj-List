@@ -31,8 +31,14 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
             if NO_OLDER_PROJECT:
                 break
             print('Page: {}, saved projects: {}'.format(page, len(saved_project_list))) ##test
-            response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
-                    format(page, search_keyword))
+            for i in range(5):
+                try:
+                    response = requests.get("https://github.com/search?o=desc&p={}&q={}&s=updated&type=Repositories".\
+                            format(page, search_keyword), timeout=10.0)
+                    break
+                except Exception as err:
+                    print('Error: {}, sleep 10 sec.'.format(err))
+                    time.sleep(10)
             doc = response.text
             soup = BeautifulSoup(doc, 'html.parser')
 
