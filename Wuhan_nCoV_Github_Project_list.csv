@@ -1,152 +1,391 @@
 Description	Address	Last Update	Language	License	Star	Topics	Issues Need Help
-2019武漢肺炎-口罩即時庫存	https://github.com/peter0530/maskdata-backup	2020-02-29 11:39:46 +0800	None	None	4	None	0
+2019武漢肺炎-口罩即時庫存	https://github.com/peter0530/maskdata-backup	2020-03-01 12:00:47 +0800	None	None	4	None	0
+新型冠状病毒肺炎疫情统计数据	https://github.com/nks5117/ncp-data	2020-03-01 12:00:39 +0800	None	None	1	None	0
+Analysis of Coronavirus outbreak genomic data with Pharo	https://github.com/hernanmd/COVID-2019	2020-03-01 11:58:48 +0800	Smalltalk	None	1	bioinformatics, smalltalk, coronavirus, ncov-2019	0
+武汉肺炎时间线	https://github.com/vincilau/Timeline	2020-03-01 11:58:08 +0800	None	None	0	None	0
+ncov web	https://github.com/pzhaonet/ncov	2020-03-01 11:56:39 +0800	HTML	MIT license	10	None	0
+covid-19-hackathon	https://github.com/aiformankind/covid-19-hackathon	2020-03-01 11:56:38 +0800	None	None	0	None	0
+ncovlog	https://github.com/x9mdwe5q/ncovlog	2020-03-01 11:56:03 +0800	None	None	1	None	0
+疫情阶段闲来无事，捣鼓了一个周末，用python制作了一个雷霆战机的小游戏，查阅了很多博客的知识，也看过相关的一些视频，代码bug，可惜我改不动了	https://github.com/dengmouren666/python-game	2020-03-01 11:55:35 +0800	None	None	0	None	0
+Live Corona Detector	https://github.com/LiveCoronaDetector/livecod	2020-03-01 11:54:53 +0800	CSS	MIT license	7	coronavirus, coronavirus-tracking	0
+covid19	https://github.com/tokyo-metropolitan-gov/covid19	2020-03-01 11:53:52 +0800	Vue	MIT license	4	None	0
+covid-19	https://github.com/aiformankind/covid-19	2020-03-01 11:51:56 +0800	None	None	1	None	0
+COVID-19	https://github.com/pkuvis/COVID-19	2020-03-01 11:51:34 +0800	Python	None	1	None	0
+2019-nCoV development visualization.	https://github.com/Arcticmarmot/nCoV	2020-03-01 11:51:31 +0800	TypeScript	None	0	None	0
+All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.	https://github.com/iceweasel1/COVID-19-Germany	2020-03-01 11:51:05 +0800	None	None	0	None	0
+data from multiple sources	https://github.com/nyem69/coronavirus_data	2020-03-01 11:49:37 +0800	None	MIT license	1	coronavirus	0
+Coronavirus-io	https://github.com/KabirKwatra/Coronavirus-io	2020-03-01 11:48:43 +0800	None	None	0	None	0
+Just wanted to look at the data here: https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWE…	https://github.com/ryankanno/py-datasette-ncovid	2020-03-01 11:46:37 +0800	Shell	None	0	None	0
+疫情数据平台	https://github.com/huang1214/virusData	2020-03-01 11:45:01 +0800	JavaScript	None	0	None	0
+Draw-a-coronavirus	https://github.com/printfMiaZhang/Draw-a-coronavirus	2020-03-01 11:41:33 +0800	Python	None	0	None	0
+疫情期间在家写的爬取B站每小时排名前50的番剧数据。	https://github.com/zm52hz/bilibili_top_count	2020-03-01 11:40:53 +0800	Java	None	0	None	0
+開發中!	https://github.com/andy6804tw/2019-nCoV	2020-03-01 11:39:50 +0800	HTML	None	0	None	0
+WuHan2020	https://github.com/ShellAlbert/WuHan2020	2020-03-01 11:37:32 +0800	C++	GPL-3.0 license	0	None	0
+Use Google Maps Timeline data	https://github.com/yjlou/2019-nCov	2020-03-01 11:37:23 +0800	JavaScript	GPL-3.0 license	3	None	0
+An EXCEL(xlsx) file of 2019-nCoV statistical data	https://github.com/Permsun/2019-nCoV-data	2020-03-01 11:35:18 +0800	None	None	0	None	0
+Tracker for Covid-19	https://github.com/Draym/Covid19Tracker	2020-03-01 11:31:54 +0800	Java	None	0	None	0
+ncov2019_api	https://github.com/lietxia/ncov2019_api	2020-03-01 11:31:17 +0800	PHP	None	2	None	0
+Analysis of Johns Hopkins Coronavirus Dataset	https://github.com/IshmaelObeso/Coronavirus-Data-Analysis	2020-03-01 11:30:39 +0800	Jupyter Notebook	None	0	None	0
+View the diff of CDC's COVID-19 updates	https://github.com/TheSavior/covid19-changes	2020-03-01 11:27:58 +0800	JavaScript	None	0	None	0
+智慧防疫开发	https://github.com/hfepay/epidemic_prevention	2020-03-01 11:27:06 +0800	Vue	None	0	None	0
+本项目是使用diseasedataarrange程序，针对DXY-COVID-19-Data的最新DXYArea.csv文件，自动生成整理后的字典JSON格式文件数据。	https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-DJSON	2020-03-01 11:26:37 +0800	None	None	0	json, 2019-ncov, covid-19	0
+本项目是使用diseasedataarrange程序，针对DXY-COVID-19-Data的最新DXYArea.csv文件，自动生成整理后的数组JSON格式文件数据。	https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-AJSON	2020-03-01 11:26:28 +0800	None	None	0	arrange, 2019-ncov, covid-19	0
+本项目是使用diseasedataarrange程序，针对DXY-COVID-19-Data的最新DXYArea.csv文件，自动生成整理后的CSV格式文件数据	https://github.com/zyq5945/DXY-COVID-19-Data-Arrange-CSV	2020-03-01 11:26:19 +0800	None	None	0	arrange, 2019-ncov, covid-19	0
+🦠 Interactive dashboard of COVID-19 cases in Japan	https://github.com/swsoyee/2019-ncov-japan	2020-03-01 11:25:51 +0800	R	MIT license	53	japan, r, shiny-apps, interactive-visualizations, 2019-ncov, 2019ncov, covid-19	0
+A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic	https://github.com/onlyphantom/coronavirus	2020-03-01 11:25:40 +0800	R	None	1	None	0
+2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse	https://github.com/BlankerL/DXY-COVID-19-Data	2020-03-01 11:21:49 +0800	Python	None	889	data-warehouse, 2019-ncov	1
+COVID-19 Chronicle	https://github.com/chronicle2020/chronicle2020.github.io	2020-03-01 11:16:23 +0800	Ruby	GPL-3.0 license	0	None	0
+Noval Coronavirus Infection Map	https://github.com/jakobzhao/virus	2020-03-01 11:13:46 +0800	HTML	None	12	None	0
+Another 2019-nCoV stats gathering and visualization project	https://github.com/zmwangx/ncov	2020-03-01 11:13:38 +0800	Python	MIT license	2	None	0
+Automatically track news on coronavirus (cov-19)	https://github.com/alext234/coronavirus-news	2020-03-01 11:12:41 +0800	Jupyter Notebook	Apache-2.0 license	1	bot, jupyter-notebook, github-actions, coronavirus, coronavirus-info, wuhan-virus, cov-19, gogole-news	0
+Automatically scrape data and statistics on Coronavirus to make them easily accessible	https://github.com/alext234/coronavirus-stats	2020-03-01 11:09:22 +0800	Jupyter Notebook	Apache-2.0 license	10	pipeline, coronavirus, singapore, china, health, stats, data-science, data-mining, jupyter-notebook, australia, wuhan, wuhan-virus, scraping-data, covid-19	0
+Python scripts to have a quicklook of the statistics of the 2019-nCov patients (Updated every 6 hour)	https://github.com/ZPYin/COVID-19_Visualizer	2020-03-01 11:08:47 +0800	Jupyter Notebook	MIT license	0	None	0
+2019武汉新型冠状病毒疫情状态图	https://github.com/ecator/2019-ncov-statusbar	2020-03-01 11:08:33 +0800	Python	MIT license	0	None	0
+ncov-map	https://github.com/yuqianma/ncov-map	2020-03-01 11:06:36 +0800	JavaScript	None	0	None	0
+coronavirus	https://github.com/insideout/coronavirus	2020-03-01 11:04:12 +0800	HTML	None	0	None	0
+SampleDataExtraction	https://github.com/perell2014/data_2019ncov	2020-03-01 11:02:53 +0800	HTML	None	0	None	0
+Wuhan2020 Community Website	https://github.com/wuhan2020/wuhan2020.github.io	2020-03-01 11:01:41 +0800	JavaScript	MIT license	65	None	1
+Open source version of the COVID-19 global cases website by Johns Hopkins CSSE	https://github.com/HuidaeCho/covid-19	2020-03-01 11:00:14 +0800	HTML	AGPL-3.0 license	1	python, openlayers, python3, openlayers6, 2019-ncov, coronavirus, coronavirus-tracking, 2019-ncov-data-vis, coronavirus-tracker, covid-19	0
+2019-nCoV	https://github.com/kiang/2019-nCoV	2020-03-01 11:00:13 +0800	JavaScript	MIT license	7	None	0
+2019-nCoV data	https://github.com/crawlerclub/dxy2019nCoV	2020-03-01 11:00:11 +0800	HTML	None	3	None	0
+2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）	https://github.com/canghailan/Wuhan-2019-nCoV	2020-03-01 10:57:21 +0800	Jupyter Notebook	MIT license	123	wuhan, dataset, 2019-ncov, ncov	0
+A simple map chart for coronavirus cases and deaths.	https://github.com/ergoproxyDNS/coronavirus-live-map	2020-03-01 10:50:37 +0800	HTML	None	5	None	0
+coronavirus-tracker	https://github.com/mibihi/coronavirus-tracker	2020-03-01 10:46:51 +0800	Java	None	0	None	0
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid	https://github.com/RoynniZambrano/coronavirus-tracker	2020-03-01 10:46:41 +0800	Java	None	0	None	0
+an interactive, animated COVID-19 coronavirus map	https://github.com/stevenliuyi/covid19	2020-03-01 10:37:05 +0800	JavaScript	MIT license	9	2019-ncov, coronavirus, covid-19	0
+Mini project to ingest WHO situational reports into Elasticsearch and Kibana using Python.	https://github.com/ranamobile/covid-19	2020-03-01 10:36:01 +0800	HTML	None	0	None	0
+实时疫情查看	https://github.com/skydoor-evilspirit/Real-time-epidemic	2020-03-01 10:34:25 +0800	None	None	0	None	0
+코로나 확진자 수/정보 크롤링	https://github.com/LiveCoronaDetector/CoronaCrawler	2020-03-01 10:32:15 +0800	Python	None	3	kcdc, crawler, crawling-python, coronavirus	0
+CoronaVirus 101	https://github.com/major1xu/CoronaVirus	2020-03-01 10:23:26 +0800	None	GPL-3.0 license	0	None	0
+疫情一体化PC	https://github.com/Wang-sp/yqythPC	2020-03-01 10:21:58 +0800	Vue	None	0	None	0
+新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。	https://github.com/kaz-ogiwara/covid19	2020-03-01 10:19:29 +0800	JavaScript	MIT license	475	None	0
+Trending and map charts for COVID-19	https://github.com/ohdarling/COVID-19-Charts	2020-03-01 10:18:49 +0800	HTML	None	27	None	0
+2019新冠肺炎疫情染病人数预测，用SIR模型。	https://github.com/zwdnet/2019-nCov-SIRmodel	2020-03-01 10:05:08 +0800	Python	None	31	None	0
+covid-19-dxy-fetcher	https://github.com/Rafiot/covid-19-dxy-fetcher	2020-03-01 10:04:04 +0800	HTML	None	0	None	0
+COVID-19-nc_file	https://github.com/chuan-khuna/COVID-19-nc_file	2020-03-01 09:55:22 +0800	Jupyter Notebook	None	0	None	0
+quantos corona no brasil	https://github.com/GSimas/Coronabrasil	2020-03-01 09:49:29 +0800	JavaScript	None	0	virus, brazil, health, corona, brasil, oms, who, covid, covid19	0
+Yet Another COronavirus Tracker	https://github.com/matthieuaudemard/yacot	2020-03-01 09:48:28 +0800	Java	None	0	None	0
+vue-coronavirus	https://github.com/axmand/vue-coronavirus	2020-03-01 09:33:10 +0800	Vue	None	0	None	0
+COVID-19_seguimiento	https://github.com/cambrian-intelligence/COVID-19_seguimiento	2020-03-01 09:30:35 +0800	Jupyter Notebook	Apache-2.0 license	0	None	0
+novel coronavirus (nCOV, cov-2, COVID) papers collected and organized	https://github.com/heykeetae/CoronaVirusPapers	2020-03-01 09:24:45 +0800	None	None	2	None	0
+ncov19	https://github.com/smtexas99/ncov19	2020-03-01 09:20:21 +0800	Jupyter Notebook	None	0	None	0
+COVID-2019 API | CoronaVirus 2019 Global Cases	https://github.com/nat236919/Covid2019API	2020-03-01 09:17:12 +0800	Python	MIT license	21	None	0
+wuhancorona	https://github.com/IceCream0910/wuhancorona	2020-03-01 09:10:26 +0800	JavaScript	None	0	None	0
+draw_ncov_map	https://github.com/listenzcc/draw_ncov_map	2020-03-01 09:07:16 +0800	HTML	None	0	None	0
+The Coronavirus Dashboard	https://github.com/RamiKrispin/coronavirus_dashboard	2020-03-01 09:02:35 +0800	None	None	1	None	0
+CSV format for the coronavirus R package dataset	https://github.com/RamiKrispin/coronavirus-csv	2020-03-01 09:01:38 +0800	None	None	5	None	0
+The coronavirus dataset	https://github.com/RamiKrispin/coronavirus	2020-03-01 09:01:17 +0800	R	None	35	None	0
+writing	https://github.com/larynx95/wuhan_korea	2020-03-01 09:00:09 +0800	None	None	0	None	0
+COVID19	https://github.com/Haedong-Jeon/COVID19	2020-03-01 08:57:29 +0800	Swift	None	0	None	0
+Covid-worldmap-app	https://github.com/jasonjin34/Covid-worldmap-app	2020-03-01 08:55:43 +0800	Python	None	0	None	0
+全国新型冠状肺炎疫情每日数据动态	https://github.com/JackieZheng/2019-nCoV	2020-03-01 08:54:52 +0800	HTML	Apache-2.0 license	32	None	0
+Map visualization for the COVID-19 cases throughout the world	https://github.com/jonasmrfranca/COVID-19	2020-03-01 08:54:39 +0800	HTML	None	0	None	0
+Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE	https://github.com/CSSEGISandData/COVID-19	2020-03-01 08:53:06 +0800	None	None	2k	engineering, systems-science, johns-hopkins-university, jhu, csse, 2019-ncov, coronavirus, covid-19	0
+Tracker of COVID-19 risk across Lebanese communities	https://github.com/bmak91/cme-covid19-tracker	2020-03-01 08:49:51 +0800	TypeScript	None	0	None	0
+covid-19	https://github.com/shihjyun/covid-19	2020-03-01 08:49:21 +0800	R	None	0	None	0
+Minimal COVID-19 (novel coronavirus) dashboard built using RMarkdown and flexdashboard	https://github.com/martinctc/COVID-19-R	2020-03-01 08:49:21 +0800	HTML	GPL-3.0 license	0	None	0
+Situation of COVID-19 in Hong Kong	https://github.com/terenceltl/hkcovid19	2020-03-01 08:47:31 +0800	HTML	None	0	None	0
+2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Co…	https://github.com/2019ncovmemory/nCovMemory	2020-03-01 08:46:07 +0800	JavaScript	None	6.9k	wuhan, ncov, coronavirus, ncov-2019, covid-19	0
+ncov-report	https://github.com/Nihileon/ncov-report	2020-03-01 08:46:07 +0800	TypeScript	None	0	None	0
+CoronaVirusBOT	https://github.com/CoronaVirusBOT/CoronaVirusBOT	2020-03-01 08:43:18 +0800	Java	GPL-3.0 license	0	None	0
+2019 Wuhan Coronavirus data (2019-nCoV)	https://github.com/globalcitizen/2019-wuhan-coronavirus-data	2020-03-01 08:30:43 +0800	PHP	GPL-3.0 license	469	coronavirus, wuhan, opendata, viruses, virology, pandemic, pathogens, 2019-ncov, 2019ncov, epedemiology, epedemic	2
+Covid-19 (Corona virus) tracker app	https://github.com/shayant98/covid19Tracker	2020-03-01 08:20:43 +0800	HTML	None	0	None	0
+COVID-2019	https://github.com/He--He/COVID-2019	2020-03-01 08:13:56 +0800	TypeScript	MIT license	0	None	0
+A collection of Open Source projects for supporting Wuhan during COVID-19	https://github.com/WeileiZeng/OpenSourceWuhan	2020-03-01 08:13:21 +0800	Ruby	GPL-3.0 license	34	open-source, world, japan, china, korea, iran, italy, wuhan, 2019-ncov, coronavirus, covid-19, sars-cov-2	0
+2019-nCoV 新冠状病毒 2019-12-01至今市级每日累计数据，geojson格式	https://github.com/wjbgis/2019-nCov-geojson-data	2020-03-01 08:09:21 +0800	None	MIT license	1	wuhan, 2019-ncov, covid-2019	0
+Let's get through the Covid-19 coronavirus together!	https://github.com/hopeseekr/covidreporter.news	2020-03-01 08:05:08 +0800	PHP	MIT license	0	None	0
+ncov-zh	https://github.com/fantasticfears-stage/ncov-zh	2020-03-01 08:02:47 +0800	TypeScript	None	0	None	0
+武漢肺炎台灣防疫相關文宣彙整	https://github.com/CA-Lee/2019-nCoV_annos_TW	2020-03-01 08:00:17 +0800	HTML	None	3	None	0
+COVID-19-Dataset	https://github.com/shusinthebox/COVID-19-Dataset	2020-03-01 07:56:11 +0800	JavaScript	None	0	None	0
+Flask Web Application "Coronavirus Latest and Prediction" using Bootstrap and AI	https://github.com/yaiestura/coronavirus_prediction	2020-03-01 07:54:44 +0800	JavaScript	None	0	None	0
+Status of Corona Virus in Japan	https://github.com/tkyodev/elm-coronavirus-japan	2020-03-01 07:53:30 +0800	HTML	None	0	None	0
+coronaVirusStatistic	https://github.com/jedi-tones/coronaVirusStatistic	2020-03-01 07:49:47 +0800	Swift	None	0	None	0
+💉 (In Progress) 2019 Novel Coronavirus Analysis & Visualisations | Python: Flask, Plotly, GCP	https://github.com/rezan21/2019-nCov	2020-03-01 07:49:01 +0800	Jupyter Notebook	MIT license	0	None	0
+CoronavirusStats	https://github.com/Nalhin/CoronavirusStats	2020-03-01 07:48:28 +0800	Vue	MIT license	0	None	0
+Coronavirus	https://github.com/saikatmitra71/Coronavirus	2020-03-01 07:38:29 +0800	R	None	0	None	0
+Explore case numbers and deaths related to Coronavirus outbreak 2019/2020, attempt to fit simple polynomial like curve	https://github.com/fangohr/coronavirus-2020	2020-03-01 07:38:26 +0800	Jupyter Notebook	BSD-3-Clause license	11	None	0
+COVID-19 jupyter dashboard	https://github.com/corona8842/covid19-dashboard	2020-03-01 07:32:49 +0800	None	None	0	None	0
+coronavirus-globe	https://github.com/yuchenliu15/coronavirus-globe	2020-03-01 07:32:20 +0800	JavaScript	None	0	None	0
+COVID-19 projects of ISPM	https://github.com/ISPMBern/covid-19	2020-03-01 07:31:33 +0800	CSS	None	0	None	0
+coronavirus-tracker	https://github.com/nazar-art/coronavirus-tracker	2020-03-01 07:30:40 +0800	Java	None	1	None	0
+Survive the coronavirus AKA COVID-19 AKA Wuhan Flu AKA 2019-nCoV AKA China Flu!	https://github.com/survivechinaflu/survivechinafludotcom	2020-03-01 07:20:16 +0800	None	None	0	None	0
+How many aeroplanes are flying now and create a log	https://github.com/F3RR3T/covid-flights	2020-03-01 07:14:08 +0800	None	MIT license	0	None	0
+COVID-19 tracking website	https://github.com/kvas-it/coronatrack	2020-03-01 07:01:02 +0800	HTML	None	0	None	0
+Novel Coronavirus (n-COVID) Dataset, extracted from the Johns Hopkins University website.	https://github.com/ashwinpn/Coronavirus-Dataset	2020-03-01 07:00:56 +0800	None	CC0-1.0 license	1	data, pathogen, opendata, dataset, creative-commons, corona, virology, pandemic, wuhan, coronavirus, coronavirus-globaloutbreak, novel-coronavirus-2019, covid-19, covid-virus, covid-2019, covid-data, coronavirus-dataset	0
+CoronaVirus-Growth-Analysis	https://github.com/amoghbatwal/CoronaVirus-Growth-Analysis	2020-03-01 06:58:31 +0800	Jupyter Notebook	None	0	None	0
+It's a bot for selling medical supplies against coronavirus	https://github.com/HolidayMan/coronabot	2020-03-01 06:54:30 +0800	Python	None	0	None	0
+covid19-biopython	https://github.com/KennethJHan/covid19-biopython	2020-03-01 06:54:29 +0800	None	None	0	None	0
+Monitoring the Coronavirus disease 2019 spread pace	https://github.com/talkrz/2019ncov	2020-03-01 06:54:03 +0800	JavaScript	None	1	dataset, 2019-ncov, covid-19	0
+2019-Coronavirus Map	https://github.com/genki-cat/2019-Coronavirus	2020-03-01 06:52:41 +0800	Vue	None	1	None	0
+Heatmap representation of COVID-19 on WebGl 3D world map	https://github.com/lazd/covid19heat	2020-03-01 06:52:25 +0800	JavaScript	None	0	None	0
+Novel Corona Virus 2019 Data Analysis & Predictions	https://github.com/LeoArruda/covid-19	2020-03-01 06:50:12 +0800	Jupyter Notebook	GPL-3.0 license	0	None	0
+Coronavirus-Prediction-Tool	https://github.com/BerkayAydin/Coronavirus-Prediction-Tool	2020-03-01 06:46:26 +0800	Jupyter Notebook	MIT license	0	None	0
+coronavirus	https://github.com/conan7072/coronavirus	2020-03-01 06:40:01 +0800	HTML	None	0	None	0
+Server configurations	https://github.com/Coronavirus-Herd-Immunity/covid-19-devops	2020-03-01 06:35:42 +0800	Dockerfile	None	0	None	0
+Data on the 2019 Novel Coronavirus Outbreak (R Package)	https://github.com/eebrown/data2019nCoV	2020-03-01 06:33:55 +0800	R	None	6	data, r, dataset, epidemiology, rpackage, ncov, coronavirus, ncov-2019, covid-19	0
+Novel Coronavirus(2019-nCoV) updates from WHO daily reports	https://github.com/javierluraschi/covid	2020-03-01 06:13:14 +0800	R	MIT license	1	dataset, rstats, corvid, 2019-ncov, coronavirus, corvid-2019	0
+Coronavirus-Tracker-Total	https://github.com/Sergushka/Coronavirus-Tracker-Total	2020-03-01 06:08:28 +0800	Java	None	0	None	0
+COVID19 Italian Dashboard	https://github.com/alessiodl/COVID19Dashboard	2020-03-01 05:57:33 +0800	JavaScript	None	0	None	0
+COVID 2019 in Singapore	https://github.com/wandererwillow/COVID2019	2020-03-01 05:56:20 +0800	Vue	MIT license	0	None	0
+A twitter client to track all things covid related	https://github.com/andrebq/covid-watch	2020-03-01 05:47:51 +0800	Go	MIT license	0	None	0
+2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE	https://github.com/ricnov/COVID-19-ITALY	2020-03-01 05:40:51 +0800	Jupyter Notebook	None	1	None	0
+ncovr	https://github.com/pzhaonet/ncovr	2020-03-01 05:39:45 +0800	R	GPL-3.0 license	25	None	0
+COVID-19's blockchain	https://github.com/mateonunez/blockvid	2020-03-01 05:39:18 +0800	Vue	MIT license	1	None	0
+A project built in Angular 9 and SpringBoot to track CoronaVirus cases by Countries	https://github.com/anuragroy17/covid19-tracker	2020-03-01 05:35:11 +0800	TypeScript	None	0	None	0
+Nextstrain build for novel coronavirus (nCoV)	https://github.com/nextstrain/ncov	2020-03-01 05:26:07 +0800	Python	MIT license	277	None	0
+Simple Python API to turn Civil Protection Department official COVID19 diffusion data in Italy from RSS Feed to JSON	https://github.com/alessiodl/COVID19Feed2Json	2020-03-01 05:17:34 +0800	Python	None	1	None	0
+Coronavirus	https://github.com/Nenino2/Coronavirus	2020-03-01 05:03:57 +0800	Vue	None	0	None	0
+COVID-19	https://github.com/imagine-apps/COVID-19	2020-03-01 05:03:13 +0800	None	MIT license	0	None	0
+ARIMA-based forecasting of confirmed COVID cases for various worldwide country-province combinations for the forthcom…	https://github.com/atecon/covid_19_forecast	2020-03-01 04:47:26 +0800	Shell	None	0	time-series, forecasting, gretl, hansl, covid-19	0
+an web service to monitor the progress of conoronirus at China	https://github.com/XinjieZeng/nCoVFeeder	2020-03-01 04:42:29 +0800	Java	None	0	None	0
+Coronavirus	https://github.com/Privatik/Coronavirus	2020-03-01 04:29:14 +0800	None	None	0	None	0
+covid-19-android	https://github.com/Coronavirus-Herd-Immunity/covid-19-android	2020-03-01 04:28:00 +0800	None	None	0	None	0
+covid19pretriage	https://github.com/drdevinhopkins/covid19pretriage	2020-03-01 04:27:59 +0800	Dart	None	0	None	0
+新春战"疫"网络安全公益赛 2020 Web BabyPHP	https://github.com/ctfhub-team/challenge_gyctf_2020_web_babyphp	2020-03-01 04:27:41 +0800	PHP	None	0	None	0
+An application with information and help for the covid-19	https://github.com/ignacio68/covid19-app	2020-03-01 04:25:14 +0800	TypeScript	None	0	None	0
+Coronavirus	https://github.com/coronaviruswebsite/Coronavirus	2020-03-01 04:21:19 +0800	None	None	0	None	0
+Coronavirus-tracker	https://github.com/kocsisdavid99/Coronavirus-tracker	2020-03-01 04:19:49 +0800	Java	None	0	None	0
+covidwatch	https://github.com/danieluhm2004/covidwatch	2020-03-01 04:18:26 +0800	TypeScript	MIT license	2	None	0
+Coronavirus	https://github.com/zk213/Coronavirus	2020-03-01 04:13:42 +0800	C#	None	0	None	0
+dailycoronabot is a twitter bot that informs the status of the coronavirus in South Korea🦠	https://github.com/jongwooo/dailycoronabot	2020-03-01 04:11:08 +0800	JavaScript	MIT license	0	coronavirus, bot, twitter, twitter-api, github-actions	0
+shiny-server (Apps: Coronavirus, TCGA Genome analyzer, Text miner)	https://github.com/korur/shiny-server	2020-03-01 04:09:09 +0800	R	None	1	None	0
+The aim of the project is to create an AI-powered Smart Cameras that can mitigate the spread of Wuhan Novel Coronavirus.	https://github.com/edab/OpenVINO_SmartCam	2020-03-01 04:01:47 +0800	Python	MIT license	2	None	0
+Predicting-the-Spread-of-COVID-19	https://github.com/gksidhu/Predicting-the-Spread-of-COVID-19	2020-03-01 03:57:12 +0800	Jupyter Notebook	None	0	None	0
+Coronavirus-Deep-Learning-Drug-Discovery	https://github.com/MaximeVandegar/Coronavirus-Deep-Learning-Drug-Discovery	2020-03-01 03:42:36 +0800	Jupyter Notebook	None	0	None	0
+nCov 2019 аналитика	https://github.com/cdies/nCov	2020-03-01 03:39:30 +0800	Jupyter Notebook	None	0	None	0
+Covid-19 outbreak data and analysis	https://github.com/audreyqyfu/covid19	2020-03-01 03:33:24 +0800	R	GPL-3.0 license	1	None	0
+Modelling the disease spread	https://github.com/DmitrySerg/COVID-19	2020-03-01 03:12:35 +0800	None	MIT license	1	None	0
+Coronavirus Deep Learning Competition by Sage Health sage-health.org	https://github.com/rcserban/sagehealth-corona	2020-03-01 03:12:02 +0800	None	Apache-2.0 license	0	None	0
+Open source repository for information and analytics of the coronavirus outbreak	https://github.com/nomadstrategy/covid19	2020-03-01 03:04:19 +0800	None	GPL-3.0 license	0	None	0
+Maintain an easy to digest guide for a possible viral pandemic #coronavirus	https://github.com/nomadstrategy/covid19-prep-guide	2020-03-01 03:02:56 +0800	None	GPL-3.0 license	0	None	0
+#COVID-19 #SARS-CoV-2	https://github.com/Himeyama/SARS-CoV-2	2020-03-01 02:59:08 +0800	JavaScript	MIT license	0	None	0
+Data about COVID-19 pandemic of 2019/2020	https://github.com/r0b0tx/COVID-19	2020-03-01 02:49:05 +0800	Python	None	0	None	0
+🕰抗新冠肺炎 台灣防疫決策贏在哪裡？	https://github.com/udn-newmedia/covid-19-timeline	2020-03-01 02:39:26 +0800	Vue	None	0	None	0
+CoronavirusData	https://github.com/evanmiller/CoronavirusData	2020-03-01 02:34:31 +0800	None	None	0	None	0
+A little map showing coronavirus cases in Italy	https://github.com/napolux/coronamap	2020-03-01 02:21:25 +0800	TypeScript	None	0	None	0
+query stats of infected coronavirus cases	https://github.com/GuangchuangYu/nCov2019	2020-03-01 02:12:09 +0800	R	None	174	None	0
+R0 estimation of the 2019 corona virus coming out of Wuhan, China	https://github.com/affans/2019-ncov	2020-03-01 02:09:36 +0800	Jupyter Notebook	None	2	None	0
+🦠 Coronavirus Tracker	https://github.com/JohnCoene/coronavirus	2020-03-01 02:06:36 +0800	R	None	121	coronavirus, r, rstats, ncov, ncov-2019, covid-19	0
+covid-19-tracker	https://github.com/takitsu21/covid-19-tracker	2020-03-01 02:04:31 +0800	Python	MIT license	0	None	0
+武汉2019新型冠状病毒疫情可视化(ncov全国疫情地图及时间轴变化，各省市地图及疫情曲线)，疫情数据分析系统，疫情小区可视化，WuHan 2019-nCoV Data Visualization Analysis System (前…	https://github.com/simonblowsnow/COVID-19-Visualization	2020-03-01 02:03:39 +0800	Python	None	14	None	0
+Interactive Visualization of Corona Virus	https://github.com/NavidMirmohammadsadeghi/CoronaVirusSpread	2020-03-01 02:02:11 +0800	HTML	MIT license	0	None	0
+Courseware for Embedded Applications on Intelligent Systems	https://github.com/yfang1644/2019-nCoV	2020-03-01 02:01:37 +0800	None	None	2	None	0
+新型コロナウイルスの国内感染情報を呟くbotです	https://github.com/ryoppippi/covid19-tweet-bot	2020-03-01 02:01:34 +0800	Python	MIT license	0	None	0
+COVID-19	https://github.com/fkrauer/COVID-19	2020-03-01 02:00:55 +0800	None	GPL-3.0 license	1	None	0
+Bash script to track Coronavirus infections in your country.	https://github.com/ashleycawley/COVID-19-Coronavirus-	2020-03-01 01:59:52 +0800	Shell	None	0	None	0
+nCoV-Sandbox	https://github.com/HopkinsIDD/nCoV-Sandbox	2020-03-01 01:57:55 +0800	HTML	None	11	None	0
+SARS-COV-2 outbreak info and how-to - RU	https://github.com/donkeystep/COVID-19-info	2020-03-01 01:56:01 +0800	None	None	0	None	0
+Raw data for nCovMemory	https://github.com/Project-Gutenberg/nCovMemory-Raw-Data	2020-03-01 01:54:33 +0800	None	None	0	None	0
+nCovMemory-Web	https://github.com/Project-Gutenberg/nCovMemory-Web	2020-03-01 01:49:46 +0800	CSS	None	0	None	0
+Check thông tin dịch Covid-19	https://github.com/ddnam99/Corona-News	2020-03-01 01:43:02 +0800	C#	None	0	None	0
+Public line list and summaries of the COVID-19 outbreak in South Korea	https://github.com/parksw3/COVID19-Korea	2020-03-01 01:35:16 +0800	R	MIT license	9	None	0
+疫情信息发布与交流平台	https://github.com/KaleW515/PestMessage	2020-03-01 01:30:44 +0800	Python	Apache-2.0 license	0	None	0
+武汉同胞口罩下的呐喊 | Humanitarian Crisis in Wuhan, China	https://github.com/wuhancrisis/wuhancrisis.github.io	2020-03-01 01:28:54 +0800	JavaScript	None	35	None	0
+coronaVirus	https://github.com/fayyam1991/coronaVirus	2020-03-01 01:27:47 +0800	Java	None	0	None	0
+coronavirus-tracker	https://github.com/jkarethiya/coronavirus-tracker	2020-03-01 01:20:45 +0800	Java	Apache-2.0 license	0	None	0
+Probing the corona(virus) COVID-19 with Approximate Bayesian Computation	https://github.com/bmorris3/eugene	2020-03-01 01:17:25 +0800	Python	None	1	None	0
+bupt-ncov-report	https://github.com/scalar42/bupt-ncov-report	2020-03-01 01:15:44 +0800	TypeScript	None	0	None	0
+Wuhan Virus Info	https://github.com/benlau/wuhan-virus-info	2020-03-01 00:53:09 +0800	None	None	0	None	0
+This Coronavirus web project developed using the following Spring boot, Thymeleaf, Datatable, CSV, RestTemplate.	https://github.com/rajs24/sbt-covid19-tracker	2020-03-01 00:49:45 +0800	HTML	None	0	None	0
+COVID19 Api based on Johns Hopkins CSSE data	https://github.com/andreagrandi/covid-api	2020-03-01 00:48:55 +0800	None	MIT license	2	None	0
+A program for test of high-level programming language in Taishan college, SDU	https://github.com/icy-blue/2019ncov	2020-03-01 00:38:15 +0800	JavaScript	MIT license	3	None	0
+nCov_rasa_chatbot	https://github.com/SWYZZWH/nCov_rasa_chatbot	2020-03-01 00:34:03 +0800	Jupyter Notebook	None	0	None	0
+Map, data and timeline of coronavirus (2019-nCoV)	https://github.com/sorxrob/2019-ncov-frontend	2020-03-01 00:11:16 +0800	Vue	None	54	coronavirus, nodejs, express, vue, jhu-csse, covid-19	0
+COVID-19 growth visualization	https://github.com/codelight-house/covid-19-graphs	2020-03-01 00:09:01 +0800	None	None	0	None	0
+COVID-19	https://github.com/dogwang94/COVID-19	2020-02-29 23:59:40 +0800	None	None	0	None	0
+Project in information visualisation	https://github.com/GustafWallstrom/CoVID-19-Visualization	2020-02-29 23:48:15 +0800	JavaScript	None	0	None	0
+My simple COVID-19 death-to-recovery rate model	https://github.com/zachwill/covid-19	2020-02-29 23:46:57 +0800	Jupyter Notebook	None	3	None	0
+根据中国国家卫生健康委员会提供的每日新冠肺炎相关数据，对未来累计确诊患者的总数进行建模、预测和分析。同研的你课题组，2020-1-26至今。	https://github.com/SCU-Bigdata/2019-nCoV-Forecast	2020-02-29 23:40:13 +0800	None	None	1	None	0
+小程序后端服务程序	https://github.com/2020NCOV/ncov-report-mini-program-server	2020-02-29 23:39:15 +0800	PHP	Apache-2.0 license	0	None	0
+wuhan	https://github.com/cromnow/wuhan	2020-02-29 23:37:23 +0800	JavaScript	None	0	None	0
+Using Kalman Filter to Predict Corona Virus Spread	https://github.com/Rank23/COVID19	2020-02-29 23:36:06 +0800	Jupyter Notebook	None	5	coronavirus, kalman-filter, data-science, r, time-series, machine-learning-algorithms, prediction, health, python3, kalman, covid-19	0
+Scrape and manage nCov2019 related data from media using Pandas DataFrame	https://github.com/leonardzh/nCov2019-data-py	2020-02-29 23:33:17 +0800	Jupyter Notebook	None	1	None	0
+全国新型冠状病例小区分布图(数据持续更新并开放接口)	https://github.com/hack-fang/ncov-map	2020-02-29 23:29:33 +0800	Vue	None	21	None	0
+coronavirus2020	https://github.com/dkapexhiu/coronavirus2020	2020-02-29 23:29:14 +0800	JavaScript	None	0	None	0
+app_covid	https://github.com/sukjunel/app_covid	2020-02-29 23:26:31 +0800	None	None	0	None	0
+Covid_App	https://github.com/sukjunel/Covid_App	2020-02-29 23:14:52 +0800	None	None	0	None	0
+covid-19-sg	https://github.com/wentjun/covid-19-sg	2020-02-29 23:13:24 +0800	TypeScript	None	0	None	0
+coronavirus-tracker	https://github.com/logunlaja26/coronavirus-tracker	2020-02-29 23:08:51 +0800	Java	None	0	None	0
+Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新型冠状病毒的努力）	https://github.com/AlbertGithubHome/ChineseVictory	2020-02-29 23:05:19 +0800	Python	MIT license	1	None	0
+analyses related to nCoV-2020 outbreak	https://github.com/reichlab/ncov	2020-02-29 22:57:22 +0800	TeX	CC0-1.0 license	6	None	0
+Aplicativo desenvolvido para informar a situação atual do Coronavírus baseado em dados públicos.	https://github.com/armandobretas/CoronavirusMap	2020-02-29 22:57:04 +0800	JavaScript	None	3	None	0
+针对新冠病毒疫情数据的清洗脚本和清洗后的数据，数据源使用 https://github.com/BlankerL/DXY-COVID-19-Data 的每日抓取数据	https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-	2020-02-29 22:57:02 +0800	Python	MIT license	27	None	0
+Data visualization for 2019-nCoV research	https://github.com/kibbon/ncov-graph	2020-02-29 22:50:34 +0800	Vue	None	0	None	0
+coronavirus-live	https://github.com/Das20/coronavirus-live	2020-02-29 22:47:46 +0800	JavaScript	None	0	None	0
+Data extracted from Coronavirus disease (COVID-2019) situation reports https://www.who.int/emergencies/diseases/novel…	https://github.com/banduri/whodata	2020-02-29 22:44:59 +0800	Python	CC0-1.0 license	0	None	0
+新型肺炎疫情实时数据直接导出到Excel软件 | 数据接口依赖https://lab.isaaclin.cn/nCoV/	https://github.com/moxingwang/nCoV.data.2.excel	2020-02-29 22:42:42 +0800	Python	MIT license	0	ncov, ncov-data-visual, ncov-2019	0
+疫情实时数据 (Vue+echarts+webpack+bootstrap)	https://github.com/913269144/ncov-Data-chart	2020-02-29 22:42:21 +0800	JavaScript	None	0	None	0
+疫情期间重拾spring boot的学习	https://github.com/Zgxh/Restart-Spring-Boot	2020-02-29 22:30:58 +0800	Java	None	0	None	0
+sim-covid19	https://github.com/RoloAfrole/sim-covid19	2020-02-29 22:28:42 +0800	Python	None	0	None	0
+兰大疫情一键打卡，需要自己设置定时	https://github.com/ranxuebin/LZU_Quick_Check-in	2020-02-29 22:27:36 +0800	Python	None	1	None	0
+新型冠状病毒防疫信息收集平台	https://github.com/wuhan2020/wuhan2020	2020-02-29 22:24:51 +0800	None	MIT license	6.1k	None	1
+a vuejs COVID-19	https://github.com/xujieyu/COVID-19	2020-02-29 22:22:49 +0800	Vue	None	0	None	0
+武汉新型冠状病毒防疫信息收集平台-数据同步服务	https://github.com/wuhan2020/data-sync	2020-02-29 22:22:45 +0800	TypeScript	MIT license	88	None	0
+COVID-19 by the numbers	https://github.com/Physicist91/covid19	2020-02-29 22:19:52 +0800	Jupyter Notebook	None	0	None	0
+wuhan2020-test	https://github.com/wuhan2020/wuhan2020-test	2020-02-29 22:16:39 +0800	None	None	0	None	0
+CoVid-19-Tracker-Coronavirus-	https://github.com/mainadwitiya/CoVid-19-Tracker-Coronavirus-	2020-02-29 22:14:45 +0800	Jupyter Notebook	None	0	None	0
+一款基于 Vue 的移动端宁波疫情动态监控系统，结合电子地图、影像地图和各种常见的图表(柱状图、折线图、饼状图)，实现数据与地图的联动显示	https://github.com/herryle/nb-ncp	2020-02-29 22:01:05 +0800	JavaScript	MIT license	2	None	0
+manipulate training	https://github.com/H1KO/DML_of_ncov	2020-02-29 21:55:26 +0800	Jupyter Notebook	None	0	None	0
+Simple python code to get COVID19 numbers	https://github.com/RichWellum/covid19	2020-02-29 21:42:19 +0800	Python	None	0	None	0
+Coronavirus (COVID-19) visualization of disease spread over time	https://github.com/RRMoelker/corona-time-series-map	2020-02-29 21:37:44 +0800	HTML	Apache-2.0 license	0	None	0
+Coronavirus disease 2019 (COVID-19) cases delivered via Telegram Chatbot https://t.me/corona_cases_bot	https://github.com/Bost/corona_cases	2020-02-29 21:37:38 +0800	Clojure	None	0	None	0
+Corona Virus 3D	https://github.com/urish/coronavirus-3d	2020-02-29 21:26:11 +0800	HTML	None	1	a-frame, biology, vr, 3d, virology, webxr, coronavirus	0
+covid19location	https://github.com/bm43/covid19location	2020-02-29 21:20:31 +0800	Kotlin	None	0	None	0
+Coronavirus outbreak notifier.	https://github.com/tugrulelmas/Covid-19News	2020-02-29 21:19:24 +0800	C#	MIT license	0	None	0
+Anti 2020 novel coronavirus.	https://github.com/openthings/anti2020ncov	2020-02-29 21:19:18 +0800	Jupyter Notebook	Apache-2.0 license	2	nbdev, python, jupyter, notebook, ncov	0
+ncov-go	https://github.com/huagua/ncov-go	2020-02-29 21:15:14 +0800	Go	None	0	None	0
+CoronavirusDailyUpdate	https://github.com/MarinPuizina/CoronavirusDailyUpdate	2020-02-29 21:07:45 +0800	Java	None	0	java, bootstrap, csv, spring-boot, thymeleaf, analytics	0
+covid-19-info-data	https://github.com/geekazoid-at/covid-19-info-data	2020-02-29 21:03:46 +0800	None	None	0	None	0
+2019-nCoV data of Hubei province	https://github.com/cissieAB/2019-nCoV-Hubei	2020-02-29 20:50:11 +0800	None	None	0	datasets, pandemic, 2019-ncov	0
+Dati del Coronavirus raccolti e classificati da Emergenza24	https://github.com/emergenza24/coronavirus	2020-02-29 20:48:21 +0800	None	MIT license	0	None	0
+covid-19-singapore	https://github.com/tanpuany/covid-19-singapore	2020-02-29 20:46:00 +0800	None	None	0	None	0
+疫情上报小程序	https://github.com/xiapei/uni-wx	2020-02-29 20:37:53 +0800	Vue	None	0	None	0
+2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API	https://github.com/BlankerL/DXY-COVID-19-Crawler	2020-02-29 20:32:05 +0800	Python	MIT license	1.1k	crawler, realtime-api, 2019-ncov	1
+Vaccines scanning to find similarities against COVID-19 (Coronavirus)	https://github.com/Sinnefa/COVID-19_Vaccine_Experiment	2020-02-29 20:30:41 +0800	Python	GPL-3.0 license	0	None	0
+疫情防控-每日健康上报管理平台	https://github.com/2020NCOV/ncov-report	2020-02-29 20:26:15 +0800	TSQL	Apache-2.0 license	38	None	0
+Knowledge Graph of 2019 nCov progress	https://github.com/bigcat2020/nCov_KG	2020-02-29 20:25:01 +0800	Python	None	1	None	0
+coronavirus	https://github.com/Sasso0101/coronavirus	2020-02-29 20:23:48 +0800	HTML	None	0	None	0
+📄 List of coronavirus applications built in response to the COVID-19 virus from Dec 2019	https://github.com/abuuzayr/coronavirus-apps	2020-02-29 20:21:08 +0800	None	None	12	None	0
+Dati aggregati per regione sullo sviluppo del corona virus in Italia	https://github.com/fabiomoli/COVID-19-ITA	2020-02-29 20:19:25 +0800	CSS	Apache-2.0 license	0	ncov, coronavirus, covid-19	0
+nCov	https://github.com/Jinhui-Liang/nCov	2020-02-29 20:19:12 +0800	Python	None	1	None	0
+使用echarts开发的中国肺炎实时地图	https://github.com/Laboor/Pneumonia-Live-Map	2020-02-29 20:12:35 +0800	JavaScript	None	0	None	0
+疫情上报管理系统（PHP版）	https://github.com/2020NCOV/ncov-report-manage-system-PHP	2020-02-29 19:59:35 +0800	PHP	Apache-2.0 license	0	None	0
+discord-ncov	https://github.com/victormlourenco/discord-ncov	2020-02-29 19:59:25 +0800	Go	Apache-2.0 license	0	None	0
+新型冠状病毒疫情图-微信小程序	https://github.com/wujianxiong1998/newVirusEcharts	2020-02-29 19:57:15 +0800	JavaScript	None	0	None	0
+疫情上报小程序端	https://github.com/2020NCOV/ncov-report-mini-program	2020-02-29 19:45:34 +0800	JavaScript	Apache-2.0 license	2	None	0
+All information about covid19 in China, including suggestions and news	https://github.com/xsser/COVID19	2020-02-29 19:38:30 +0800	None	None	1	None	0
+IOS application to anonymously track interactions among people to alert if anyone had contacts with an infected person.	https://github.com/Coronavirus-Herd-Immunity/covid-19-ios	2020-02-29 19:37:21 +0800	Swift	None	0	None	0
+CovID-19 School Auto Report	https://github.com/invenleey/yq-report	2020-02-29 19:19:11 +0800	Go	None	0	None	0
+nCov-virus-visualization	https://github.com/AlbertWhite/nCov-virus-visualization	2020-02-29 19:17:02 +0800	JavaScript	None	0	None	0
+covid-19-info-sponsors	https://github.com/geekazoid-at/covid-19-info-sponsors	2020-02-29 19:16:30 +0800	None	None	0	None	0
+ncov-project	https://github.com/Huai-Dc/ncov-project	2020-02-29 19:10:11 +0800	Vue	None	0	None	0
+A map / tracker of nCovid-2019 cases in Singapore	https://github.com/ysoh286/ncovid-2019-sgp-tracker	2020-02-29 18:54:22 +0800	JavaScript	None	0	singapore, coronavirus, coronavirus-tracking	0
+疫情可视化页面	https://github.com/songcee/yiqing	2020-02-29 18:52:10 +0800	Vue	None	1	None	0
+covid19	https://github.com/tranduyquockhanh/covid19	2020-02-29 18:47:35 +0800	Jupyter Notebook	None	0	None	0
+COVID-19/2019-nCoV Infection Data	https://github.com/hyperion-hyn/COVID-2019-DATA	2020-02-29 18:44:47 +0800	JavaScript	None	1	None	0
+自动填写”疫情防控通“的每日上报信息。	https://github.com/ipid/bupt-ncov-report	2020-02-29 18:34:59 +0800	Python	MIT license	22	bupt, python, cross-platform, python3	0
+topic_COVID-19	https://github.com/m1991allen/topic_COVID-19	2020-02-29 18:34:35 +0800	HTML	None	0	None	0
+This project aims to predict the numbers that are published in each day regarding the amount of Coronavirus (COVID-19…	https://github.com/eladcn/coronavirus_prediction	2020-02-29 18:32:10 +0800	Python	GPL-3.0 license	3	deaths, coronavirus, predictions, machine-learning, linear-regression, cases, covid-19	0
+COVID-19	https://github.com/m1ris/COVID-19	2020-02-29 18:30:18 +0800	None	None	0	None	0
+An exploratory data analysis of Coronavirus globally with data from John Hopkins University updated daily.	https://github.com/frankcardozo/Coronavirus_analysis	2020-02-29 18:28:15 +0800	Jupyter Notebook	None	2	None	0
+This repository is created to promote data analysis on COVID-19	https://github.com/javid-jouzdani/COVID-19	2020-02-29 18:24:06 +0800	Jupyter Notebook	None	0	None	0
+Small python based script for corona virus visualization	https://github.com/spflueger/covid-19	2020-02-29 18:23:58 +0800	Jupyter Notebook	None	0	None	0
+coronavirus-traker	https://github.com/TshRahul/coronavirus-traker	2020-02-29 18:01:29 +0800	Java	None	0	None	0
+网络爬虫＋Flask搭建web/Echarts可视化大屏/MySQL数据库实现大型可视化疫情数据	https://github.com/Suyongzhi1997/cov_demo	2020-02-29 17:49:29 +0800	JavaScript	None	0	None	0
+一个简单的 PocketMine-MP 插件, 可在 Minecraft 服务器中获取新型冠状病毒的统计信息 / A simple plugin for PocketMine-MP that allows you to obtain …	https://github.com/TravinDreek/nCoV-Stats-PocketMine	2020-02-29 17:49:08 +0800	PHP	MIT license	4	ncov, pocketmine-mp, minecraft, pocketmine-mp-plugin, 2019-ncov	0
+一个简单的 Bukkit 插件, 可在 Minecraft 服务器中获取新型冠状病毒的统计信息 / A simple plugin for Bukkit that allows you to obtain the stats of nCoV	https://github.com/TravinDreek/nCoV-Stats-Bukkit	2020-02-29 17:41:17 +0800	Java	MIT license	3	ncov, bukkit, minecraft, spigot, bukkit-plugin, 2019-ncov	0
+Analysis of novo Coronavirus 2019 public data	https://github.com/csblab/novoCoronavirus-Analysis	2020-02-29 17:39:34 +0800	None	MIT license	2	None	0
+COVID-19(2019-nCoV) traces data Knowledge Graph	https://github.com/xyjigsaw/COVID-19-traces-Knowledge-Graph	2020-02-29 17:37:28 +0800	Python	MIT license	1	None	0
+泰州各区县新型冠状病毒感染的肺炎疫情的统计与可视化，采用微信小程序平台开发。	https://github.com/Bubbleinpit/2019-ncov-taizhou	2020-02-29 17:34:39 +0800	JavaScript	MIT license	2	None	0
+코로나-19 에 대한 확진/완치/사망 에 대한 국내, 해외 정보를 수집합니다. Data scrapes Covid-19 Confirmed/Cured/Deceases Cases.	https://github.com/KKodiac/Covid19-Scraper	2020-02-29 17:16:24 +0800	None	None	0	python, crawler, information-retrieval, bs4-requests, covid-19	0
+Covid-19	https://github.com/JuinE-code/Covid-19	2020-02-29 17:00:27 +0800	None	None	0	None	0
+API Service for tracking the COVID-19	https://github.com/Laeyoung/COVID-19-API	2020-02-29 16:46:46 +0800	JavaScript	MIT license	4	None	0
+gentoo portage overlay for nextstrain.org/ncov building.	https://github.com/LeonBernieniv/genncov	2020-02-29 16:41:28 +0800	Shell	Unlicense license	0	None	0
+[CSV] Official information of Coronavirus disease 2019 (COVID-19) in South Korea (from KCDC)	https://github.com/jihoo-kim/Coronavirus-Dataset	2020-02-29 16:34:20 +0800	None	MIT license	0	None	0
+Information on COVID-19 cases, extracted from different sources	https://github.com/DAM-Philippon/COVID-19	2020-02-29 16:33:57 +0800	R	None	0	None	0
+Collection of scripts for data visualisation and good code practice.	https://github.com/Perishleaf/data-visualisation-scripts	2020-02-29 16:28:17 +0800	Jupyter Notebook	MIT license	21	python3, matplotlib, datavisualization, plotly-dash, dashborad, coronavirus, covid-19	0
+Live visual updates of the Coronavirus	https://github.com/gieoon/Coronavirus-Live-Map	2020-02-29 16:22:35 +0800	JavaScript	None	6	None	0
+A library seat booking script for Wuhan University - 武汉大学图书馆自动抢座脚本，支持自动抢指定座位、捡漏模式、改签模式、抢座成功后发送邮件提醒	https://github.com/c1aris/SeatKiller	2020-02-29 16:22:16 +0800	Python	MPL-2.0 license	18	socket, python3, requests, whu	0
+ncov 2019 疫情图	https://github.com/yiluheihei/ncovmap	2020-02-29 16:21:16 +0800	R	CC-BY-4.0 license	0	ncov, r, leaflet-map, ncov-map	0
+Anti2019-nCoV	https://github.com/Anti2019-nCoV/Anti2019-nCoV	2020-02-29 16:15:34 +0800	Python	None	7	None	0
+The data crawler for K-COVID19API from Dropper-Lab with python. (Data from http://ncov.mohw.go.kr/)	https://github.com/Dropper-Lab/korea-covid19-data-crawler	2020-02-29 16:13:45 +0800	Python	MIT license	0	None	0
+Collecting data of nCoV-2019	https://github.com/HgS318/nCoV2019	2020-02-29 16:06:54 +0800	Python	None	0	None	0
+코로나AR Github	https://github.com/choco0908/Covid19AR	2020-02-29 16:06:32 +0800	JavaScript	MIT license	0	None	0
+journal based application to allow government to track individual with coronavirus infection	https://github.com/ghostidentity/coronahealthtrackerbackend	2020-02-29 16:05:08 +0800	None	None	1	None	0
+nCov Open Data Project for nCov-2019-data-science	https://github.com/arrebole/glacierice	2020-02-29 16:04:52 +0800	JavaScript	None	2	None	0
+（新冠肺炎疫情开源产品）求助地图---一款基于地理位置的紧急求助平台	https://github.com/stevekeol/DonationChannel-2.0	2020-02-29 15:54:49 +0800	JavaScript	None	0	None	0
+使用selenium模拟浏览器完成东南大学每日疫情上报	https://github.com/CaptainNeuron/seu_cor_auto_report	2020-02-29 15:51:56 +0800	Python	None	0	None	0
+新冠疫情小区分布数据（数据来自各城市卫健委等官方微信公众号和官方网站）	https://github.com/bjwa2020/coronavirus	2020-02-29 15:49:55 +0800	None	None	21	None	0
+以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。	https://github.com/Pratitya/wuhan2020-timeline	2020-02-29 15:43:52 +0800	None	None	1k	timeline, history, china, wuhan, ncov, ncov-data-visual, wuhan-pneumonia, ncov-map, wuhan-coronavirus-outbreak, wuhan-coronavirus, wuhan-virus, wuhan2020, ncov-2019	1
+新型冠狀病毒肺炎（武漢肺炎）感染即時資訊 | 2019-nCoV realtime information platform	https://github.com/icelam/wuhan-pneumonia	2020-02-29 15:39:22 +0800	Vue	MIT license	1	d3, php, vuejs, vue, d3js, d3-geo, wars, hongkong, hong-kong, pneumonia, d3v5, wuhan, 2019-ncov, wuhan-pneumonia, novel-coronavirus, w-virus, novel-coronavirus-2019	0
+Representation of the coronavirus that appeared in Wuhan, China in 2019	https://github.com/louisnot/n-Cov2019	2020-02-29 15:31:28 +0800	Jupyter Notebook	None	0	None	0
+2019-nCoV 台灣時間表 參照疾病管制署	https://github.com/GeeHsu/2019-nCoV	2020-02-29 15:28:33 +0800	HTML	None	0	None	0
+疫情数据发布系统	https://github.com/vikangliang/epidemics	2020-02-29 15:20:17 +0800	Java	None	1	None	0
+新冠肺炎失业，搭个论坛网站练练手	https://github.com/zhonyue314/wgmao	2020-02-29 15:12:31 +0800	JavaScript	None	0	None	0
+COVID-19 data from the repo CSSEGISandData/COVID-19	https://github.com/DataHerb/dataset-covid-19	2020-02-29 15:02:43 +0800	None	None	0	None	0
+🦠 Obtém dados atualizados do Coronavirus e retorna em formato de API	https://github.com/Viiict0r/covid-scraper	2020-02-29 14:59:30 +0800	JavaScript	None	0	None	0
+疫情上报服务端程序	https://github.com/lcvcReport/new_coronavirus_report	2020-02-29 14:55:56 +0800	Java	None	0	None	0
+wuhan_SIR	https://github.com/hfwang2016/wuhan_SIR	2020-02-29 14:53:27 +0800	None	None	1	None	0
+coronavirus-tracker	https://github.com/tanu31195/coronavirus-tracker	2020-02-29 14:53:18 +0800	Java	None	0	None	0
+covid-19-jeju-hospital-map	https://github.com/taeukme/covid-19-jeju-hospital-map	2020-02-29 14:36:20 +0800	JavaScript	MIT license	0	None	0
+coronavirus-tracker	https://github.com/phoenixtype/coronavirus-tracker	2020-02-29 14:34:22 +0800	Java	None	0	None	0
+手机端抗击肺炎	https://github.com/BigHead773/fightTheOutbreak	2020-02-29 14:16:26 +0800	HTML	None	0	None	0
+coronavirus	https://github.com/shabanpour/coronavirus	2020-02-29 14:15:47 +0800	None	Unlicense license	0	None	0
+This is a website I made to track the ongoing Coronavirus (nCov2019)	https://github.com/avischiffmann/Coronavirus-Dashboard	2020-02-29 14:09:33 +0800	HTML	None	7	None	0
+A web spider to collect information of 2019-nCoV from multi-platform	https://github.com/PaperStrange/YiQingSpider	2020-02-29 14:01:25 +0800	Python	GPL-3.0 license	0	spider, 2019-ncov	0
+"科技改变生活"不是口号更不是噱头，2019的新冠肺炎，如果病人全部是机器人护理，如果专家都是远程治疗，如果检测都是全自动报警，如果全国都有自动危险处理系统，如果野生动物的运输都有自动检测系统，如果都是全自动送菜系统，如果都是远程办公…	https://github.com/spec-rfc-cn/come.with.me	2020-02-29 13:58:46 +0800	None	Apache-2.0 license	0	None	0
+coronavirus-app	https://github.com/LeandroCepeda/coronavirus-app	2020-02-29 13:46:08 +0800	Java	None	0	None	0
+2019-nCOV	https://github.com/gancao/2019-nCOV	2020-02-29 13:33:06 +0800	None	None	0	None	0
+2019-nCoV 疫情实时播报🅥 ｜武汉新冠状病毒肺炎疫情信息通知 ｜ 支持微信、钉钉群、微博	https://github.com/wangke0809/2019-nCoV-Push	2020-02-29 13:29:52 +0800	Python	None	12	2019-ncov	0
+中国新型冠状病毒肺炎地级市疫情图	https://github.com/lispczz/pneumonia	2020-02-29 13:26:58 +0800	JavaScript	MIT license	324	amap, amap-js-api, ncov, ncov-data-visual, coronavirus, ncov-2019, covid-19	0
+A clone data about ncov in china	https://github.com/samuraitruong/ncov-2019	2020-02-29 13:26:39 +0800	JavaScript	None	0	None	0
+This is simple program of visualization of NCP Data in Wuhan.	https://github.com/lethal233/Visualization-of-NCP-Data-in-Wuhan	2020-02-29 13:05:14 +0800	Python	None	2	None	0
+Situation of COVID-19 in Hong Kong	https://github.com/terenceltl/something	2020-02-29 12:59:30 +0800	None	None	0	None	0
+Contact Tracing For Coronavirus	https://github.com/AppleTesla/covid19	2020-02-29 12:57:08 +0800	Swift	None	0	None	0
+JS-CovidTrend-Visualization	https://github.com/webexpert7111/JS-CovidTrend-Visualization	2020-02-29 12:42:44 +0800	JavaScript	None	0	None	0
+Analysis of 2019-nCov coronavirus data	https://github.com/jianxu305/nCov2019_analysis	2020-02-29 12:31:52 +0800	Jupyter Notebook	GPL-3.0 license	56	None	0
+COVID-19 infected forecast model	https://github.com/SuperDiscovery/NCP-Model	2020-02-29 12:31:45 +0800	None	None	0	None	0
+wuhanvirus	https://github.com/wodn5515/wuhanvirus	2020-02-29 12:30:49 +0800	Python	None	0	None	0
+wuhan	https://github.com/gexijin/wuhan	2020-02-29 12:07:25 +0800	R	None	0	None	0
+2020年春季学期软件工程大作业：疫区管理系统	https://github.com/Catnip0709/EpidemicAreaManagementSystem	2020-02-29 12:05:24 +0800	None	None	0	None	0
+This is an android application for COVID-19 close contacts detection	https://github.com/DivineWeiR/CloseContactDetection	2020-02-29 11:55:04 +0800	None	None	0	None	0
+covid19	https://github.com/pandemicai/covid19	2020-02-29 11:49:26 +0800	None	None	0	None	0
+2019-nCov新型冠状病毒肺炎每日疫情数据可视化	https://github.com/tfx2001/2019-ncov-data-visualization	2020-02-29 11:44:49 +0800	Vue	None	2	None	0
 Visualizing the outbreak of the Wuhan Coronavirus	https://github.com/liu-zoe/wuhancv	2020-02-29 11:36:30 +0800	Python	MIT license	0	None	0
-ncovlog	https://github.com/x9mdwe5q/ncovlog	2020-02-29 11:35:04 +0800	None	None	1	None	0
-ncov-map	https://github.com/yuqianma/ncov-map	2020-02-29 11:34:05 +0800	JavaScript	None	0	None	0
-Live Corona Detector	https://github.com/LiveCoronaDetector/livecod	2020-02-29 11:33:49 +0800	HTML	MIT license	7	coronavirus, coronavirus-tracking	0
-data from multiple sources	https://github.com/nyem69/coronavirus_data	2020-02-29 11:33:42 +0800	None	MIT license	1	coronavirus	0
-covid19	https://github.com/tokyo-metropolitan-gov/covid19	2020-02-29 11:31:45 +0800	Vue	None	1	None	0
-ncov2019_api	https://github.com/lietxia/ncov2019_api	2020-02-29 11:31:28 +0800	PHP	None	2	None	0
-query stats of infected coronavirus cases	https://github.com/GuangchuangYu/nCov2019	2020-02-29 11:31:07 +0800	R	None	171	None	0
-Open source version of the COVID-19 global cases website by Johns Hopkins CSSE	https://github.com/HuidaeCho/covid-19	2020-02-29 11:30:16 +0800	HTML	AGPL-3.0 license	1	python, openlayers, python3, openlayers6, 2019-ncov, coronavirus, coronavirus-tracking, 2019-ncov-data-vis, coronavirus-tracker, covid-19	0
-COVID-19	https://github.com/pkuvis/COVID-19	2020-02-29 11:29:17 +0800	Python	None	0	None	0
 COVID-19 SG Stats Program (Web Scraper) made with Python	https://github.com/NicholasJohansan/COVID-19-Stats-Program-	2020-02-29 11:28:32 +0800	Python	None	0	None	0
-🦠 Interactive dashboard of COVID-19 cases in Japan	https://github.com/swsoyee/2019-ncov-japan	2020-02-29 11:28:16 +0800	R	MIT license	50	japan, r, shiny-apps, interactive-visualizations, 2019-ncov, 2019ncov, covid-19	0
 2019-nCov_data_visualization	https://github.com/kvrmnks/2019-nCov_data_visualization	2020-02-29 11:26:14 +0800	HTML	None	1	None	0
-Novel Coronavirus(2019-nCoV) updates from WHO daily reports	https://github.com/javierluraschi/covid	2020-02-29 11:23:08 +0800	R	None	0	None	0
-Contact Tracing For Coronavirus	https://github.com/AppleTesla/covid19	2020-02-29 11:16:11 +0800	Swift	None	0	None	0
-coronavirus	https://github.com/insideout/coronavirus	2020-02-29 11:15:21 +0800	HTML	None	0	None	0
 Visualization of COVID-19 epidemic situation in China	https://github.com/upcwxq666/COVID-19-ChinaVis	2020-02-29 11:14:37 +0800	Vue	None	1	None	0
-疫情上报小程序端	https://github.com/2020NCOV/ncov-report-mini-program	2020-02-29 11:13:40 +0800	PHP	Apache-2.0 license	2	None	0
-2019新型冠状病毒疫情时间序列数据仓库 | COVID-19/2019-nCoV Infection Time Series Data Warehouse	https://github.com/BlankerL/DXY-COVID-19-Data	2020-02-29 11:10:05 +0800	Python	None	880	data-warehouse, 2019-ncov	1
-Automatically scrape data and statistics on Coronavirus to make them easily accessible	https://github.com/alext234/coronavirus-stats	2020-02-29 11:09:24 +0800	Jupyter Notebook	Apache-2.0 license	10	health, coronavirus, pipeline, china, stats, australia, singapore, data-science, data-mining, jupyter-notebook, wuhan, wuhan-virus, scraping-data, covid-19	0
-2019武汉新型冠状病毒疫情状态图	https://github.com/ecator/2019-ncov-statusbar	2020-02-29 11:08:35 +0800	Python	MIT license	0	None	0
 2019-nCov-dataviz	https://github.com/kvrmnks/2019-nCov-dataviz	2020-02-29 11:07:43 +0800	JavaScript	None	1	None	0
-Automatically track news on coronavirus (cov-19)	https://github.com/alext234/coronavirus-news	2020-02-29 11:06:11 +0800	Jupyter Notebook	Apache-2.0 license	1	bot, jupyter-notebook, github-actions, coronavirus, coronavirus-info, wuhan-virus, cov-19, gogole-news	0
-2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE	https://github.com/ricnov/COVID-19-ITALY	2020-02-29 11:06:06 +0800	Jupyter Notebook	None	0	None	0
-ncov web	https://github.com/pzhaonet/ncov	2020-02-29 11:06:05 +0800	HTML	MIT license	10	None	0
-SampleDataExtraction	https://github.com/perell2014/data_2019ncov	2020-02-29 11:02:51 +0800	HTML	None	0	None	0
-All information about covid19 in China, including suggestions and news	https://github.com/xsser/COVID19	2020-02-29 11:01:04 +0800	None	None	0	None	0
-2019-nCoV	https://github.com/kiang/2019-nCoV	2020-02-29 11:00:18 +0800	JavaScript	MIT license	6	None	0
-2019-nCoV data	https://github.com/crawlerclub/dxy2019nCoV	2020-02-29 11:00:08 +0800	HTML	None	3	None	0
-2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）	https://github.com/canghailan/Wuhan-2019-nCoV	2020-02-29 10:57:20 +0800	Jupyter Notebook	MIT license	121	wuhan, dataset, 2019-ncov, ncov	0
-[CSV] Official information of Coronavirus disease 2019 (COVID-19) in South Korea (from KCDC)	https://github.com/jihoo-kim/Coronavirus-Dataset	2020-02-29 10:56:41 +0800	None	MIT license	0	None	0
-covid-19-jeju-hospital-map	https://github.com/taeukme/covid-19-jeju-hospital-map	2020-02-29 10:51:39 +0800	JavaScript	MIT license	0	None	0
-以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。	https://github.com/Pratitya/wuhan2020-timeline	2020-02-29 10:49:44 +0800	None	None	1k	timeline, history, china, wuhan, ncov, ncov-data-visual, wuhan-pneumonia, ncov-map, wuhan-coronavirus-outbreak, wuhan-coronavirus, wuhan-virus, wuhan2020, ncov-2019	1
-Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE	https://github.com/CSSEGISandData/COVID-19	2020-02-29 10:47:16 +0800	None	None	1.8k	engineering, systems-science, johns-hopkins-university, jhu, csse, 2019-ncov, coronavirus, covid-19	0
-wuhan	https://github.com/gexijin/wuhan	2020-02-29 10:35:27 +0800	R	None	0	None	0
-2019新冠肺炎疫情染病人数预测，用SIR模型。	https://github.com/zwdnet/2019-nCov-SIRmodel	2020-02-29 10:32:15 +0800	Python	None	30	None	0
-COVID-19-Dataset	https://github.com/shusinthebox/COVID-19-Dataset	2020-02-29 10:28:26 +0800	Shell	None	0	None	0
 See the updated list of coronavirus reports (countries) from your terminal	https://github.com/cozzbie/covid19	2020-02-29 10:25:44 +0800	JavaScript	None	0	None	0
-Trending and map charts for COVID-19	https://github.com/ohdarling/COVID-19-Charts	2020-02-29 10:18:47 +0800	HTML	None	26	None	0
-an interactive, animated COVID-19 coronavirus map	https://github.com/stevenliuyi/covid19	2020-02-29 10:12:45 +0800	JavaScript	MIT license	6	2019-ncov, coronavirus, covid-19	0
 新增确诊新型冠状病毒肺炎统计数据（每日更新）	https://github.com/839Studio/Novel-Coronavirus-Updates	2020-02-29 10:09:30 +0800	None	None	101	None	0
 covid19japan	https://github.com/reustle/covid19japan	2020-02-29 10:09:04 +0800	JavaScript	None	57	None	4
 coronaviruscasetracker	https://github.com/Kunalm77/coronaviruscasetracker	2020-02-29 10:08:56 +0800	Java	Apache-2.0 license	0	None	0
 Downloadable, open source resources for understandingcoronavirus.org, to understand and prepare for COVID19.	https://github.com/goinvo/COVID19	2020-02-29 10:08:41 +0800	None	None	0	None	0
-Let's get through the Covid-19 coronavirus together!	https://github.com/hopeseekr/covidreporter.news	2020-02-29 10:08:36 +0800	PHP	MIT license	0	None	0
-Coronavirus-Deep-Learning-Drug-Discovery	https://github.com/MaximeVandegar/Coronavirus-Deep-Learning-Drug-Discovery	2020-02-29 10:08:22 +0800	Jupyter Notebook	None	0	None	0
 The Coronavirus Dashboard	https://github.com/RamiKrispin/coronavirus_flexdashboard	2020-02-29 10:07:30 +0800	None	None	0	None	0
 CoronavirusVisualGuide	https://github.com/kjing001/CoronavirusVisualGuide	2020-02-29 10:03:50 +0800	C#	None	0	None	0
 covid virus	https://github.com/nikdata/covidvirus	2020-02-29 10:01:53 +0800	R	None	0	None	0
-covid-19-tracker	https://github.com/takitsu21/covid-19-tracker	2020-02-29 10:00:16 +0800	Python	MIT license	0	None	0
-CSV format for the coronavirus R package dataset	https://github.com/RamiKrispin/coronavirus-csv	2020-02-29 09:59:13 +0800	None	None	4	None	0
-The coronavirus dataset	https://github.com/RamiKrispin/coronavirus	2020-02-29 09:58:39 +0800	R	None	31	None	0
-Noval Coronavirus Infection Map	https://github.com/jakobzhao/virus	2020-02-29 09:55:20 +0800	HTML	None	12	None	0
-疫情上报管理系统（PHP版）	https://github.com/2020NCOV/ncov-report-manage-system-PHP	2020-02-29 09:53:27 +0800	PHP	Apache-2.0 license	0	None	0
-Heatmap representation of COVID-19 on WebGl 3D world map	https://github.com/lazd/covid19heat	2020-02-29 09:49:37 +0800	JavaScript	None	0	None	0
-COVID19	https://github.com/Haedong-Jeon/COVID19	2020-02-29 09:46:23 +0800	Swift	None	0	None	0
 教材　2020　COVID-19	https://github.com/RyuPC/kyouzai.github.io	2020-02-29 09:43:49 +0800	None	None	0	None	0
-draw_ncov_map	https://github.com/listenzcc/draw_ncov_map	2020-02-29 09:43:34 +0800	HTML	None	0	None	0
 wuhanhopemap.github.io	https://github.com/wuhanhopemap/wuhanhopemap.github.io	2020-02-29 09:37:02 +0800	HTML	None	1	None	0
-全国新型冠状肺炎疫情每日数据动态	https://github.com/JackieZheng/2019-nCoV	2020-02-29 09:25:40 +0800	HTML	Apache-2.0 license	31	None	0
-Map visualization for the COVID-19 cases throughout the world	https://github.com/jonasmrfranca/COVID-19	2020-02-29 09:23:05 +0800	HTML	None	0	None	0
-wuhancorona	https://github.com/IceCream0910/wuhancorona	2020-02-29 09:20:04 +0800	JavaScript	None	0	None	0
 coronavirus	https://github.com/arik-so/coronavirus	2020-02-29 09:18:07 +0800	Python	None	0	None	2
-coronavirus-live	https://github.com/Das20/coronavirus-live	2020-02-29 09:13:02 +0800	JavaScript	None	0	None	0
-Coronavirus	https://github.com/zk213/Coronavirus	2020-02-29 09:11:11 +0800	C#	None	0	None	0
 코로나 19 크롤링 노드 어플리케이션입니다.	https://github.com/cokia/covid-19-crawl	2020-02-29 09:10:12 +0800	JavaScript	None	1	None	0
 Tracking dashboard for the Wuhan Coronavirus COVID-19. Features live updates and interactive map/charts.	https://github.com/L0per/wuhan-coronavirus	2020-02-29 09:09:24 +0800	Jupyter Notebook	None	1	None	0
 Placeholder description: @blosky created this with repo-genesis	https://github.com/guardian/interactive-coronavirus-trackers	2020-02-29 09:06:13 +0800	HTML	None	0	@blosky	0
-covid19	https://github.com/pandemicai/covid19	2020-02-29 08:59:44 +0800	None	None	0	None	0
-ncov19	https://github.com/smtexas99/ncov19	2020-02-29 08:52:06 +0800	Jupyter Notebook	None	0	None	0
-ncov-report	https://github.com/Nihileon/ncov-report	2020-02-29 08:24:55 +0800	TypeScript	None	0	None	0
-Python scripts to have a quicklook of the statistics of the 2019-nCov patients (Updated every 6 hour)	https://github.com/ZPYin/COVID-19_Visualizer	2020-02-29 08:21:47 +0800	Jupyter Notebook	MIT license	0	None	0
-新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。	https://github.com/kaz-ogiwara/covid19	2020-02-29 08:14:29 +0800	JavaScript	MIT license	383	None	0
 This is not looking too hot	https://github.com/SivanMehta/coronavirus	2020-02-29 08:13:51 +0800	R	None	0	None	0
-Status of Corona Virus in Japan	https://github.com/tkyodev/elm-coronavirus-japan	2020-02-29 08:10:03 +0800	HTML	None	0	None	0
 Un modelo SIR basico sobre el coronavirus	https://github.com/AstroAmat/modelo_sir_coronavirus	2020-02-29 08:04:35 +0800	Python	GPL-3.0 license	0	None	0
-武漢肺炎台灣防疫相關文宣彙整	https://github.com/CA-Lee/2019-nCoV_annos_TW	2020-02-29 08:00:51 +0800	HTML	None	3	None	0
 Coronavirus2020	https://github.com/shimizu/Coronavirus2020	2020-02-29 07:50:20 +0800	JavaScript	None	0	None	0
 Covid-19_in_germany	https://github.com/Kopfgeldjaeger/Covid-19_in_germany	2020-02-29 07:44:50 +0800	Jupyter Notebook	None	0	None	0
 一个使用 GitHub Actions 的洛阳理工学院健康状况管控平台每天自动签到器	https://github.com/lichris272/lit-covid19-checkin	2020-02-29 07:33:20 +0800	Python	MIT license	0	None	0
-coronaVirusStatistic	https://github.com/jedi-tones/coronaVirusStatistic	2020-02-29 07:33:11 +0800	Swift	None	0	None	0
 Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。（持续翻译 & 更新中）	https://github.com/jiayiliujiayi/2020nCov_individual_archives	2020-02-29 07:32:00 +0800	R	None	366	archive, ncov-2019	0
-Data on the 2019 Novel Coronavirus Outbreak (R Package)	https://github.com/eebrown/data2019nCoV	2020-02-29 07:28:31 +0800	R	None	6	data, r, dataset, epidemiology, rpackage, ncov, coronavirus, ncov-2019, covid-19	0
 Coronavirus	https://github.com/Yuriyama/Coronavirus	2020-02-29 07:26:22 +0800	Jupyter Notebook	None	0	None	0
 Model for COVID-19 Situation Outside China	https://github.com/wangyi-fudan/COVID-19_Global_Model	2020-02-29 07:23:59 +0800	C++	Unlicense license	0	None	0
-coronavirus-tracker	https://github.com/logunlaja26/coronavirus-tracker	2020-02-29 07:21:55 +0800	Java	None	0	None	0
-Dati del Coronavirus raccolti e classificati da Emergenza24	https://github.com/emergenza24/coronavirus	2020-02-29 07:19:47 +0800	None	MIT license	0	None	0
-This is a website I made to track the ongoing Coronavirus (nCov2019)	https://github.com/avischiffmann/Coronavirus-Dashboard	2020-02-29 07:06:10 +0800	HTML	None	7	None	0
-COVID-19 tracking website	https://github.com/kvas-it/coronatrack	2020-02-29 07:01:03 +0800	HTML	None	0	None	0
-coronavirus	https://github.com/Sasso0101/coronavirus	2020-02-29 06:59:44 +0800	HTML	None	0	None	0
 2019 novel coronavirus repository	https://github.com/midas-network/COVID-19	2020-02-29 06:47:27 +0800	None	None	28	None	0
 Estimating the incubation time of the novel coronavirus (nCoV-2019) based on traveler data using coarse data tools	https://github.com/HopkinsIDD/ncov_incubation	2020-02-29 06:44:33 +0800	None	None	18	None	0
-coronavirus-tracker	https://github.com/nazar-art/coronavirus-tracker	2020-02-29 06:43:21 +0800	Java	None	0	None	0
 Vix and All World index consequences of Coronavirus.	https://github.com/simonvdv/corona_vix	2020-02-29 06:41:22 +0800	Jupyter Notebook	None	0	None	0
-Analysis of Johns Hopkins Coronavirus Dataset	https://github.com/IshmaelObeso/Coronavirus-Data-Analysis	2020-02-29 06:38:38 +0800	Jupyter Notebook	None	0	None	0
-discord-ncov	https://github.com/victormlourenco/discord-ncov	2020-02-29 06:32:31 +0800	Go	Apache-2.0 license	0	None	0
-Simple Python API to turn Civil Protection Department official COVID19 diffusion data in Italy from RSS Feed to JSON	https://github.com/alessiodl/COVID19Feed2Json	2020-02-29 06:12:44 +0800	Python	None	1	None	0
-It's a bot for selling medical supplies against coronavirus	https://github.com/HolidayMan/coronabot	2020-02-29 06:03:44 +0800	Python	None	0	None	0
-covid19pretriage	https://github.com/drdevinhopkins/covid19pretriage	2020-02-29 06:01:56 +0800	Dart	None	0	None	0
-新型冠状病毒防疫信息收集平台	https://github.com/wuhan2020/wuhan2020	2020-02-29 05:58:30 +0800	None	MIT license	6.1k	None	1
-Coronavirus (COVID-19) visualization of disease spread over time	https://github.com/RRMoelker/corona-time-series-map	2020-02-29 05:58:18 +0800	HTML	Apache-2.0 license	0	None	0
 A frontend web app uses material ui and echarts to represent statistics and collect news of coronavirus in the world.	https://github.com/denven/covid-19-statistics	2020-02-29 05:55:36 +0800	JavaScript	None	0	None	0
 Chrome extension to turn "coronavirus" into Kungflu	https://github.com/jmvaisa/kungflu	2020-02-29 05:53:08 +0800	JavaScript	None	0	None	0
-Dati aggregati per regione sullo sviluppo del corona virus in Italia	https://github.com/fabiomoli/COVID-19-ITA	2020-02-29 05:50:47 +0800	CSS	Apache-2.0 license	0	ncov, coronavirus, covid-19	0
 COVID-19	https://github.com/ImagineApp/COVID-19	2020-02-29 05:49:07 +0800	None	None	0	None	0
-coronavirus	https://github.com/conan7072/coronavirus	2020-02-29 05:41:12 +0800	HTML	None	0	None	0
 코로나19 대한민국 확진자 수 등등을 가져오는 프로그램.	https://github.com/yangis1019/COVID-19_KR	2020-02-29 05:38:44 +0800	Python	MIT license	1	None	0
 Initial analysis of COVID-19 data using Galaxy, BioConda and public research infrastructures	https://github.com/galaxyproject/SARS-CoV-2	2020-02-29 05:37:16 +0800	Jupyter Notebook	None	22	usegalaxy, 2019-ncov, coronavirus, covid-2019	0
 코로나19 현황 api를 이용한 CLI(api 사용 및 파싱 연습)	https://github.com/sevrino/COVID-19-CLI	2020-02-29 05:36:35 +0800	Python	MIT license	0	None	0
-COVID19 Italian Dashboard	https://github.com/alessiodl/COVID19Dashboard	2020-02-29 05:31:40 +0800	JavaScript	None	0	None	0
-2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Co…	https://github.com/2019ncovmemory/nCovMemory	2020-02-29 05:29:24 +0800	JavaScript	None	6.9k	wuhan, ncov, coronavirus, ncov-2019, covid-19	0
-covid-19-info-sponsors	https://github.com/geekazoid-at/covid-19-info-sponsors	2020-02-29 05:27:02 +0800	None	None	0	None	0
 Covid19	https://github.com/TrackDR/Covid19	2020-02-29 05:25:56 +0800	Jupyter Notebook	None	0	None	0
-Nextstrain build for novel coronavirus (nCoV)	https://github.com/nextstrain/ncov	2020-02-29 05:25:55 +0800	Python	MIT license	263	None	0
-Novel Corona Virus 2019 Data Analysis & Predictions	https://github.com/LeoArruda/covid-19	2020-02-29 05:21:48 +0800	Jupyter Notebook	GPL-3.0 license	0	None	0
-novel coronavirus (nCOV, cov-2, COVID) papers collected and organized	https://github.com/heykeetae/CoronaVirusPapers	2020-02-29 05:18:50 +0800	None	None	1	None	0
-Corona Virus 3D	https://github.com/urish/coronavirus-3d	2020-02-29 05:17:25 +0800	HTML	None	0	None	0
 武汉新型冠状病毒实时省市数据2019-2020, RESTful 后端	https://github.com/hehez/ncov	2020-02-29 05:12:41 +0800	TypeScript	None	0	None	0
-covid-19-info-data	https://github.com/geekazoid-at/covid-19-info-data	2020-02-29 05:12:28 +0800	None	None	0	None	0
-Analysis of 2019-nCov coronavirus data	https://github.com/jianxu305/nCov2019_analysis	2020-02-29 05:06:02 +0800	Jupyter Notebook	GPL-3.0 license	53	None	0
-covid_19_forecast	https://github.com/atecon/covid_19_forecast	2020-02-29 04:57:33 +0800	None	None	0	None	0
 A simple game designed with the Pygame library.	https://github.com/marreapato/CoVid-19_The_Game	2020-02-29 04:54:15 +0800	Python	None	0	None	0
 Simple Spring app to track number of corona affect individuals	https://github.com/sandeeptengale/coronavirustracker	2020-02-29 04:44:29 +0800	Java	None	0	None	0
 coronavirus-qa	https://github.com/sabrinamochi/coronavirus-qa	2020-02-29 04:42:28 +0800	HTML	None	0	None	0
-疫情上报小程序	https://github.com/xiapei/uni-wx	2020-02-29 04:33:57 +0800	Vue	None	0	None	0
 Personal Learning project visuaizing COVID-19	https://github.com/Gorgonx7/COVID-19-Vis-App	2020-02-29 04:31:47 +0800	JavaScript	None	0	None	0
-Wuhan2020 Community Website	https://github.com/wuhan2020/wuhan2020.github.io	2020-02-29 04:26:45 +0800	JavaScript	MIT license	63	None	1
 coronavirus	https://github.com/pacorampas/coronavirus	2020-02-29 04:19:41 +0800	HTML	None	0	None	0
 coronavirus	https://github.com/ruhanslop/coronavirus	2020-02-29 04:04:36 +0800	R	None	0	None	0
 Coronavirus_in_China	https://github.com/tatasherry/Coronavirus_in_China	2020-02-29 03:52:30 +0800	Jupyter Notebook	None	0	None	0
 A JS library that does absolutely nothing but raise an error	https://github.com/chpmrc/coronavirus.js	2020-02-29 03:39:16 +0800	JavaScript	None	2	None	0
 Little insights into the genome of the novel Coronavirus.	https://github.com/aunyks/ncov-stuff	2020-02-29 03:35:51 +0800	JavaScript	None	1	None	0
-My simple COVID-19 death-to-recovery rate model	https://github.com/zachwill/covid-19	2020-02-29 03:32:28 +0800	Jupyter Notebook	None	2	None	0
 ncov19	https://github.com/jzehr/ncov19	2020-02-29 03:27:00 +0800	Jupyter Notebook	None	0	None	0
 Artwork created by the people during the coronavirus outbreak	https://github.com/jhcccc/wuhan2020-artwork	2020-02-29 03:21:31 +0800	JavaScript	MIT license	0	None	0
-A little map showing coronavirus cases in Italy	https://github.com/napolux/coronamap	2020-02-29 03:16:30 +0800	TypeScript	None	0	None	0
 CORONAVIRUS	https://github.com/juninhoze/CORONAVIRUS	2020-02-29 03:15:27 +0800	None	None	0	None	0
-Scrape and manage nCov2019 related data from media using Pandas DataFrame	https://github.com/leonardzh/nCov2019-data-py	2020-02-29 03:15:17 +0800	Jupyter Notebook	None	1	None	0
-CoronavirusData	https://github.com/evanmiller/CoronavirusData	2020-02-29 03:04:17 +0800	None	None	0	None	0
 CoronaVirus	https://github.com/pirbpi/CoronaVirus	2020-02-29 02:56:06 +0800	Python	None	0	None	0
-Interactive Visualization of Corona Virus	https://github.com/NavidMirmohammadsadeghi/CoronaVirusSpread	2020-02-29 02:46:21 +0800	HTML	MIT license	0	None	0
 COVID-19_RMDS	https://github.com/dongzexuan/COVID-19_RMDS	2020-02-29 02:33:42 +0800	Python	None	0	None	0
 Simulacion de coronavirus 2019-ncov	https://github.com/ncespedesc/Coronavirus_bogota	2020-02-29 02:31:08 +0800	R	None	0	model, sir, stochastic-simulation-algorithm, 2019-ncov, coronavirus	0
 Pebble smartwatch app that shows you the nearest outbreak location and number of cases.	https://github.com/pauleeeeee/2019-nCoV-pebble-tracker	2020-02-29 02:26:40 +0800	C	MIT license	2	None	0
-Public line list and summaries of the COVID-19 outbreak in South Korea	https://github.com/parksw3/COVID19-Korea	2020-02-29 02:18:09 +0800	R	MIT license	8	None	0
 2019新型冠状病毒疫情信息的爬取与可视化 (Crawling and Visualization on Daily Epidemic Information of 2019 Novel Coronavirus in China Ma…	https://github.com/mame0521/2019-nCoV	2020-02-29 02:12:40 +0800	Python	None	1	None	0
-Data about COVID-19 pandemic of 2019/2020	https://github.com/r0b0tx/COVID-19	2020-02-29 02:10:28 +0800	None	None	0	None	0
 东莞理工学院疫情防控自动提交表单脚本	https://github.com/MasterKenway/DGUT-yqfk	2020-02-29 02:09:56 +0800	Python	GPL-3.0 license	3	python, python3	0
 covid-19-online-study-end	https://github.com/nguyenquangvinh2000/covid-19-online-study-end	2020-02-29 02:05:12 +0800	C++	None	0	None	0
 R code and documentation to estimate case fatality ratio of COVID-19 from cases outside China	https://github.com/calthaus/ncov-cfr	2020-02-29 02:01:33 +0800	R	GPL-3.0 license	61	None	0
@@ -156,100 +395,64 @@ CaseFatalityRatio_notebook	https://github.com/antonio-catalano/temp_Covid19	2020
 Analyzing the Coronavirus outbreak and its consequences	https://github.com/lukas-jue/coronavirus	2020-02-29 01:33:07 +0800	R	None	0	None	0
 An overview of 400 COVID-19 cases in Shenzhen.	https://github.com/CS0000/shenzhen_400case_reports_overview	2020-02-29 01:29:29 +0800	Python	None	0	None	0
 A tool for analyzing the open covid 19 data	https://github.com/Sumidu/covid19shiny	2020-02-29 01:29:13 +0800	R	None	0	None	0
-COVID-19's blockchain	https://github.com/mateonunez/blockvid	2020-02-29 01:14:39 +0800	Vue	MIT license	1	None	0
 2019-nCoV-MapboxMap	https://github.com/Connor666/2019-nCoV-MapboxMap	2020-02-29 01:07:35 +0800	HTML	None	0	None	0
 Analysis of Kaggle new COVID19 Dataset Published by John Hopkins University and SRK	https://github.com/Regetix/Corona-Virus-COVID19-Analysis	2020-02-29 01:06:10 +0800	Jupyter Notebook	None	0	None	0
 Wuhang's Warehouse	https://github.com/WUHANG66/WUHANG66.github.io	2020-02-29 01:05:21 +0800	HTML	None	0	None	0
-The data crawler for K-COVID19API from Dropper-Lab with python. (Data from http://ncov.mohw.go.kr/)	https://github.com/Dropper-Lab/korea-covid19-data-crawler	2020-02-29 01:03:53 +0800	Python	MIT license	0	None	0
 Coronavirus-DailyStats	https://github.com/SankarBhagawanPalla/Coronavirus-DailyStats	2020-02-29 01:02:05 +0800	Java	None	0	None	0
 Code and outputs from initial work on the Covid-19 and the outcomes	https://github.com/datasciencecampus/coronavirus	2020-02-29 00:58:17 +0800	None	None	0	None	0
-Project in information visualisation	https://github.com/GustafWallstrom/CoVID-19-Visualization	2020-02-29 00:57:20 +0800	JavaScript	None	0	None	0
 A Web app which tracks and display information about the Covid 19 outbreak	https://github.com/Saigonomai/covidupdate	2020-02-29 00:55:28 +0800	JavaScript	None	0	None	0
 疫情通填报、截图生成、截图上传机器人	https://github.com/keybrl/yqt_bot	2020-02-29 00:50:27 +0800	Python	MIT license	1	None	0
 COVID-19 Explorer - view case and estimated reproduction number over time	https://github.com/nickcotter/covid-19-explorer	2020-02-29 00:49:32 +0800	R	None	0	None	0
-ncov 2019 疫情图	https://github.com/yiluheihei/ncovmap	2020-02-29 00:36:33 +0800	R	CC-BY-4.0 license	0	ncov, r, leaflet-map, ncov-map	0
 A simple page featuring an interactive map presenting nCoV-19 spread in Iran	https://github.com/par6n/ncov-19	2020-02-29 00:35:36 +0800	HTML	MIT license	3	None	0
 Szymon Szostak Show	https://github.com/miKopciowski/coronavirusXDDD	2020-02-29 00:28:43 +0800	JavaScript	None	0	None	0
 Create a website to spread the right awareness of 2019 novel coronavirus.	https://github.com/HyeminNoh/IamNotAVirus	2020-02-29 00:22:36 +0800	Vue	None	0	None	0
 2019_ncov_spider	https://github.com/doctormin/2019_ncov_spider	2020-02-29 00:17:42 +0800	Python	None	0	None	0
 Investigating COVID-19 using R	https://github.com/nickcotter/coronavirus2019	2020-02-29 00:15:36 +0800	HTML	None	0	None	0
 coronavirus-tracker	https://github.com/srikanthdannarapu/coronavirus-tracker	2020-02-29 00:10:29 +0800	Java	None	0	None	0
-自动填写”疫情防控通“的每日上报信息。	https://github.com/ipid/bupt-ncov-report	2020-02-29 00:05:24 +0800	Python	MIT license	21	bupt, python, cross-platform, python3	0
-ncov-zh	https://github.com/fantasticfears-stage/ncov-zh	2020-02-29 00:01:45 +0800	TypeScript	None	0	None	0
-COVID-19/2019-nCoV Infection Data	https://github.com/hyperion-hyn/COVID-2019-DATA	2020-02-28 23:58:56 +0800	JavaScript	None	1	None	0
 Econom-a-mundial-afectada-por-el-coronavirus	https://github.com/phoenixcsp/Econom-a-mundial-afectada-por-el-coronavirus	2020-02-28 23:51:54 +0800	None	None	0	None	0
 Slack Notification Bot about changes in COVID-19 Infections	https://github.com/CruzVermelhaCNE/slack-covid-19	2020-02-28 23:51:24 +0800	PHP	None	1	None	0
 want to learn data analyse from real life	https://github.com/cnprogrammer2019/2019-nCoV	2020-02-28 23:44:36 +0800	Python	None	0	None	0
-根据中国国家卫生健康委员会提供的每日新冠肺炎相关数据，对未来累计确诊患者的总数进行建模、预测和分析。同研的你课题组，2020-1-26至今。	https://github.com/SCU-Bigdata/2019-nCoV-Forecast	2020-02-28 23:43:52 +0800	None	None	1	None	0
 Information sharing portal about nCov/SARS/MERS for drug discovery	https://github.com/GHDDI-AILab/Targeting2019-nCoV	2020-02-28 23:42:30 +0800	Python	MIT license	17	drug-discovery, mers, sars, ncov	1
 Wuhan coronavirus outbreak	https://github.com/antonlukin/2019-nCoV	2020-02-28 23:39:31 +0800	HTML	MIT license	24	coronavirus, wuhan-coronavirus-outbreak	1
-新冠肺炎失业，搭个论坛网站练练手	https://github.com/zhonyue314/wgmao	2020-02-28 23:33:38 +0800	JavaScript	None	0	None	0
-covid-19-sg	https://github.com/wentjun/covid-19-sg	2020-02-28 23:33:22 +0800	TypeScript	None	0	None	0
-Use Google Maps Timeline data	https://github.com/yjlou/2019-nCov	2020-02-28 23:32:15 +0800	JavaScript	GPL-3.0 license	3	None	0
 API: Web Service Coronavirus Disease 2019 (COVID-19), Access to live data of outbreak of novel coronavirus disease 20…	https://github.com/BaseMax/api-webservice-COVID-19	2020-02-28 23:30:58 +0800	HTML	GPL-3.0 license	6	php, api, php-api, free-api, freeapi, coronavirus, coronavirus-tracking, coronavirus-real-time, coronavirus-info, covid-19, covid-virus, covid, covid19, covid-2019, coronavirus-api, api-free, api-covid-19, api-covid, covid-api, covid-data	0
 2019冠狀病毒病疫情按地区每日新增确诊人数	https://github.com/sutra/COVID-19	2020-02-28 23:30:55 +0800	Shell	None	0	None	0
 Simple clean interface for checking the status and news about COVID-19	https://github.com/raphtlw/coronastats-web	2020-02-28 23:30:12 +0800	JavaScript	None	0	react, responsive, coronavirus, coronavirus-tracking	0
-COVID-19-nc_file	https://github.com/chuan-khuna/COVID-19-nc_file	2020-02-28 23:27:52 +0800	Jupyter Notebook	None	0	None	0
 A repository for analyzing references and database of "gisanddata.maps.arcgis.com" website for Corona Virus.	https://github.com/BaseMax/CoronaVirusDatabase	2020-02-28 23:27:07 +0800	PHP	GPL-3.0 license	6	php, coronavirus, coronavirus-tracking, coronavirus-real-time, coronavirus-info, coronavirus-analysis, covid-19, covid-virus, covid19, covid-2019, coronavirus-api, covid-api, covid-data	0
 Some analysis on the Wuhan Corona Virus	https://github.com/odaiwai/2020_wuhan_coronavirus	2020-02-28 23:26:56 +0800	Python	None	0	None	0
-疫情数据发布系统	https://github.com/vikangliang/epidemics	2020-02-28 23:26:49 +0800	Java	None	1	None	0
-疫情数据平台	https://github.com/huang1214/virusData	2020-02-28 23:26:37 +0800	HTML	None	0	None	0
 Explore discussions of coronavirus on Twitter	https://github.com/social-link-analytics-group-bsc/tw_coronovavirus	2020-02-28 23:23:48 +0800	Jupyter Notebook	None	0	None	0
 疫情上报小程序	https://github.com/mindray1991/MindrayYQSB	2020-02-28 23:23:03 +0800	JavaScript	None	4	None	0
 Tracker for COVID-19	https://github.com/GD-GJ/Corona_Tracker	2020-02-28 23:17:57 +0800	JavaScript	None	0	None	0
 none	https://github.com/Kiwimeister5/wuhanchina	2020-02-28 23:16:40 +0800	None	None	0	None	0
-Aplicativo desenvolvido para informar a situação atual do Coronavírus baseado em dados públicos.	https://github.com/armandobretas/CoronavirusMap	2020-02-28 23:13:32 +0800	JavaScript	None	0	None	0
 covid19	https://github.com/hoollyby/covid19	2020-02-28 23:13:09 +0800	Swift	None	0	None	0
-COVID-19 projects of ISPM	https://github.com/ISPMBern/covid-19	2020-02-28 23:11:55 +0800	CSS	None	0	None	0
-疫情实时数据 (Vue+echarts+webpack+bootstrap)	https://github.com/913269144/ncov-Data-chart	2020-02-28 22:59:38 +0800	JavaScript	None	0	None	0
 https://coronavirus.davidb.dev	https://github.com/bumbeishvili/coronavirus.davidb.dev	2020-02-28 22:50:36 +0800	HTML	None	3	None	0
-Documenting Chinese efforts to combat the 2019-nCoV（记录中国人抗击新型冠状病毒的努力）	https://github.com/AlbertGithubHome/ChineseVictory	2020-02-28 22:41:09 +0800	Python	MIT license	1	None	0
-🦠 Coronavirus Tracker	https://github.com/JohnCoene/coronavirus	2020-02-28 22:34:13 +0800	R	None	113	coronavirus, r, rstats, ncov, coronavirus-tracking, ncov-2019	0
-全国新型冠状病例小区分布图(数据持续更新并开放接口)	https://github.com/hack-fang/ncov-map	2020-02-28 22:32:39 +0800	Vue	None	20	None	0
 r_flu_covid	https://github.com/drkritchavat/r_flu_covid	2020-02-28 22:32:26 +0800	Jupyter Notebook	None	0	None	0
-2020年春季学期软件工程大作业：疫区管理系统	https://github.com/Catnip0709/EpidemicAreaManagementSystem	2020-02-28 22:24:53 +0800	None	None	0	None	0
 COVID19CaseMonitor	https://github.com/JulianChia/COVID19CaseMonitor	2020-02-28 22:22:49 +0800	Python	GPL-3.0 license	0	singapore, monitoring-scripts, covid-19	0
-COVID-19	https://github.com/fkrauer/COVID-19	2020-02-28 22:18:32 +0800	None	GPL-3.0 license	1	None	0
 website for reporting 2019 novel Coronavirus risk and projections	https://github.com/CEIDatUGA/2019nCoV-Dashboard	2020-02-28 22:12:24 +0800	HTML	None	1	None	0
-智慧防疫开发	https://github.com/hfepay/epidemic_prevention	2020-02-28 22:01:02 +0800	Vue	None	0	None	0
-nCov 2019 аналитика	https://github.com/cdies/nCov	2020-02-28 21:52:09 +0800	Jupyter Notebook	None	0	None	0
 Simple Spring boot Coronavirus tracker app with data from CSSEGISandData github based on KoushikKothagal tutorial	https://github.com/Jaziuu/coronavirus-tracker	2020-02-28 21:50:56 +0800	Java	None	0	None	0
 News Article Parser that aggregates data to get the COVID-19 cases in the Philippines	https://github.com/magoanalytics/COVID19TrackerPH	2020-02-28 21:48:44 +0800	Jupyter Notebook	None	0	None	0
-疫情一体化PC	https://github.com/Wang-sp/yqythPC	2020-02-28 21:40:59 +0800	Vue	None	0	None	0
 tracking eruopean cases	https://github.com/ms-soil/covid19-from-jhu-ccse	2020-02-28 21:35:31 +0800	R	None	0	None	0
 MM module for current COVID-19 virus status.	https://github.com/eouia/MMM-COVID-19	2020-02-28 21:35:25 +0800	JavaScript	MIT license	0	None	0
-nCovMemory-Web	https://github.com/Project-Gutenberg/nCovMemory-Web	2020-02-28 21:29:13 +0800	CSS	None	0	None	0
 This is a breif introduction of SARS-CoV-2 and COVID-19, as more research complete, new information will be updated	https://github.com/Wanqi-Wang/SARS-CoV-2	2020-02-28 21:25:37 +0800	None	None	0	None	0
 Notebook for data visualization of COVID-19 impact	https://github.com/beejeke/covid19-notebook	2020-02-28 21:22:15 +0800	Jupyter Notebook	None	0	None	0
-Collecting data of nCoV-2019	https://github.com/HgS318/nCoV2019	2020-02-28 21:21:11 +0800	Python	None	0	None	0
 covid-19	https://github.com/ceumicrodata/covid-19	2020-02-28 21:19:36 +0800	None	None	0	None	0
 疫情的数据文件	https://github.com/z1z22/yiqing_data	2020-02-28 21:12:59 +0800	None	None	0	None	0
 My first attempt in web and first homework of Programming in 2020.	https://github.com/H-primes/2019-nCov	2020-02-28 21:12:39 +0800	JavaScript	None	1	None	0
 爬取丁香园冠状病毒新型肺炎疫情实时数据+数据持久化+邮件通知	https://github.com/Ticsmyc/2019nCoV-Crawler	2020-02-28 20:59:06 +0800	Java	GPL-3.0 license	18	None	0
 situation-coronavirus	https://github.com/aknow2/situation-coronavirus	2020-02-28 20:54:44 +0800	JavaScript	GPL-3.0 license	2	None	0
 COVID-19-importation-risk	https://github.com/moritz-wagner/COVID-19-importation-risk	2020-02-28 20:54:40 +0800	R	None	0	None	0
-2019-nCoV data of Hubei province	https://github.com/cissieAB/2019-nCoV-Hubei	2020-02-28 20:50:09 +0800	None	None	0	datasets, pandemic, 2019-ncov	0
 This app gives you the latest stats about the corona virus status world wide. Spring boot is used. NOTE that that dat…	https://github.com/surajrocks1997/coronavirus-tracker	2020-02-28 20:48:19 +0800	Java	None	0	None	0
 宁大nCov每日自动健康打卡	https://github.com/zzzain46/NBU-nCov-killer	2020-02-28 20:37:57 +0800	Python	None	2	None	0
 🦠 Dashboard to follow in real time the Covid-19 evolution.	https://github.com/Lrakotoson/Covid-19	2020-02-28 20:37:21 +0800	HTML	MIT license	0	r, dashboard-application, coronavirus	0
 coronavirusNL	https://github.com/lonewolfmedia/coronavirusNL	2020-02-28 20:34:49 +0800	JavaScript	MIT license	0	None	0
 COVID	https://github.com/MaxineSun/COVID	2020-02-28 20:29:53 +0800	Python	None	0	None	0
-Minimal COVID-19 (novel coronavirus) dashboard built using RMarkdown and flexdashboard	https://github.com/martinctc/COVID-19-R	2020-02-28 20:24:26 +0800	HTML	GPL-3.0 license	0	None	0
-vue-coronavirus	https://github.com/axmand/vue-coronavirus	2020-02-28 20:12:36 +0800	JavaScript	MIT license	0	None	0
-Representation of the coronavirus that appeared in Wuhan, China in 2019	https://github.com/louisnot/n-Cov2019	2020-02-28 20:09:47 +0800	Jupyter Notebook	None	0	None	0
 2019-nCoV-stats	https://github.com/BenediktElssmann/2019-nCoV-stats	2020-02-28 20:08:40 +0800	Python	None	0	None	0
-A Shiny Web App tutorial inspecting the COVID-19 (2019-nCoV) epidemic	https://github.com/onlyphantom/coronavirus	2020-02-28 19:56:23 +0800	R	None	1	None	0
-코로나 확진자 수/정보 크롤링	https://github.com/LiveCoronaDetector/CoronaCrawler	2020-02-28 19:51:56 +0800	Python	None	3	kcdc, crawler, crawling-python, coronavirus	0
 A Chrome plugin which removes Coronavirus-related posts from Facebook	https://github.com/lppedd/coronavirus-post-remover	2020-02-28 19:47:23 +0800	TypeScript	None	4	facebook, chrome-extension, chrome, coronavirus	0
 Coronavirus disease 2019 (COVID-19) situation report	https://github.com/MikePolyakov/django_project	2020-02-28 19:45:29 +0800	Python	MIT license	0	None	0
 Parse WHO COVID-19 situation report PDFs into JSON data	https://github.com/jbg/covid-situation-reports	2020-02-28 19:42:54 +0800	Rust	None	0	None	0
 [Self-Study] Real-time React map of residential areas found COVID-19 in Shenzhen, Guangdong, China	https://github.com/amelieykw/Real-time-React-map-of-COVID-19-in-Shenzhen-Guangdong-China	2020-02-28 19:37:07 +0800	JavaScript	MIT license	0	None	0
 仿百度疫情地图	https://github.com/lishuocoder/EpidemicMap	2020-02-28 19:36:05 +0800	Vue	None	1	None	0
 CoronaVirus	https://github.com/KWONYHULHEE/CoronaVirus	2020-02-28 19:23:29 +0800	JavaScript	None	0	None	0
-Collection of scripts for data visualisation and good code practice.	https://github.com/Perishleaf/data-visualisation-scripts	2020-02-28 19:14:25 +0800	Jupyter Notebook	MIT license	21	python3, matplotlib, datavisualization, plotly-dash, dashborad, coronavirus, covid-19	0
-疫情可视化页面	https://github.com/songcee/yiqing	2020-02-28 19:05:37 +0800	Vue	None	1	None	0
 COVID-19-rss-slack	https://github.com/ytRino/COVID-19-rss-slack	2020-02-28 18:47:20 +0800	TypeScript	None	0	None	0
-This project aims to predict the numbers that are published in each day regarding the amount of Coronavirus (COVID-19…	https://github.com/eladcn/coronavirus_prediction	2020-02-28 18:41:14 +0800	Python	GPL-3.0 license	3	deaths, coronavirus, predictions, machine-learning, linear-regression, cases, covid-19	0
 bupt-covid-19-report	https://github.com/igaryhe/bupt-covid-19-report	2020-02-28 18:39:48 +0800	TypeScript	None	0	None	0
 nCovVisualization_Web-master	https://github.com/Memory1031/nCovVisualization_Web-master	2020-02-28 18:39:12 +0800	Vue	None	1	None	0
 健康考勤	https://github.com/lvyating888/ncov	2020-02-28 18:36:22 +0800	HTML	None	0	None	0
@@ -260,81 +463,54 @@ Splunk App that will help you to monitor the Coronavirus situation all over the 
 Data Collection from Jan 26 till now. Collected from Dxy.	https://github.com/EthanGeekFan/wuhan-coronavirus-data	2020-02-28 18:20:07 +0800	Python	MIT license	0	None	0
 海曙疫情项目	https://github.com/hjf110/epidemic	2020-02-28 18:07:04 +0800	Vue	MIT license	0	None	0
 自动填报疫情防控通	https://github.com/littlepure2333/bupt-ncov-report-action	2020-02-28 17:57:52 +0800	TypeScript	None	0	None	0
-topic_COVID-19	https://github.com/m1991allen/topic_COVID-19	2020-02-28 17:48:22 +0800	HTML	None	0	None	0
-2019-nCoV development visualization.	https://github.com/Arcticmarmot/nCoV	2020-02-28 17:43:25 +0800	TypeScript	None	0	None	0
-coronavirus2020	https://github.com/dkapexhiu/coronavirus2020	2020-02-28 17:40:28 +0800	JavaScript	None	0	None	0
 全国疫情数据分析😷😷😷😷	https://github.com/Ignorance-of-Dong/Epidemic-situation-analysis	2020-02-28 17:35:27 +0800	TypeScript	None	1	None	0
-COVID-2019	https://github.com/He--He/COVID-2019	2020-02-28 17:32:08 +0800	TypeScript	MIT license	0	None	0
 코로나바이러스 예측 모델 / COVID-19 Prediction Model	https://github.com/gtg7784/covid19-ai	2020-02-28 17:27:26 +0800	None	GPL-3.0 license	0	None	0
 collecting data: updated everyday by GitHub Actions	https://github.com/datumorphism/2019-ncov	2020-02-28 17:22:23 +0800	None	None	0	None	0
 ncov-2019	https://github.com/dalorkee/ncov-2019	2020-02-28 17:18:51 +0800	HTML	None	0	None	0
 Data Extracts from World Health Organization	https://github.com/C0D4-101/coronavirus-2019-nCov	2020-02-28 17:05:32 +0800	HTML	None	5	None	0
-ncov-go	https://github.com/huagua/ncov-go	2020-02-28 16:52:09 +0800	Go	None	0	None	0
-shiny-server (Apps: Coronavirus, TCGA Genome analyzer, Text miner)	https://github.com/korur/shiny-server	2020-02-28 16:51:35 +0800	R	None	1	None	0
 I noticed that weather affect this virus in some way,especially when above 20℃ and low air humidity。	https://github.com/4SmarterWorld/WeatherAffectOnCOVID-19	2020-02-28 16:45:54 +0800	None	None	0	None	0
-手机端抗击肺炎	https://github.com/BigHead773/fightTheOutbreak	2020-02-28 16:36:27 +0800	HTML	None	0	None	0
 tv端抗击肺炎	https://github.com/BigHead773/app_tv	2020-02-28 16:32:48 +0800	HTML	None	0	None	0
-ncov-project	https://github.com/Huai-Dc/ncov-project	2020-02-28 16:16:58 +0800	Vue	None	0	None	0
-Covid-19 outbreak data and analysis	https://github.com/audreyqyfu/covid19	2020-02-28 16:13:11 +0800	R	GPL-3.0 license	1	None	0
 NOS DAO - Ncov Open Source DAO	https://github.com/Wanxiang-Blockchain-Hackathon-2020/N23-Rebase	2020-02-28 16:10:42 +0800	None	None	0	None	0
-An EXCEL(xlsx) file of 2019-nCoV statistical data	https://github.com/Permsun/2019-nCoV-data	2020-02-28 16:07:33 +0800	None	None	0	None	0
 Chinese-medical-staff-request-international-medical-assistance-in-fighting-against-COVID-19	https://github.com/ltibravo/Chinese-medical-staff-request-international-medical-assistance-in-fighting-against-COVID-19	2020-02-28 15:47:22 +0800	None	None	0	None	0
 Journal for daily things I see in Munich during the coronavirus explosion period	https://github.com/garchingastronomy/-	2020-02-28 15:40:58 +0800	None	None	0	None	0
 awesome-COVID-19.github.io	https://github.com/awesome-COVID-19/awesome-COVID-19.github.io	2020-02-28 15:36:49 +0800	None	None	0	None	0
-Coronavirus outbreak notifier.	https://github.com/tugrulelmas/Covid-19News	2020-02-28 15:32:20 +0800	C#	MIT license	0	None	0
 COVID-19 Extension Application	https://github.com/49co/covid119	2020-02-28 15:27:21 +0800	JavaScript	None	2	None	0
 Website for https://covid19.nz about Coronavirus and NZ	https://github.com/njt/covid19.nz	2020-02-28 15:23:53 +0800	None	CC0-1.0 license	0	None	0
 新型冠状病毒疫情可视化	https://github.com/AArtemida/2019ncov-about	2020-02-28 15:19:56 +0800	None	None	0	None	0
 Coronavirus-info website	https://github.com/SpencerAung/coronavirus-info	2020-02-28 15:17:44 +0800	JavaScript	None	1	None	0
 COVID19map_GUMI	https://github.com/gluehosp1837/COVID19map_GUMI	2020-02-28 15:17:36 +0800	HTML	None	0	None	0
 wuhan	https://github.com/wangxs2/Viruses	2020-02-28 15:03:42 +0800	Vue	None	0	None	0
-COVID-19 data from the repo CSSEGISandData/COVID-19	https://github.com/DataHerb/dataset-covid-19	2020-02-28 15:02:47 +0800	None	None	0	None	0
 Coronavirus	https://github.com/xcv58/Coronavirus	2020-02-28 14:53:18 +0800	TypeScript	MIT license	3	None	0
 It's been hard to find mask seller now around the world, please help to add those mask sellers to the list	https://github.com/kai-chu/COVID-19-MaskSellers	2020-02-28 14:47:36 +0800	None	None	0	global, face-mask, coronavirus, covid-19	0
-使用echarts开发的中国肺炎实时地图	https://github.com/Laboor/Pneumonia-Live-Map	2020-02-28 14:45:43 +0800	JavaScript	None	0	None	0
-2019-nCoV 台灣時間表 參照疾病管制署	https://github.com/GeeHsu/2019-nCoV	2020-02-28 14:34:04 +0800	HTML	None	0	None	0
 covid-19-thailand	https://github.com/M4R14/covid-19-thailand	2020-02-28 14:31:58 +0800	HTML	None	0	None	0
-writing	https://github.com/larynx95/wuhan_korea	2020-02-28 14:27:47 +0800	None	None	0	None	0
 nCoV-Global-Map	https://github.com/timorleste/nCoV-Global-Map	2020-02-28 14:24:59 +0800	HTML	None	0	None	0
 react-coronavirus-express-api-server	https://github.com/OkeyDokeyYooo/react-coronavirus-express-api-server	2020-02-28 14:22:30 +0800	JavaScript	None	1	None	0
 Mapping the coronavirus propagation using d3.js	https://github.com/labsletemps/coronavirus-world-map-evolution	2020-02-28 14:20:58 +0800	JavaScript	MIT license	0	None	0
 Spring Boot Java app to track coronavirus confirmed cases across the globe	https://github.com/koushikkothagal/coronavirus-tracker	2020-02-28 14:20:36 +0800	Java	None	2	None	0
 Wuhan Novel Corona Virus 2019 in China, from 2020/02/05 to now, updating...(武汉新性肺炎数据整合，从2020年2月5日开始，每日更新中)	https://github.com/NemoHoHaloAi/Wuhan-Novel-Corona-Virus-2019	2020-02-28 14:16:24 +0800	Python	None	2	None	0
-2019 Wuhan Coronavirus data (2019-nCoV)	https://github.com/globalcitizen/2019-wuhan-coronavirus-data	2020-02-28 14:04:25 +0800	PHP	GPL-3.0 license	466	wuhan, coronavirus, opendata, viruses, virology, pandemic, pathogens, 2019-ncov, 2019ncov, epedemiology, epedemic	2
 The destructive Coronavirus keeps on spreading far and wide. Luckily, a few organizations have begun to make a move. …	https://github.com/oxybrema28/oxybrema28	2020-02-28 14:03:58 +0800	None	None	0	None	0
 😷个人微信小程序（已发布），共抗疫情,你的头像戴口罩了吗？	https://github.com/CrabMen/weapp-profile-mask	2020-02-28 13:41:02 +0800	JavaScript	MIT license	8	profile, wechat, weapp, mask, miniprogram	0
 航天云网江苏平台疫情页面(私用)	https://github.com/3sui/yiqing	2020-02-28 13:33:02 +0800	HTML	None	0	None	0
-使用selenium模拟浏览器完成东南大学每日疫情上报	https://github.com/CaptainNeuron/seu_cor_auto_report	2020-02-28 13:30:09 +0800	Python	None	0	None	0
-A clone data about ncov in china	https://github.com/samuraitruong/ncov-2019	2020-02-28 13:26:30 +0800	JavaScript	None	0	None	0
 tethysapp-covid	https://github.com/gagelarsen/tethysapp-covid	2020-02-28 13:25:49 +0800	Python	None	0	None	0
-COVID-2019 API | CoronaVirus 2019 Global Cases	https://github.com/nat236919/Covid2019API	2020-02-28 13:25:05 +0800	Python	MIT license	20	None	0
 evaluating uncertainties associated with nCoV R0 estimates	https://github.com/parksw3/nCoV_framework	2020-02-28 12:49:01 +0800	TeX	None	2	None	0
 COVID19-ShinyDB	https://github.com/koki25ando/COVID19-ShinyDB	2020-02-28 12:44:48 +0800	R	None	0	None	0
-A program for test of high-level programming language in Taishan college, SDU	https://github.com/icy-blue/2019ncov	2020-02-28 12:31:58 +0800	JavaScript	MIT license	2	None	0
 公益应用-武汉新型冠状病毒学生情况问卷，帮助老师收集学生状况	https://github.com/doublechaintech/health-biz-suite	2020-02-28 12:24:40 +0800	Java	None	0	None	0
 新型冠状病毒实时数据	https://github.com/Xzw111222/2019-nCoV	2020-02-28 12:21:07 +0800	Vue	None	1	None	0
 COVID-19 Data Visualization 国内数据可视化	https://github.com/ousheobin/covid-19-vis	2020-02-28 12:18:46 +0800	Vue	None	0	None	0
-nCoV-Sandbox	https://github.com/HopkinsIDD/nCoV-Sandbox	2020-02-28 12:10:40 +0800	HTML	None	11	None	0
 react-coronavirus	https://github.com/OkeyDokeyYooo/react-coronavirus	2020-02-28 12:08:14 +0800	JavaScript	None	1	None	0
 practice page: goal is to create simple HTML website, collaborate with a classmate, and upload to GIThub using terminal	https://github.com/Ryan-Geddes/coronavirus-practice	2020-02-28 12:06:28 +0800	None	MIT license	0	None	0
-新冠疫情小区分布数据（数据来自各城市卫健委等官方微信公众号和官方网站）	https://github.com/bjwa2020/coronavirus	2020-02-28 11:57:50 +0800	None	None	21	None	0
 Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus)	https://github.com/the-robot/corona-bot	2020-02-28 11:52:32 +0800	JavaScript	GPL-3.0 license	21	telegram-bot, telegram-channel, coronavirus, wuhan-pneumonia, wuhan-coronavirus-outbreak, coronavirus-globaloutbreak, coronavirus-real-time, covid-19, covid-virus	0
 抓取Github上与武汉疫情有关项目的简单爬虫	https://github.com/chbinnc/Wuhan-nCoV-Github-Proj-List	2020-02-28 11:35:06 +0800	Python	MIT license	0	None	0
 COVID19map4GUMI	https://github.com/gluehosp1837/COVID19map4GUMI	2020-02-28 11:28:20 +0800	None	None	0	None	0
 List of organized novel coronavirus (nCOV, cov-2, COVID)	https://github.com/heykeetae/coronaviruspapers	2020-02-28 11:25:31 +0800	None	None	0	None	0
-武汉同胞口罩下的呐喊 | Humanitarian Crisis in Wuhan, China	https://github.com/wuhancrisis/wuhancrisis.github.io	2020-02-28 11:12:01 +0800	JavaScript	None	35	None	0
 新型冠状病毒疫情实时动态	https://github.com/sc950828/fy	2020-02-28 11:08:19 +0800	Vue	None	1	None	0
 Related files pertaining to a SARS-CoV-2 bait capture platform.	https://github.com/jaleezyy/covid-19-baits	2020-02-28 11:07:03 +0800	Python	None	4	None	0
 Coronavirus-GlobeVis	https://github.com/Kaleidot/Coronavirus-GlobeVis	2020-02-28 10:48:05 +0800	C#	None	0	None	0
-Survive the coronavirus AKA COVID-19 AKA Wuhan Flu AKA 2019-nCoV AKA China Flu!	https://github.com/survivechinaflu/survivechinafludotcom	2020-02-28 10:38:22 +0800	None	None	0	None	0
 covid-19 map test	https://github.com/lovetogis/covid19	2020-02-28 10:34:53 +0800	HTML	None	0	None	0
 The following repository will hold the data related to the continental US epidemic and mobility model.	https://github.com/catrasca/coronavirus	2020-02-28 10:34:04 +0800	None	GPL-3.0 license	0	None	0
-新型冠狀病毒肺炎（武漢肺炎）感染即時資訊 | 2019-nCoV realtime information platform	https://github.com/icelam/wuhan-pneumonia	2020-02-28 10:13:33 +0800	Vue	MIT license	1	d3, php, vuejs, vue, d3js, d3-geo, wars, hongkong, hong-kong, pneumonia, d3v5, wuhan, 2019-ncov, wuhan-pneumonia, novel-coronavirus, w-virus, novel-coronavirus-2019	0
 ncov_stat_web	https://github.com/shunnokw/ncov_stat_web	2020-02-28 10:01:07 +0800	JavaScript	None	0	None	0
 测试页面	https://github.com/zhangzihaoDT/2020_nCov	2020-02-28 10:00:09 +0800	JavaScript	None	0	None	0
-This is simple program of visualization of NCP Data in Wuhan.	https://github.com/lethal233/Visualization-of-NCP-Data-in-Wuhan	2020-02-28 09:57:21 +0800	Python	None	2	None	0
 可以在这里放置我们的主页。利用 Github Pages 直接建站。	https://github.com/covid19-eu-zh/covid19-eu-zh.github.io	2020-02-28 09:47:23 +0800	CSS	None	0	None	0
-Simple python code to get COVID19 numbers	https://github.com/RichWellum/covid19	2020-02-28 09:31:51 +0800	Python	None	0	None	0
 🦠 使用 GitHub Actions 自动填报北邮 SARS-CoV-2 疫情信息	https://github.com/imtsuki/bupt-ncov-report-action	2020-02-28 09:24:36 +0800	TypeScript	None	19	None	0
 Analysis of the Coronavirus outbreak using Benford's Law	https://github.com/HanselPalencia/BenfordsLaw	2020-02-28 09:08:28 +0800	R	None	0	None	0
 Staging: https://mccy-ncov-staging.netlify.com Production: https://mccy-ncov-prod.netlify.com	https://github.com/isomerpages/mccy-ncov	2020-02-28 09:01:23 +0800	CSS	None	1	None	0
@@ -347,10 +523,8 @@ Convocatoria COVID-19 Challenge	https://github.com/widscommunityorg/CoronaV_Chal
 covid-19-kg	https://github.com/gengchenmai/covid-19-kg	2020-02-28 07:36:59 +0800	JavaScript	None	0	None	0
 Alexa skill tracks the spread of covid nineteen	https://github.com/Faulkner368/covidnineteen	2020-02-28 07:19:00 +0800	Python	None	0	None	0
 Timeseries plots of the total number of people who were diagnosed with, died from, and recovered from the COVID19 cor…	https://github.com/rutterksu/COVID19_timeseries	2020-02-28 07:04:30 +0800	Jupyter Notebook	None	0	None	0
-A collection of Open Source projects for supporting Wuhan during 2019-nCoV	https://github.com/WeileiZeng/OpenSourceWuhan	2020-02-28 06:55:17 +0800	Ruby	GPL-3.0 license	32	open-source, wuhan, 2019-ncov, coronavirus, covid-19, sars-cov-2	0
 Main goal of the script was to automate the creation of charts using data about COVID19 cases.	https://github.com/msarnacki/coronavirus-COVID19	2020-02-28 06:54:23 +0800	Jupyter Notebook	None	0	None	0
 Coronavirus-Outbreak	https://github.com/MasoodMS95/Coronavirus-Outbreak	2020-02-28 06:53:47 +0800	C#	None	0	None	0
-Explore case numbers and deaths related to Coronavirus outbreak 2019/2020, attempt to fit simple polynomial like curve	https://github.com/fangohr/coronavirus-2020	2020-02-28 06:35:47 +0800	Jupyter Notebook	BSD-3-Clause license	11	None	0
 information-of-covid19	https://github.com/Jinho-Choi123/information-of-covid19	2020-02-28 06:33:20 +0800	HTML	None	0	None	0
 covid19	https://github.com/domsteil/covid19	2020-02-28 06:31:25 +0800	Jupyter Notebook	None	0	None	0
 An RNAi pipeline is applied to the genome of SARS like corona virus "severe acute respiratory syndrome coronavirus 2"…	https://github.com/dmcgoldrick/17-antiviral-COVID19-siRNA-	2020-02-28 06:24:52 +0800	None	None	1	None	0
@@ -361,28 +535,22 @@ Community-maintained COVID-19 information. Not medical advice, consult your gove
 coronavirusExplorer-datalatam-talk	https://github.com/ian-flores/coronavirusExplorer-datalatam-talk	2020-02-28 05:50:59 +0800	R	None	0	None	0
 2019-nCov Corona Virus data analysis, and web interactive plots. Made with Django + Python	https://github.com/BrianRuizy/corona-virus-interactive	2020-02-28 05:45:40 +0800	Python	None	0	health, data-visualization, china, pygal, 2019-ncov, coronavirus, coronavirus-tracking, coronavirus-analysis	0
 covid19	https://github.com/chule/covid19	2020-02-28 05:40:56 +0800	JavaScript	None	0	None	0
-(In Progress) 2019 Novel Coronavirus Analysis & Visualisations | Plotly Visuals Deployed on Google Cloud Platform	https://github.com/rezan21/2019-nCov	2020-02-28 05:27:08 +0800	Jupyter Notebook	MIT license	0	None	0
 2019_nCoV_Dataset	https://github.com/YevheniiBespoiasko/2019_nCoV_Dataset	2020-02-28 05:06:20 +0800	None	None	0	None	0
 COVID-19	https://github.com/sp3449/COVID-19	2020-02-28 04:54:13 +0800	None	None	0	None	0
 A visualizer for the COVID-19 ("Coronavirus") disease utilizing a JavaScript globe.	https://github.com/navidmx/covidVisualizer	2020-02-28 04:52:21 +0800	JavaScript	None	0	None	0
 Create trend plots to monitor progress of 2019 nCoV (ncovid)	https://github.com/clarity7764/ncovtrending	2020-02-28 04:42:30 +0800	HTML	None	0	None	0
 A bot that reads live info about the coronavirus outbreak and publishes some (encouraging) stats online.	https://github.com/malmriv/coronabot	2020-02-28 04:38:18 +0800	R	None	0	None	0
-An exploratory data analysis of Coronavirus globally with data from John Hopkins University updated daily.	https://github.com/frankcardozo/Coronavirus_analysis	2020-02-28 04:30:04 +0800	Jupyter Notebook	None	0	None	0
 COVID	https://github.com/LifeAnalyst/COVID	2020-02-28 04:15:52 +0800	None	None	0	None	0
-Flask Web Application "Coronavirus Latest and Prediction" using Bootstrap and AI	https://github.com/yaiestura/coronavirus_prediction	2020-02-28 04:07:21 +0800	None	None	0	None	0
 covid19map	https://github.com/SmackCristian/covid19map	2020-02-28 03:50:48 +0800	HTML	None	0	None	0
-Monitoring the Wuhan virus spread pace	https://github.com/talkrz/2019ncov	2020-02-28 03:28:54 +0800	JavaScript	None	1	dataset, 2019-ncov	0
 Coronavirus	https://github.com/Danielpe10/Coronavirus	2020-02-28 03:27:23 +0800	HTML	None	0	None	0
 Covid19_Analysis	https://github.com/davidrmoxley/Covid19_Analysis	2020-02-28 03:22:11 +0800	None	None	0	None	0
 Web scraping using Beautiful Soup (bs4) and Realtime Coronavirus Visualization using Folium Python	https://github.com/Umernasirr/CoronavirusRealtimeVis	2020-02-28 03:14:37 +0800	Jupyter Notebook	None	0	None	0
 Surveillance of Coronavirus COVID-2019	https://github.com/stanleysfang/surveillance_2019_ncov	2020-02-28 03:11:36 +0800	Jupyter Notebook	None	0	None	0
-武汉祝融开源项目V2.0-小程序版（新增第三方服务）	https://github.com/stevekeol/DonationChannel-2.0	2020-02-28 02:46:32 +0800	JavaScript	None	0	None	0
 A Discord Bot that alerts you on newly discovered cases and deaths from Novel Coronavirus (2019-nCoV) around the world	https://github.com/sebveigli/coronavirusupdaterbot	2020-02-28 02:37:16 +0800	Python	None	1	None	0
 An application to test deployments to heroku	https://github.com/tcramer217/coronavirus-heatmap	2020-02-28 02:36:03 +0800	TypeScript	None	1	None	0
 Collection of Coronavirus spread models.	https://github.com/SynapticHorizons/Covid-19	2020-02-28 02:34:04 +0800	None	None	0	None	0
 covid19ita	https://github.com/rinose/covid19ita	2020-02-28 02:05:08 +0800	JavaScript	None	0	None	0
 GitHub page with information about COVID-19 and the situation in Switzerland	https://github.com/swiss-covid/swiss-covid.github.io	2020-02-28 01:50:10 +0800	None	None	0	None	0
-Predicting-the-Spread-of-COVID-19	https://github.com/gksidhu/Predicting-the-Spread-of-COVID-19	2020-02-28 01:26:39 +0800	Jupyter Notebook	None	0	None	0
 My complaint about big data companies' response to the COVID-19 outbreak	https://github.com/jawz101/Big-Data-Company-Coronavirus	2020-02-28 01:23:49 +0800	None	None	0	None	0
 ARTIC nanopore protocol for nCoV2019 novel coronavirus	https://github.com/artic-network/artic-ncov2019	2020-02-28 01:18:18 +0800	None	None	9	None	0
 Check your location history to see how close you've been to an area that was hazardous, e.g. coronavirus	https://github.com/8x6/CloseCall	2020-02-28 01:10:15 +0800	Swift	GPL-3.0 license	0	None	0
@@ -394,24 +562,18 @@ covid-19 spreading, the timing of entering new infenctions to new prefectures.	h
 Placeholder description: @HarryFischer created this with repo-genesis	https://github.com/guardian/interactive-atom-coronavirus-carousel	2020-02-28 00:14:04 +0800	HTML	None	0	@HarryFischer	0
 Site informativo Covid-19	https://github.com/GabrielPiM/covid19br	2020-02-28 00:13:03 +0800	None	None	0	None	0
 Visualization_for_Coronavirus	https://github.com/nabilbg/Visualization_for_Coronavirus	2020-02-28 00:07:31 +0800	Jupyter Notebook	None	0	None	0
-Coronavirus	https://github.com/Nenino2/Coronavirus	2020-02-27 23:59:58 +0800	Vue	None	0	None	0
 The practice for Machine Learning & Analyzing 2019-nCov-Data	https://github.com/IcyW/Lecture_Machine-Learning	2020-02-27 23:59:24 +0800	Python	None	0	None	0
 My own analysis (and preliminary predictions) of the 2019 nCoV outbreak	https://github.com/DannyArends/2019-nCoV	2020-02-27 23:56:57 +0800	R	None	2	None	0
-nCov Open Data Project for nCov-2019-data-science	https://github.com/arrebole/glacierice	2020-02-27 23:50:54 +0800	JavaScript	None	2	None	0
 因疫情无法返工，在家练习angular创建的项目	https://github.com/ronnycyy/AngularTest	2020-02-27 23:37:52 +0800	TypeScript	None	0	None	0
 get notified as soon as shit hits the fan	https://github.com/rrroyal/fuckingncov	2020-02-27 23:14:27 +0800	JavaScript	GPL-3.0 license	1	nodejs, node-js, 2019-ncov, ncov, coronavirus, sars-cov-2, ncov-api	0
 covid-19 spreading, the timing of entering new infenctions to new prefectures.	https://github.com/toshiakiasakura/covid-19_spreading	2020-02-27 23:13:32 +0800	Jupyter Notebook	None	0	None	0
 Simple desktop alert on updates of Wuhan virus statistics generated using the Notifications feature on Mac or Windows…	https://github.com/vipervit/wuhan_stats	2020-02-27 23:12:14 +0800	Python	Apache-2.0 license	1	alert, python, desktop-notifications, webscraping, wuhan	0
 App con información sobre Covid-19	https://github.com/enriqueaco/COVID-19-InfoCU	2020-02-27 23:11:38 +0800	None	None	0	None	0
-针对新冠病毒疫情数据的清洗脚本和清洗后的数据，数据源使用 https://github.com/BlankerL/DXY-COVID-19-Data 的每日抓取数据	https://github.com/Avens666/COVID-19-2019-nCoV-Infection-Data-cleaning-	2020-02-27 22:59:26 +0800	Python	MIT license	21	None	0
 新型冠状病毒疫情温州市数据	https://github.com/sinchang/2019-ncov-data-wenzhou	2020-02-27 22:54:27 +0800	HTML	MIT license	0	wuhan, ncov, wenzhou	0
 武汉理工大学研究生学位论文LaTeX模板	https://github.com/Jiayin-Gu/WUTthesis	2020-02-27 22:39:52 +0800	TeX	None	0	None	0
 疫情数据实时显示分析平台	https://github.com/jiangzetian/es_show	2020-02-27 22:37:32 +0800	Vue	None	0	None	0
-An application with information and help for the covid-19	https://github.com/ignacio68/covid19-app	2020-02-27 22:37:24 +0800	TypeScript	None	0	None	0
 代码传“情”，武汉加油！	https://github.com/xjzsq/anti-2019-nCoV	2020-02-27 22:36:18 +0800	C++	None	0	None	0
 A Discord bot that very simply emulates spread of Corona virus/COVID-19.	https://github.com/NVedsted/corona-bot	2020-02-27 22:32:12 +0800	TypeScript	None	0	None	0
-疫情期间重拾spring boot的学习	https://github.com/Zgxh/Restart-Spring-Boot	2020-02-27 22:21:21 +0800	Java	None	0	None	0
-covid-19-singapore	https://github.com/tanpuany/covid-19-singapore	2020-02-27 22:11:20 +0800	None	None	0	None	0
 Covid19_Real_Time_Tracker	https://github.com/Stephen0117/Covid19_Real_Time_Tracker	2020-02-27 22:02:45 +0800	None	None	0	None	0
 COVID19	https://github.com/samkhara/COVID19	2020-02-27 22:01:04 +0800	None	None	0	None	0
 湖北疫情期间的心理咨询	https://github.com/leefurong/hbxlzx	2020-02-27 22:00:38 +0800	JavaScript	None	0	None	0
@@ -425,12 +587,9 @@ Corona Bot is a facebook messenger bot to update users about the virus spread pr
 An image based CT attempt at coronavirus2019 (covid19) diagnosis.	https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR	2020-02-27 21:08:25 +0800	Python	None	5	None	0
 武汉大学《中华乐教导引》笔记	https://github.com/SmallZhezhe/Chinese-Music-Guide	2020-02-27 20:59:49 +0800	TeX	BSD-3-Clause license	0	None	0
 ncov-data	https://github.com/yiluheihei/ncov-data	2020-02-27 20:52:21 +0800	None	None	0	None	0
-dailycoronabot is a twitter bot that informs the status of the coronavirus in South Korea🦠	https://github.com/jongwooo/dailycoronabot	2020-02-27 20:52:14 +0800	JavaScript	MIT license	0	coronavirus, bot, twitter, twitter-api, github-actions	0
 使用vue创建疫情分布地图	https://github.com/lihongjielive/vue-map	2020-02-27 20:45:40 +0800	Vue	None	0	None	0
 2020疫情期间学校为统计学生体温信息的系统	https://github.com/508lab/outbreak	2020-02-27 20:44:17 +0800	JavaScript	None	2	nodejs, mariadb, eggjs	0
-코로나AR Github	https://github.com/choco0908/Covid19AR	2020-02-27 20:37:55 +0800	JavaScript	MIT license	0	None	0
 code for covid-19 research	https://github.com/xiaohan2012/covid-19-code	2020-02-27 20:23:19 +0800	Jupyter Notebook	None	0	None	0
-A web spider to collect information of 2019-nCoV from multi-platform	https://github.com/PaperStrange/YiQingSpider	2020-02-27 20:21:44 +0800	Python	GPL-3.0 license	0	spider, 2019-ncov	0
 For thoughtworks(wuhan) QA-community-201909	https://github.com/cicd-draft/QA-community-201909	2020-02-27 20:14:42 +0800	None	None	2	None	0
 Using compare traditional VaR model, self-design model to analyze the new 2019-nCoV in China	https://github.com/peihan-tian-simon/2019-nCoV-Time-series-analysis	2020-02-27 20:11:05 +0800	Jupyter Notebook	None	2	None	0
 2019-nCoV data platform command line client.	https://github.com/FeilyZhang/2019-nCoV	2020-02-27 20:07:08 +0800	Java	None	0	None	0
@@ -438,7 +597,6 @@ Using compare traditional VaR model, self-design model to analyze the new 2019-n
 ncov	https://github.com/miktr/ncov	2020-02-27 19:53:51 +0800	None	None	0	None	0
 Grafana visualization for COVID19 progress	https://github.com/leopoul/covid19_grafana	2020-02-27 19:53:33 +0800	Python	None	1	None	0
 wuhan-mina	https://github.com/yyywang/wuhan-mina	2020-02-27 19:52:15 +0800	JavaScript	None	0	None	0
-nCov_rasa_chatbot	https://github.com/SWYZZWH/nCov_rasa_chatbot	2020-02-27 19:49:22 +0800	Jupyter Notebook	None	0	None	0
 coronavirus-deep-learning-component	https://github.com/arash-mehrzadi/coronavirus-deep-learning-component	2020-02-27 19:31:33 +0800	Jupyter Notebook	AGPL-3.0 license	0	None	0
 A repo for analysis on the corona virus	https://github.com/AaronWard/covid-19-analysis	2020-02-27 19:18:02 +0800	Jupyter Notebook	None	29	virus, jhu-csse, trend, google, google-sheets, china, pandemic, wuhan, 2019-ncov, ncov, 2019ncov, coronavirus, 2020ncov, coronavirus-real-time, wuhan-virus, coronavirus-analysis, covid-19, covid-virus, covid	0
 Covid-19 disease spreading notebook based on isaaclin API	https://github.com/Magister89/covid-19-report-notebook	2020-02-27 19:07:47 +0800	Jupyter Notebook	None	0	None	0
@@ -451,13 +609,11 @@ coronavirus	https://github.com/jamielsharief/coronavirus	2020-02-27 18:31:04 +08
 2019 Novel Coronavirus (COVID-19) is a virus (more specifically, a coronavirus) identified as the cause of an outbrea…	https://github.com/anishsingh20/Analyzing-Corona-Virus-Spread	2020-02-27 18:27:09 +0800	R	MIT license	1	None	0
 通过近期新型冠状病毒疫情管控需求，不同时间不同地点的体温检测，证明个人针对的健康情况。	https://github.com/Wanxiang-Blockchain-Hackathon-2020/N09-Xingdian	2020-02-27 18:23:17 +0800	None	None	0	None	0
 nCoV2019 Information	https://github.com/peterhu0929/nCoV2View	2020-02-27 18:18:42 +0800	TypeScript	None	0	None	0
-Tracker for Covid-19	https://github.com/Draym/Covid19Tracker	2020-02-27 18:17:14 +0800	Java	None	0	None	0
 Corona Virus Disease 2019(COVID-19) Shanghai	https://github.com/yew/covid-19	2020-02-27 18:12:23 +0800	JavaScript	None	2	None	0
 COVID-2019	https://github.com/theprogressor/COVID-2019	2020-02-27 18:05:03 +0800	None	None	0	None	0
 ncov_chatbot	https://github.com/toanpv-0639/ncov_chatbot	2020-02-27 18:03:17 +0800	Python	None	1	None	0
 de-novo-drug-discovery-for-covid19-with-wgan	https://github.com/blairtsuma/de-novo-drug-discovery-for-covid19-with-wgan	2020-02-27 17:42:28 +0800	None	None	0	None	0
 COVID-19(2019-nCoV) traces data from the infected	https://github.com/xyjigsaw/COVID-19-nCoV-traces-data	2020-02-27 17:39:29 +0800	Python	MIT license	1	None	0
-WuHan2020	https://github.com/ShellAlbert/WuHan2020	2020-02-27 17:30:33 +0800	None	GPL-3.0 license	0	None	0
 2019年－2020年新型冠状病毒肺炎: 相关知识与资料	https://github.com/WenjieZ/2019-nCoV	2020-02-27 17:27:51 +0800	Python	BSD-3-Clause license	6	2019-ncov, covid-19	0
 ncov	https://github.com/chencanyi1997/ncov	2020-02-27 17:27:49 +0800	R	None	0	None	0
 本项目主要就中国国内媒体对新冠肺炎（2019.12-）的报道进行备份、存档。包括被当局删除在内的所有文章以 日期+标题 的格式生成PDF文件，供读者查阅。文章版权归作者及其所属机构所有。	https://github.com/lestweforget/wuhan2019	2020-02-27 17:27:11 +0800	None	GPL-3.0 license	39	china, censorship, wuhan, ncov, coronavirus	0
@@ -471,15 +627,12 @@ predicts the numbers of infected persons	https://github.com/WLwind/_2019_nCoV_in
 React App tracking the spread of COVID-19	https://github.com/Nukki/coronavirus_tracker	2020-02-27 15:36:38 +0800	JavaScript	None	0	react, d3-scale, d3-visualization, react-simple-maps, react-hooks, coronavirus, coronavirus-tracking, covid-19	0
 pyecharts画当前疫情图	https://github.com/chain312/epidemic	2020-02-27 14:51:40 +0800	HTML	None	1	None	0
 武汉轨道信息查询，使用js实现最短路劲算法	https://github.com/HUMBLEDADDY/Wuhan-	2020-02-27 14:44:10 +0800	JavaScript	None	0	None	0
-疫情上报服务端程序	https://github.com/lcvcReport/new_coronavirus_report	2020-02-27 14:36:00 +0800	Java	None	0	None	0
 2019-nCoV	https://github.com/GeorgeYuan233/2019-nCoV	2020-02-27 14:33:25 +0800	HTML	None	0	None	0
 2019-nCoV-Service	https://github.com/AI-Research-HIT/2019-nCoV-Service	2020-02-27 14:25:48 +0800	Go	None	0	None	0
 2019-nCoV-Prediction	https://github.com/AI-Research-HIT/2019-nCoV-Prediction	2020-02-27 14:24:30 +0800	Vue	None	0	None	0
-Another 2019-nCoV stats gathering and visualization project	https://github.com/zmwangx/ncov	2020-02-27 14:05:16 +0800	Python	MIT license	2	None	0
 Wuhanjiayou	https://github.com/baicie/Wuhanjiayou	2020-02-27 13:50:17 +0800	None	None	0	None	0
 疫情防控心连心，技术体验双驱动	https://github.com/AZuoAsha/TheGangOfSix	2020-02-27 13:42:58 +0800	Java	None	0	None	0
 抗击武汉新型流感，宅在家里LeetCode	https://github.com/2448845600/LeetCodeDayDayUp	2020-02-27 13:41:08 +0800	Python	MIT license	1	None	0
-Raw data for nCovMemory	https://github.com/Project-Gutenberg/nCovMemory-Raw-Data	2020-02-27 13:22:46 +0800	None	None	0	None	0
 wuhan	https://github.com/zhengweiweiwei/wuhan	2020-02-27 13:22:24 +0800	HTML	None	0	None	0
 new coronavirus pneumonia infection model	https://github.com/wangyi-fudan/ncp_model	2020-02-27 13:21:23 +0800	C++	Unlicense license	3	None	0
 nCov-2019 Statistics	https://github.com/woowu/nCov-2019-stats	2020-02-27 13:08:47 +0800	JavaScript	None	0	None	0
@@ -489,9 +642,7 @@ COVID-19	https://github.com/brookefzy/COVID-19	2020-02-27 11:45:40 +0800	Jupyter
 为新型冠状病毒疫情收集各渠道资源	https://github.com/aboutmydreams/2019-nCoV-data	2020-02-27 11:41:17 +0800	Python	Apache-2.0 license	22	None	0
 常德战疫	https://github.com/huacainfo/esa	2020-02-27 11:38:10 +0800	JavaScript	None	0	None	0
 ncov.mohw.go.kr	https://github.com/kiang/ncov.mohw.go.kr	2020-02-27 11:29:02 +0800	HTML	None	0	None	0
-新型冠状病毒肺炎疫情统计数据	https://github.com/nks5117/ncp-data	2020-02-27 11:18:32 +0800	None	None	1	None	0
 Wuhan_Visualization	https://github.com/yshenc/Wuhan_Visualization	2020-02-27 11:18:06 +0800	HTML	None	0	None	0
-一款基于 Vue 的移动端宁波疫情动态监控系统，结合电子地图、影像地图和各种常见的图表(柱状图、折线图、饼状图)，实现数据与地图的联动显示	https://github.com/herryle/nb-ncp	2020-02-27 11:16:34 +0800	JavaScript	MIT license	1	None	0
 Estimate CFR of the COVID19 outbreak	https://github.com/lampk/COVID19_CFR	2020-02-27 11:09:31 +0800	None	None	0	None	0
 covid-19-cases-progress-race-bar	https://github.com/ma-e/covid-19-cases-progress-race-bar	2020-02-27 11:06:38 +0800	None	None	0	None	0
 covid-19	https://github.com/M4R14/covid-19	2020-02-27 10:59:31 +0800	None	None	0	None	0
@@ -516,14 +667,11 @@ covidping	https://github.com/lebull/covidping	2020-02-27 03:33:26 +0800	None	Non
 2019-nCoV koronawirus predykcja przyszłych zachorowań	https://github.com/mmarszik/2019_nCoV	2020-02-27 03:23:59 +0800	C++	None	0	None	0
 COVID-19	https://github.com/leechunkit/COVID-19	2020-02-27 03:17:05 +0800	None	None	0	None	0
 A website to give timely information about the Covid-19 Coronavirus.	https://github.com/hopeseekr/SurviveCorona.how	2020-02-27 03:11:12 +0800	HTML	None	0	None	0
-Using Kalman Filter to Predict Corona Virus Spread	https://github.com/Rank23/COVID19	2020-02-27 03:08:58 +0800	Jupyter Notebook	None	3	coronavirus, kalman-filter, data-science, r, time-series, machine-learning-algorithms, prediction, health, python3, kalman, covid-19	0
 2019-nCoV	https://github.com/boxfrommars/2019-nCoV	2020-02-27 02:41:55 +0800	PHP	None	0	None	0
 In this project I tried analysing a small data set containing info on the spread of Corona Virus across various count…	https://github.com/pratik-276/CoronaVirus-Data-Analysis	2020-02-27 02:17:02 +0800	Jupyter Notebook	None	1	None	0
-Live visual updates of the Coronavirus	https://github.com/gieoon/Coronavirus-Live-Map	2020-02-27 02:14:02 +0800	JavaScript	None	6	None	0
 A student's project to learn to use R using the WHO's data on Coronavirus infection in China	https://github.com/epidemotraining/CoronaR	2020-02-27 02:01:22 +0800	R	GPL-3.0 license	0	None	0
 武汉加油, 中国加油, 我爱你中国.	https://github.com/mobizt/Firebase-ESP8266	2020-02-27 01:56:00 +0800	C++	MIT license	107	firebase-calls, database, firebase-realtime-database, firebase, stream, arduino, esp8266, firebase-database	0
 东北大学疫情自动上报脚本	https://github.com/i-Pear/NEU-Epidemic-Auto-Commit	2020-02-27 01:34:29 +0800	Python	GPL-3.0 license	2	None	0
-R0 estimation of the 2019 corona virus coming out of Wuhan, China	https://github.com/affans/2019-ncov	2020-02-27 01:21:04 +0800	Jupyter Notebook	None	1	None	0
 coronavirus	https://github.com/isabelshiff/coronavirus	2020-02-27 01:12:48 +0800	None	None	0	None	0
 Important documents concerning worldwide outbreak of COVID-19, including research on clinical features, datasets, oth…	https://github.com/JOPloume/COVID-19_Coronavirus-Documents	2020-02-27 00:48:44 +0800	None	MIT license	0	None	0
 东莞理工学院疫情监控自动提交表单脚本	https://github.com/MasterKenway/DGUT-yqjk	2020-02-27 00:34:52 +0800	Python	GPL-3.0 license	3	python, python3	0
@@ -537,29 +685,24 @@ covid-19	https://github.com/P3nny/covid-19	2020-02-26 23:47:31 +0800	JavaScript	
 Telegram bot scraping numbers from the Italian Ministry of Health website regarding Corona Virus. Live at:	https://github.com/Peppuz/CoVid19-bot	2020-02-26 23:31:07 +0800	JavaScript	None	0	None	0
 Coronavirus	https://github.com/Nico33300/Coronavirus	2020-02-26 23:13:54 +0800	None	None	0	None	0
 2019-nCoV dataset	https://github.com/eMALI-IO/2019-nCoV	2020-02-26 22:59:26 +0800	None	None	0	None	0
-Wuhan Virus Info	https://github.com/benlau/wuhan-virus-info	2020-02-26 22:54:47 +0800	None	None	0	None	0
 wuhan	https://github.com/OsamuYabuta/wuhan	2020-02-26 22:49:20 +0800	Go	None	0	None	0
 ncov2019updates-telegram	https://github.com/bottleneckco/ncov2019updates-telegram	2020-02-26 22:45:38 +0800	TypeScript	MIT license	0	None	0
 疫情实时数据可视化图表 Vue+webpack+echarts	https://github.com/913269144/epidemic-situation-in-real-time	2020-02-26 22:31:25 +0800	JavaScript	MIT license	0	None	0
 coronavirus_dash	https://github.com/AntiDeprime/coronavirus_dash	2020-02-26 22:26:55 +0800	Jupyter Notebook	None	0	None	0
 DB with cases in Italy	https://github.com/DataEnthusiast84/CoViD-19-Italy	2020-02-26 21:54:42 +0800	None	None	0	None	0
-CovID-19 School Auto Report	https://github.com/invenleey/yq-report	2020-02-26 21:48:51 +0800	Go	None	0	None	0
 Telegram Bot for COVID-19 stats	https://github.com/chengkiang/covid19-telegram-bot	2020-02-26 21:43:21 +0800	JavaScript	None	0	None	0
 本项目使用flutter开发,主要内容为疫情地图、实时疫情、同行程查询、辟谣、以及收集平台疫情通道，以达到实时掌握最新疫情，完成紧急辟谣、同行程乘车查询等目的。	https://github.com/LiangWuCode/2019-nCoV	2020-02-26 21:41:24 +0800	Dart	None	48	None	0
 一个冠状病毒肺炎传染病学研究数据集	https://github.com/longbiaochen/corona-virus	2020-02-26 20:59:57 +0800	TeX	None	27	dataset, crowdsensing, 2019-ncov, corona-virus, covid-19	0
 肺炎行程查询小程序，腾讯开源公益马拉松参赛作品（三等奖）	https://github.com/shidenggui/ncov	2020-02-26 20:44:51 +0800	JavaScript	MIT license	8	None	0
-a vuejs COVID-19	https://github.com/xujieyu/COVID-19	2020-02-26 20:39:54 +0800	Vue	MIT license	0	None	0
 ncov	https://github.com/zcxiaobao/ncov	2020-02-26 20:33:34 +0800	HTML	None	0	None	0
 ncov-echarts-vue	https://github.com/zcxiaobao/ncov-echarts-vue	2020-02-26 20:24:33 +0800	JavaScript	None	0	None	0
 2019-nCov vuejs	https://github.com/xujieyu/2019-nCov	2020-02-26 20:16:46 +0800	Vue	None	0	None	0
 因應 COVID-19 (中文: 武漢肺炎)疫情 中華民國(台灣) 衛福部 中央疾病管制局 2020/02/06 口罩領取方案之 App - 問口罩	https://github.com/JamestsaiTW/Taiwan-AskFaceMaskApp	2020-02-26 20:00:31 +0800	C#	MIT license	2	app, xamarin, xamarin-forms, covid-19	0
 For Sage Competition	https://github.com/BilalAhmd-24/Coronavirus-Deep-Learning-Competition	2020-02-26 19:47:27 +0800	None	None	0	None	0
-A library seat booking script for Wuhan University - 武汉大学图书馆自动抢座脚本，支持自动抢指定座位、捡漏模式、改签模式、抢座成功后发送邮件提醒	https://github.com/c1aris/SeatKiller	2020-02-26 19:44:36 +0800	Python	MPL-2.0 license	18	socket, python3, requests, whu	0
 wuhan virus in Taiwan	https://github.com/close09452/wuhan-virus-taiwan	2020-02-26 19:40:35 +0800	JavaScript	None	0	None	0
 De novo drug descovery for the novel coronavirus (COVID-19) through sequence generation using RNN LSTMs	https://github.com/IamSadiq/COVID-19-Drug-Descovery	2020-02-26 19:04:07 +0800	Jupyter Notebook	None	0	None	0
 Gaining a more detailed view about the Coronavirus outbreak in China 2020	https://github.com/MihaiAlin97/Coronavirus	2020-02-26 19:01:02 +0800	R	GPL-3.0 license	0	None	0
 武汉大学 软件构造基础 课程作业	https://github.com/Wik-i/CSharpHomework	2020-02-26 18:46:39 +0800	C#	None	0	None	0
-Data visualization for 2019-nCoV research	https://github.com/kibbon/ncov-graph	2020-02-26 18:45:57 +0800	Vue	None	0	None	0
 Radial dendrogram of Hong Kong confirmed COVID-2019 cases	https://github.com/sheldonip/wars-radial-dendrogram	2020-02-26 18:40:47 +0800	JavaScript	MIT license	0	None	0
 Map and status update	https://github.com/qingyao/COVID-2019_webapp	2020-02-26 18:12:07 +0800	Python	None	0	None	0
 新型冠状病毒数据地图	https://github.com/teddy1209/wuhan	2020-02-26 17:35:02 +0800	Vue	None	0	None	0
@@ -569,7 +712,6 @@ coronavirus-analysis	https://github.com/tommak/coronavirus-analysis	2020-02-26 1
 A collection of text documents related to 2019-nCoV	https://github.com/zhichdou/2019-nCoV-COVID-19-Text-Corpus	2020-02-26 16:46:40 +0800	None	None	0	None	0
 Coronavirus	https://github.com/wsmzjzz/Coronavirus	2020-02-26 16:32:29 +0800	HTML	None	0	None	0
 Wuhan Coronavirus Data Crawel	https://github.com/XuCQ/WuhanCoronavirusDataCrawel	2020-02-26 16:25:04 +0800	HTML	None	0	None	0
-wuhan_SIR	https://github.com/hfwang2016/wuhan_SIR	2020-02-26 15:49:26 +0800	None	None	1	None	0
 covid19	https://github.com/icemev/covid19	2020-02-26 15:46:39 +0800	None	None	0	None	0
 A simple guide webpage for COVID-19(Wuhan Coronavirus) prevention (in Korean)	https://github.com/Senarin/covid19-guide	2020-02-26 15:38:43 +0800	CSS	MIT license	0	None	0
 疫情数据提交与审核系统	https://github.com/Nfboys/SubmitAndCheck	2020-02-26 15:31:59 +0800	TypeScript	None	0	None	0
@@ -582,7 +724,6 @@ covid19-korea	https://github.com/heshed/covid19-korea	2020-02-26 14:13:34 +0800	
 临时项目---疫情自动打卡脚本	https://github.com/XUranus/auto-check	2020-02-26 14:12:33 +0800	Shell	None	0	None	0
 wuhan_virus_dashboard	https://github.com/bc123456/wuhan_virus_dashboard	2020-02-26 13:57:37 +0800	Jupyter Notebook	None	0	None	0
 Statistics for China Coronavirus, with number of conformed patience in province and city level	https://github.com/JonathanJing/China-Coronavirus	2020-02-26 13:56:19 +0800	C++	None	0	china-coronavirus, seir, dashboard, r0	0
-COVID-19 infected forecast model	https://github.com/SuperDiscovery/NCP-Model	2020-02-26 13:56:09 +0800	None	None	0	None	0
 final-project-anti-2019-ncov created by GitHub Classroom	https://github.com/ECS-251-W2020/final-project-anti-2019-ncov	2020-02-26 13:54:47 +0800	JavaScript	None	0	None	0
 武汉大学2020年软件工程课项目	https://github.com/Pope-Liu/kitchen	2020-02-26 13:53:07 +0800	None	None	0	None	0
 covid-19-forecast	https://github.com/beala/covid-19-forecast	2020-02-26 13:47:07 +0800	None	None	0	None	0
@@ -597,9 +738,7 @@ Analyzing Coronavirus using machine learning and twitter data	https://github.com
 Prepare-for-ncov-COVID-19-in-US	https://github.com/myt00seven/Prepare-for-ncov-COVID-19-in-US	2020-02-26 12:04:59 +0800	None	GPL-3.0 license	0	None	0
 2020年疫情期间，健康上报/打卡的自动实现，本方法仅供参考，您也可以使用其他webdriver实现.	https://github.com/ClokMuch/ZZUjksb	2020-02-26 11:54:42 +0800	Python	GPL-3.0 license	0	zzu	0
 nCoV-Map：新型肺炎疫情地图	https://github.com/sangyx/nCoV-Map	2020-02-26 11:22:48 +0800	CSS	MIT license	77	ncov-map, 2019-ncov, ncov-data-visual	0
-武汉肺炎时间线	https://github.com/vincilau/Timeline	2020-02-26 10:39:32 +0800	None	None	0	None	0
 Coronavirus-Data-Visualization	https://github.com/davide-coccomini/Coronavirus-Data-Visualization	2020-02-26 10:24:58 +0800	Python	None	0	None	0
-2019-nCoV 新冠状病毒 2019-12-01至今市级每日累计数据，geojson格式	https://github.com/wjbgis/2019-nCov-geojson-data	2020-02-26 10:23:25 +0800	None	MIT license	1	wuhan, 2019-ncov	0
 The Coronavirus Pandemic System Integrated Control (CPSIC)	https://github.com/toBeOfUse/CPSICProject	2020-02-26 10:15:50 +0800	None	None	0	None	0
 Epidemic visualization of novel coronavirus 2019	https://github.com/GEZHU0376/nCov2019_Visualization	2020-02-26 09:44:51 +0800	R	None	0	None	0
 #武汉加油 #wuhan-support 面向疫区内外民众和医疗机构的多维度信息整合平台 前端	https://github.com/wuhan-support/frontend	2020-02-26 09:39:20 +0800	Vue	GPL-3.0 license	15	wuhan-support, support, science, vuejs, vue, openness, feiyan, ncov, wuhan-pneumonia	0
@@ -611,7 +750,6 @@ Project to illustrate how easy to develop a web app with Streamlit	https://githu
 COVID-19-spread	https://github.com/nonoumasy/COVID-19-spread	2020-02-26 08:07:36 +0800	Jupyter Notebook	None	0	None	0
 An R Shiny App to track the spread of the new Coronavirus	https://github.com/Josefa-Sullivan/Viruz_Viz	2020-02-26 08:01:11 +0800	R	None	0	None	0
 My Py Practice with 2019-nCoV data.	https://github.com/wudaudau/2019-nCoV	2020-02-26 07:52:40 +0800	Jupyter Notebook	MIT license	0	jupyter-notebook, ipywidgets	0
-CoronavirusStats	https://github.com/Nalhin/CoronavirusStats	2020-02-26 07:50:32 +0800	Vue	MIT license	0	None	0
 Collects officially published daily stats for the corona-virus (China only) 收集新冠状病毒中国每日疫情数据，精确到地级	https://github.com/dakula009/China_CoronaVirus_Data_Miner	2020-02-26 07:30:52 +0800	Python	None	12	province-level, china, prefecture-level, province, coronavirus, coronavirus-tracking, coronavirus-real-time, covid-19	0
 Novel Coronavirus (COVID-19). Scripts and Data	https://github.com/serkef/COVID19	2020-02-26 07:26:21 +0800	Python	None	0	None	0
 CSV-for-coronavirus-cases	https://github.com/christophermstill/CSV-for-coronavirus-cases	2020-02-26 06:47:39 +0800	None	None	0	None	0
@@ -623,7 +761,6 @@ coronavirus_model	https://github.com/maxtanous/coronavirus_model	2020-02-26 05:1
 Tracker for 2019-nCoV using data from the U.S CDC and John Hopkins University	https://github.com/tchervo/Corona-Tracker	2020-02-26 04:56:38 +0800	Python	GPL-3.0 license	0	None	0
 Corona Virus Data	https://github.com/miwiley/scrape_coronavirus	2020-02-26 04:19:03 +0800	Python	None	0	None	0
 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (2019-nCoV) outbreak. It's written in python us…	https://github.com/ExpDev07/coronavirus-tracker-api	2020-02-26 04:15:44 +0800	Python	None	17	recoveries, deaths, flask, python, coronavirus, coronavirus-tracker, ncov, heroku, api, json-api, rest-api, python3, pip, webapp, pipenv, coronavirus-real-time, covid-19	0
-🦠 Obtém dados atualizados do Coronavirus e retorna em formato de API	https://github.com/Viiict0r/covid-scraper	2020-02-26 04:05:40 +0800	JavaScript	None	0	None	0
 Creating a Tidy dataset from Johns Hopkins University - CSSE Covid-19 dataset	https://github.com/kerskine/tidy-jhu-covid19	2020-02-26 04:04:45 +0800	R	None	0	None	0
 COVIDmap	https://github.com/navidmx/COVIDmap	2020-02-26 03:53:55 +0800	JavaScript	None	0	None	0
 Website for CoronaVirus	https://github.com/DLBPointon/dlbpointon.github.io	2020-02-26 03:41:50 +0800	None	None	0	None	0
@@ -657,7 +794,6 @@ wuhan 2019_ncov	https://github.com/Levyou/2019_ncov	2020-02-25 22:00:49 +0800	Ju
 來畫一個武漢肺炎的分佈圖	https://github.com/letswritetw/letswrite-google-map-api-6	2020-02-25 21:52:55 +0800	JavaScript	None	1	chartjs, google-sheets, google-maps-api, heat-map	0
 疫情动态，贡献一份力量。	https://github.com/fengfanv/yiqing	2020-02-25 21:33:54 +0800	JavaScript	None	0	None	0
 coronavirus-analysis	https://github.com/ControlVirus/coronavirus-analysis	2020-02-25 21:19:44 +0800	Python	None	0	None	0
-Probing the corona(virus) COVID-19 with Approximate Bayesian Computation	https://github.com/bmorris3/eugene	2020-02-25 21:10:05 +0800	Python	None	1	None	0
 temp repos for corona virus project	https://github.com/soryeongk/coronavirus	2020-02-25 20:33:32 +0800	None	MIT license	0	None	0
 Small project for using coronavirus epidemic data and SIR model to simluate.	https://github.com/jk13o3lll/coronavirus-sir	2020-02-25 20:32:07 +0800	Python	None	0	None	0
 2019-nCoV-GB	https://github.com/itaizy/2019-nCoV-GB	2020-02-25 20:29:38 +0800	JavaScript	None	0	None	0
@@ -673,7 +809,6 @@ Prepper Resources for COVID-19	https://github.com/mengwong/covid-19	2020-02-25 1
 COVID-19 Coronavirus Data Tracker	https://github.com/instafluff/Coronavirus	2020-02-25 18:30:38 +0800	HTML	MIT license	4	None	0
 2019_nCoV_analysis	https://github.com/zhangzhanluo/2019_nCoV_analysis	2020-02-25 18:15:36 +0800	HTML	None	0	python3, echarts, 2019-ncov	0
 2020中国、武汉新冠病毒疫情情况展示	https://github.com/xiaosenzhang/wuhanfeiyan	2020-02-25 17:58:46 +0800	JavaScript	None	0	None	0
-疫情防控-每日健康上报管理平台	https://github.com/2020NCOV/ncov-report	2020-02-25 17:57:30 +0800	TSQL	Apache-2.0 license	34	None	0
 2019-nCoV 新冠肺炎患者同程查询小程序（云开发版）	https://github.com/jayjun0805/2019-nCoV	2020-02-25 17:47:38 +0800	JavaScript	GPL-3.0 license	6	javascript, wxapp	0
 vis_COVID	https://github.com/LvJianRong/vis_COVID	2020-02-25 17:38:02 +0800	JavaScript	None	0	None	0
 ncov-orderly-web	https://github.com/ncov-ic/ncov-orderly-web	2020-02-25 17:36:56 +0800	Shell	None	0	None	0
@@ -687,10 +822,8 @@ datams 到基础工程、疫情期间在家办公需要	https://github.com/datam
 武漢肺炎台灣口罩列表	https://github.com/oouyang/twmask	2020-02-25 16:33:06 +0800	Python	None	0	None	0
 This program estimates the number of infected patients of COVID-19 on a targeted day, based on user input data. 이 프로그…	https://github.com/bcchickadee/CoronaCalc	2020-02-25 16:11:09 +0800	Python	None	0	None	0
 Free the world speak out	https://github.com/moisesram/Coronavirus-	2020-02-25 15:25:12 +0800	None	None	0	None	0
-Analysis of novo Coronavirus 2019 public data	https://github.com/csblab/novoCoronavirus-Analysis	2020-02-25 15:18:41 +0800	None	MIT license	1	None	0
 Real time information about nCoV-2019 affections.	https://github.com/VLK-STUDIO/2019-cov-info	2020-02-25 15:02:13 +0800	JavaScript	None	1	None	0
 新冠肺炎前端展示	https://github.com/zhent1106/covid-19-study	2020-02-25 14:53:47 +0800	JavaScript	None	0	None	0
-Knowledge Graph of 2019 nCov progress	https://github.com/bigcat2020/nCov_KG	2020-02-25 14:31:05 +0800	Python	None	1	None	0
 虹口区-疫情分析大屏	https://github.com/Darcy-WYG/gz-outbreak	2020-02-25 14:29:52 +0800	JavaScript	None	0	None	0
 应对疫情，网上交流	https://github.com/tuia-fed/react-daily-question	2020-02-25 14:21:53 +0800	None	None	2	None	0
 TS,爬虫,百度扒取武汉肺炎实时数据	https://github.com/haohao809/spiderTS	2020-02-25 14:21:24 +0800	TypeScript	None	0	None	0
@@ -709,7 +842,6 @@ Corona nCoV virus wuhan live update website	https://github.com/huuthanhdtd/coron
 Coronavirus mod for gmod	https://github.com/snow-frog/gmod_ncov	2020-02-25 11:36:50 +0800	Lua	None	0	None	0
 This application helps admins do contact tracing by selecting user's with high temperature of 38 Degrees Celsius and …	https://github.com/DylanKoh/COVID19-ContactTracing	2020-02-25 10:55:55 +0800	C#	None	0	None	0
 drugs-for-Coronavirus	https://github.com/HaochenW/drugs-for-Coronavirus	2020-02-25 10:50:46 +0800	None	None	0	None	0
-API Service for tracking the COVID-19	https://github.com/Laeyoung/COVID-19-API	2020-02-25 10:49:45 +0800	JavaScript	MIT license	4	None	0
 Topping Up on Karma	https://github.com/Berbec-Chris/The-Wholesome-Solidarity-Group-against-Winter-Depression-and-Coronavirus	2020-02-25 10:00:51 +0800	JavaScript	None	0	None	0
 广佛深新型冠状病毒感染确诊病例分布地图	https://github.com/cartosquare/guangzhou-2019-nCov	2020-02-25 10:00:18 +0800	JavaScript	None	0	None	0
 coronavirusapp	https://github.com/kirkwodoster/coronavirusapp	2020-02-25 09:07:31 +0800	Python	None	0	None	0
@@ -729,21 +861,18 @@ coronavirus	https://github.com/lxtwintower/coronavirus	2020-02-25 04:27:33 +0800
 Coronavirus	https://github.com/HumbleBuddhist/Coronavirus	2020-02-25 03:37:21 +0800	None	None	0	None	0
 Coronavirus-2019	https://github.com/vigneshc94/Coronavirus-2019	2020-02-25 03:23:15 +0800	None	None	0	None	0
 covid19	https://github.com/stevko79/covid19	2020-02-25 03:20:08 +0800	None	None	0	None	0
-武汉2019新型冠状病毒疫情可视化(ncov全国疫情地图及时间轴变化，各省市地图及疫情曲线)，疫情数据分析系统，WuHan 2019-nCoV Data Visualization Analysis System	https://github.com/simonblowsnow/COVID-19-Visualization	2020-02-25 03:17:15 +0800	Python	None	9	None	0
 2019-nCoV	https://github.com/edwenger/2019-nCoV	2020-02-25 02:50:34 +0800	Python	None	1	None	0
 Analyzing COVID-19 phenomenon	https://github.com/StaySWEG/COVID-19	2020-02-25 02:43:49 +0800	None	MIT license	0	None	0
 COVID-19-Building-a-network-from-confirmed-cases	https://github.com/cmentus/COVID-19-Building-a-network-from-confirmed-cases	2020-02-25 02:34:24 +0800	None	None	0	None	0
 ❗️ This is a read-only mirror of the CRAN R package repository. coronavirus — The 2019 Novel Coronavirus COVID-19 (20…	https://github.com/cran/coronavirus	2020-02-25 02:14:11 +0800	R	None	0	None	0
 Coronavirus_tweets_ita	https://github.com/valentinadavi/Coronavirus_tweets_ita	2020-02-25 01:55:02 +0800	None	None	0	None	0
 a chat robot to fight the new coronavirus(Cloud Computing Project)	https://github.com/HuijieLi007/7940The-Lark-Assistant	2020-02-25 01:33:35 +0800	None	None	0	None	0
-COVID-19 Chronicle	https://github.com/chronicle2020/chronicle2020.github.io	2020-02-25 00:36:24 +0800	Ruby	GPL-3.0 license	0	None	0
 A repository dedicated to the English translations of the relevant news reports on the 2019-nCoV outbreak and the res…	https://github.com/memoryhonest/nCovMemory-en	2020-02-25 00:19:39 +0800	None	None	6	None	0
 coronavirus	https://github.com/hacbkz/coronavirus	2020-02-25 00:17:55 +0800	HTML	None	0	None	0
 This repo contains the code used in coronavirus research	https://github.com/shenoisam/coronavirus	2020-02-25 00:07:09 +0800	Python	None	0	None	0
 MCMC-sampling-covid-19	https://github.com/leebond/MCMC-sampling-covid-19	2020-02-24 23:57:44 +0800	Jupyter Notebook	None	0	None	0
 Coronavirus	https://github.com/nlp-ug-2018-19/Coronavirus	2020-02-24 23:24:52 +0800	HTML	None	0	None	0
 武汉工程大学教务处（强智）课程表转.ics格式，Python编写，用于将课程表导入iOS、macOS平台自带的Calendar应用，以及通用iCal格式的Google Calendar和Windows自带的Calendar软件。	https://github.com/DOROMOLLL/WITClassScheduleToCalendar	2020-02-24 23:09:48 +0800	Python	MIT license	1	None	0
-一个简单的 PocketMine-MP 插件, 可在 Minecraft 服务器中获取新型冠状病毒的统计信息 / A simple plugin for PocketMine-MP that allows you to obtain …	https://github.com/TravinDreek/nCoV-Stats-PocketMine	2020-02-24 22:55:04 +0800	PHP	MIT license	2	minecraft, pocketmine-mp, pocketmine-mp-plugin, 2019-ncov, ncov	0
 my kludgy method for scraping Covid19 stats and populating them into a grafana dashboard	https://github.com/deetoo/covid19	2020-02-24 22:54:16 +0800	None	None	0	None	0
 Coronavirus Blocker Chrome Extension	https://github.com/KaterynaLis/coronavirus_extention	2020-02-24 22:52:13 +0800	JavaScript	None	0	None	0
 新型冠状病毒肺炎预防手册	https://github.com/kugeceo/covid19	2020-02-24 22:34:57 +0800	HTML	None	0	None	0
@@ -820,16 +949,13 @@ wuhan2020_flutter_app	https://github.com/archko/wuhan2020_flutter_app	2020-02-24
 CoronaVirus2019	https://github.com/haoditu/CoronaVirus2019	2020-02-24 05:56:18 +0800	Python	None	0	None	0
 COVID-19	https://github.com/gin9734/COVID-19	2020-02-24 05:05:37 +0800	None	None	1	None	0
 covid-19-ita	https://github.com/umbros/covid-19-ita	2020-02-24 04:52:48 +0800	None	None	0	None	0
-Vaccines scanning to find similarities against COVID-19 (Coronavirus)	https://github.com/Sinnefa/COVID-19_Vaccine_Experiment	2020-02-24 04:03:56 +0800	Python	GPL-3.0 license	0	None	0
 COVID-19 Visualization	https://github.com/tkozjak/Coronavirus-COVID-19-Visualization	2020-02-24 03:11:55 +0800	JavaScript	None	0	None	0
 An infectious disease kinetics model of SARS-CoV-2 virus infection in humans with population migrating details for pr…	https://github.com/xieguigang/COVID-19	2020-02-24 03:02:40 +0800	R	None	0	modelling, kinetics, r-sharp, covid-19, sars-cov-2	0
-COVID 2019 in Singapore	https://github.com/wandererwillow/COVID2019	2020-02-24 02:07:44 +0800	Vue	MIT license	0	None	0
 COVID-19-Watch	https://github.com/Namuuna/COVID-19-Watch	2020-02-24 01:56:54 +0800	Python	None	0	None	0
 nCoV-map-backend	https://github.com/2020-nCoV/nCoV-map-backend	2020-02-24 01:44:45 +0800	JavaScript	None	0	None	0
 An analysis on coronavirus data	https://github.com/LowriWilliams/Coronavirus	2020-02-24 01:34:01 +0800	Jupyter Notebook	None	0	None	0
 新冠疫情欧洲中文臺的文檔。	https://github.com/covid19-eu-zh/docs	2020-02-24 01:16:38 +0800	None	MIT license	0	None	0
 北航大数据高精尖中心研究团队进行数据来源的整理与获取，利用自然语言处理等技术从已公开全国4626确诊患者轨迹中抽取了基本信息（性别、年龄、常住地、工作、武汉/湖北接触史等）、轨迹（时间、地点、交通工具、事件）及病患关系形成结构化信息	https://github.com/BDBC-KG-NLP/COVID-19-tracker	2020-02-24 01:02:16 +0800	None	MIT license	16	None	0
-IOS application to anonymously track interactions among people to alert if anyone had contacts with an infected person.	https://github.com/Coronavirus-Herd-Immunity/covid-19-ios	2020-02-24 00:48:13 +0800	Swift	None	0	None	0
 Coronavirus and its Impacts: Information Dashboard	https://github.com/acjin21/brown_datathon20	2020-02-24 00:29:01 +0800	Jupyter Notebook	None	0	None	0
 一个问答系统的Demo，数据为2019肺炎新闻数据。	https://github.com/nladuo/2019-nCoV-QA	2020-02-24 00:10:12 +0800	Python	MIT license	0	None	0
 covid-19	https://github.com/zhent1106/covid-19	2020-02-23 23:54:54 +0800	None	None	0	None	0
@@ -878,7 +1004,6 @@ nCoV-map	https://github.com/2020-nCoV/nCoV-map	2020-02-23 18:20:54 +0800	JavaScr
 Wuhan 2019-nCov Spider 简单爬虫使用Beautfulsoup,以及在linux上使用crontab 每隔一小时执行一次	https://github.com/xyry/Wuhan-2019-nCov-Spider	2020-02-23 17:26:17 +0800	Python	None	0	None	0
 wechat about novel coronavirus	https://github.com/dary16/wx-gzh	2020-02-23 17:18:49 +0800	JavaScript	None	0	None	0
 우한폐렴 DB 서비스	https://github.com/redev-5c/WuhanPneu	2020-02-23 17:17:38 +0800	None	Unlicense license	0	None	0
-A map / tracker of nCovid-2019 cases in Singapore	https://github.com/ysoh286/ncovid-2019-sgp-tracker	2020-02-23 17:10:37 +0800	JavaScript	None	0	None	0
 This repo holds the code for crawling the latest news on the pneumonia virus from the Internet	https://github.com/wmathor/2019-nCoV	2020-02-23 17:03:27 +0800	Python	None	61	None	0
 新型冠状病毒肺炎（Corona Virus Disease 2019，COVID-19），简称“新冠肺炎”，是指2019新型冠状病毒感染导致的肺炎。2019年12月以来，湖北省武汉市部分医院陆续发现了多例有华南海鲜市场暴露史的不明原因肺炎…	https://github.com/theThreeKingdom/COVID-19	2020-02-23 16:45:59 +0800	None	Apache-2.0 license	0	None	0
 CoronaVirus_Challenge	https://github.com/shamgane/CoronaVirus_Challenge	2020-02-23 16:42:32 +0800	None	None	0	None	0
@@ -891,7 +1016,6 @@ Important and verified information about new 2019-nCoV pneumonia	https://github.
 本项目适用于疫情期间的数据统计，并提供Excel下载	https://github.com/Yangself666/2019-nCoVforCuggw	2020-02-23 15:11:59 +0800	Java	None	0	None	0
 COVID19	https://github.com/slavisha84/COVID19	2020-02-23 14:55:00 +0800	Python	None	0	None	0
 nCoV Dashboard	https://github.com/quadpixels/quadpixels.github.io	2020-02-23 14:38:14 +0800	JavaScript	None	0	None	0
-疫情信息平台	https://github.com/KaleW515/PestMessage	2020-02-23 14:12:13 +0800	Python	Apache-2.0 license	0	None	0
 Check number of infected with Wuhan-Coronavirus in South Korea	https://github.com/haesooKr/coronavirus-crawler	2020-02-23 14:00:14 +0800	JavaScript	None	0	None	0
 🤖️监控口罩存货，包含京东、天猫、苏宁等商城，也可监控消毒液、护目镜等物资的放货信息，并推送到微信提醒。目前有🏷️天猫淘宝秒杀自动下单、🏷️京东秒杀自动下单功能。抗击疫情！中国加油🇨🇳！	https://github.com/DaleyChao/N95-watcher	2020-02-23 13:52:36 +0800	Python	MIT license	89	mask, kou-zhao	0
 浙大nCov健康打卡定时自动脚本 [请勿滥用]	https://github.com/Tishacy/ZJU-nCov-Hitcarder	2020-02-23 13:28:33 +0800	Python	MIT license	31	None	0
@@ -905,7 +1029,6 @@ Data-visualization and trend prediction for COVID-19 Singapore and Chinese provi
 部分疫情数据的可视化小项目	https://github.com/double-point/ncp_analysis	2020-02-23 12:36:17 +0800	Python	None	0	None	0
 使用 GitHub Actions 自动完成大学印象疫情情况打卡，无需挂机	https://github.com/sslspace/Dlpu-Auto-Sign-In	2020-02-23 12:31:57 +0800	Python	None	4	None	0
 COVID-19	https://github.com/vivianchen98/COVID-19	2020-02-23 12:08:24 +0800	None	None	0	None	0
-gentoo portage overlay for nextstrain.org/ncov build.	https://github.com/LeonBernieniv/genncov	2020-02-23 12:06:46 +0800	Shell	None	0	None	0
 为抗击新肺炎贡献一份技术力量-App研发	https://github.com/fluttercandies/ncov_2019	2020-02-23 12:04:06 +0800	Dart	Apache-2.0 license	201	None	0
 新冠病毒疫情分布图 -- 复刻自border-1px	https://github.com/SakuraXIII/2019-nCoV	2020-02-23 11:32:07 +0800	JavaScript	None	1	None	0
 疫情防控	https://github.com/hanming323/yiqing	2020-02-23 10:59:04 +0800	None	None	0	None	0
@@ -942,7 +1065,6 @@ This is a program focusing on data analysis, modeling with ncov effect taken int
 ncov-jp	https://github.com/botchao/ncov-jp	2020-02-22 22:18:32 +0800	None	MIT license	0	None	0
 该系列资源是Python疫情大数据分析，涉及网络爬虫、可视化分析、GIS地图、情感分析、舆情分析、主题挖掘、威胁情报溯源、知识图谱、预测预警及AI和NLP应用等。推荐大家结合作者CSDN博客阅读，武汉必胜、湖北必胜、中国必胜！	https://github.com/eastmountyxz/Wuhan-data-analysis	2020-02-22 22:16:07 +0800	HTML	None	4	None	0
 中国新冠肺炎 2019-nCoV 爆发最新疫情情况（API + 前端）	https://github.com/dxsooo/nCoVOutBreak	2020-02-22 22:15:02 +0800	Python	None	3	None	0
-nCov-virus-visualization	https://github.com/AlbertWhite/nCov-virus-visualization	2020-02-22 22:12:01 +0800	JavaScript	None	0	None	0
 疫情实时数据分析	https://github.com/CHINAHUANGQIJIA/NCOV	2020-02-22 22:10:20 +0800	None	None	0	None	0
 ncov19	https://github.com/seelingzheng/ncov19	2020-02-22 22:00:27 +0800	JavaScript	None	0	None	0
 2019-ncov数据可视化，地图、图表等	https://github.com/wjbgis/2019-ncov-visual	2020-02-22 21:45:46 +0800	JavaScript	None	0	None	0
@@ -957,7 +1079,6 @@ Corona api crawls information related to the COVID-19 and delivers it in json fo
 NCP疫情处理作业	https://github.com/RRapids/NCP-Data-Processing	2020-02-22 20:21:07 +0800	Java	None	0	None	0
 AI challenge 2020	https://github.com/MahdiZeim/CoronaVirus-AIC2020	2020-02-22 20:18:11 +0800	Java	None	0	None	0
 武漢新型冠狀病毒疫情地圖	https://github.com/JacobHsu/COVID-19	2020-02-22 20:12:12 +0800	Vue	None	0	vue	0
-The aim of the project is to create an AI-powered Smart Cameras that can mitigate the spread of Wuhan Novel Coronavirus.	https://github.com/edab/OpenVINO_SmartCam	2020-02-22 20:03:27 +0800	Python	MIT license	1	None	0
 코로나 확진자 동선 시각화	https://github.com/lch5518/COVID-19	2020-02-22 19:49:52 +0800	HTML	None	0	None	0
 武汉各小区信息录入和展示平台	https://github.com/OrangeSpatial/ncov2020	2020-02-22 19:20:43 +0800	Vue	None	0	None	0
 Source code and associated data files for reproducing the results of manuscript title, "Preliminary identification of…	https://github.com/faraz107/2019-nCoV-T-Cell-Vaccine-Candidates	2020-02-22 19:06:48 +0800	OpenEdge ABL	MIT license	0	None	0
@@ -981,14 +1102,12 @@ COVID-19	https://github.com/PabloRen/COVID-19	2020-02-22 13:19:08 +0800	None	Non
 Aprende a crear un mapa en tiempo real con Angular 8 que simula la propagación de este importante e infeccioso virus.	https://github.com/CladIng/Mapa-Coronavirus-en-VIVO-ANGULAR-8	2020-02-22 12:40:03 +0800	TypeScript	None	0	None	0
 COVID-19-analysis	https://github.com/swj1442291549/COVID-19-analysis	2020-02-22 12:20:11 +0800	Jupyter Notebook	MIT license	0	None	0
 2019-nCoV Dashboard built with nivo and react	https://github.com/mingir2/nivocov	2020-02-22 12:18:43 +0800	JavaScript	None	0	react, dataviz, dashboard, nivo	0
-泰州各区县新型冠状病毒感染的肺炎疫情的统计与可视化，采用微信小程序平台开发。	https://github.com/Bubbleinpit/2019-ncov-taizhou	2020-02-22 11:41:00 +0800	JavaScript	MIT license	2	None	0
 coronaVirusServerDeploy	https://github.com/Rasputin9998/coronaVirusServerDeploy	2020-02-22 10:50:24 +0800	Python	None	0	None	0
 北航大数据高精尖中心研究团队进行数据来源的整理与获取，利用自然语言处理等技术从已公开全国4626确诊患者轨迹中抽取了基本信息（性别、年龄、常住地、工作、武汉/湖北接触史等）、轨迹（时间、地点、交通工具、事件）及病患关系形成结构化信息	https://github.com/BDBC-KG-NLP/track_data	2020-02-22 10:24:47 +0800	None	MIT license	0	None	0
 上海、北京新型肺炎第二天确诊人数预测	https://github.com/hanwsf/2019-nCoV-Shanghai-Beijing-Confirmed-Number	2020-02-22 09:09:51 +0800	Python	None	1	None	0
 covid-19	https://github.com/theitalianscientist/covid-19	2020-02-22 06:44:22 +0800	Python	None	0	None	0
 Exploring the data related to the coronavirus outbreak	https://github.com/danielsqtang/covid-19-data-exploration	2020-02-22 06:23:22 +0800	Jupyter Notebook	None	0	None	0
 Time-based map of 2019's Wuhan Coronavirus	https://github.com/DakotaWray2/Coronavirus_Map	2020-02-22 05:49:18 +0800	Vue	None	0	None	0
-analyses related to nCoV-2020 outbreak	https://github.com/reichlab/ncov	2020-02-22 05:47:16 +0800	TeX	CC0-1.0 license	3	None	0
 Visualizing the dynamic changes of the 2019-nCov in China	https://github.com/truebelief/truebelief.github.io	2020-02-22 05:10:11 +0800	JavaScript	None	0	None	0
 Wuhan-Report	https://github.com/anthonyalvarez/Wuhan-Report	2020-02-22 05:07:59 +0800	None	None	0	None	0
 COVID19_CT	https://github.com/howchihlee/COVID19_CT	2020-02-22 05:03:22 +0800	Python	None	0	None	0
@@ -1006,12 +1125,10 @@ Efforts towards proposing a potentially highly active molecule against a target 
 2019-nCoV 疫情可视化	https://github.com/green512/2019nCoV	2020-02-21 22:20:36 +0800	JavaScript	None	5	None	0
 Coronavirus - Amazon JP Surgical Mask Alert 😷	https://github.com/elvinyhlee/AmazonJPMaskBot	2020-02-21 21:55:36 +0800	Python	None	0	bot, amazon, mask, hong-kong, face-mask, amazon-jp, coronavirus	0
 Repo for 2019nCoV analysis by students at PKU	https://github.com/AstroJacobLi/2019ncov-pku-nsd	2020-02-21 21:47:30 +0800	Jupyter Notebook	MIT license	1	None	0
-nCov	https://github.com/Jinhui-Liang/nCov	2020-02-21 21:40:52 +0800	Python	None	1	None	0
 coronavirus	https://github.com/bt18438148/coronavirus_chatbot	2020-02-21 21:35:44 +0800	None	None	0	None	0
 API for coronavirus statistics	https://github.com/filswa/coronavirusapi	2020-02-21 21:11:10 +0800	JavaScript	None	0	None	0
 a graph model to predict the spreading of 2019-nCoV	https://github.com/xjtu-omics/2019-nCoV_graph_model	2020-02-21 21:07:30 +0800	Java	MIT license	0	None	0
 武汉大学公选课摄影技术与摄影流派资料及笔记	https://github.com/SmallZhezhe/Photography-2020-WHU	2020-02-21 21:05:41 +0800	TeX	BSD-3-Clause license	0	None	0
-中国新型冠状病毒肺炎地级市疫情图	https://github.com/lispczz/pneumonia	2020-02-21 21:02:53 +0800	JavaScript	MIT license	320	amap, amap-js-api, ncov, ncov-data-visual	0
 a website interested about CoronaVirus	https://github.com/medayoubammar/GoMyCodeProjectLEVEL1	2020-02-21 20:58:39 +0800	CSS	None	1	None	0
 COVID-19	https://github.com/RangeKing/COVID-19	2020-02-21 20:43:16 +0800	JavaScript	None	0	None	0
 柳州疫情可视化	https://github.com/Xanadu-zxl/Liuzhou-outbreak-visualization	2020-02-21 20:35:12 +0800	Vue	None	0	None	0
@@ -1029,7 +1146,6 @@ Map, data and timeline of coronavirus (2019-nCoV)	https://github.com/sorxrob/201
 A Colab notebook explaining the pipeline for smile format, openbabel, autodock vina, pymol and more	https://github.com/vegetablejuiceftw/coronavirus-begone	2020-02-21 17:25:56 +0800	Jupyter Notebook	MIT license	0	smile-string, python3, pymol, openbabel, colab-notebook, autodock-vina, coronavirus	0
 新冠肺炎前端数据实时展示	https://github.com/zhent1106/2019-covid	2020-02-21 17:14:30 +0800	None	None	0	None	0
 2019-nCoV	https://github.com/wentaojava/2019-nCoV	2020-02-21 17:09:34 +0800	Python	MIT license	0	None	0
-Anti2019-nCoV	https://github.com/Anti2019-nCoV/Anti2019-nCoV	2020-02-21 17:02:29 +0800	Python	None	6	None	0
 ncov-page-react	https://github.com/wentaojava/ncov-page-react	2020-02-21 17:02:07 +0800	JavaScript	None	0	None	0
 The 19 nCov virus project. 2019武汉肺炎发展预测模型， 遗传算法， SEIR	https://github.com/victordefoe/MEME	2020-02-21 16:48:22 +0800	Python	None	0	None	0
 Show routes of transmission based on datetime, place, sources of infection	https://github.com/ulgoon/covid-19-kr-scatter	2020-02-21 16:42:35 +0800	None	MIT license	0	None	0
@@ -1104,7 +1220,6 @@ wuhan2019-ncov.github.io	https://github.com/wuhan2019-ncov/wuhan2019-ncov.github
 ncovanalysis	https://github.com/huangkai31/ncovanalysis	2020-02-20 16:28:21 +0800	Jupyter Notebook	None	0	None	0
 2020/2/18新冠肺炎期间在家办公用于协同办公	https://github.com/lijiaze-lijiaze/projectmanagement	2020-02-20 16:16:59 +0800	JavaScript	None	0	None	0
 wuhan-index	https://github.com/weiweikate/wuhan-index	2020-02-20 16:14:52 +0800	JavaScript	None	0	None	0
-📄 List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019	https://github.com/abuuzayr/coronavirus-apps	2020-02-20 16:14:19 +0800	None	None	6	None	0
 三一疫情防控	https://github.com/gsl001/sanypoint	2020-02-20 16:08:03 +0800	None	None	0	None	0
 2019-nCoV	https://github.com/THU-ZCAM/2019-nCoV	2020-02-20 16:00:23 +0800	None	None	0	None	0
 his is about the 2019 new coronavirus pneumonia small program. 这是关于2019新型冠状病毒肺炎的小程序。	https://github.com/HilaryHA/OutInquiry	2020-02-20 15:35:51 +0800	JavaScript	None	0	None	0
@@ -1151,7 +1266,6 @@ Coronavirus-Analysis	https://github.com/aysey/Coronavirus-Analysis	2020-02-19 23
 ☣始于武汉的新型冠状病毒的疫情信息项目：包括数据爬取(python)，数据库存储(python + mysql)，(web后端见另外一个库wuhan_plague_web)	https://github.com/ustcyyw/wuhan_plague	2020-02-19 23:00:30 +0800	TSQL	None	0	None	0
 因为武汉疫情，抓取了中国的医院信息，以提供帮助	https://github.com/Peter-powers/wuhan_china_hosipitals	2020-02-19 22:58:59 +0800	None	Apache-2.0 license	0	None	0
 2019ncov	https://github.com/edison7500/2019ncov	2020-02-19 22:52:19 +0800	Python	MIT license	0	python, django, django-rest-framework, python3, scrapy, 2019ncov	0
-Anti 2020 novel coronavirus.	https://github.com/openthings/anti2020ncov	2020-02-19 22:32:25 +0800	Jupyter Notebook	Apache-2.0 license	1	nbdev, python, jupyter, notebook, ncov	0
 武汉肺炎疫情可视化研究	https://github.com/guanyilun/wuhan_viz	2020-02-19 22:29:21 +0800	HTML	None	8	wuhan, 2019-ncov, ncov, ncov-data-visual	0
 angular highcharts ui based on https://coronavirus-tracker-api.herokuapp.com/all	https://github.com/Olddude/covid-19	2020-02-19 22:21:46 +0800	TypeScript	None	0	None	0
 coronaVirus	https://github.com/mikeyee/coronaVirus	2020-02-19 22:12:10 +0800	HTML	None	0	None	0
@@ -1174,7 +1288,6 @@ COVID-19	https://github.com/Soar0202/COVID-19	2020-02-19 20:00:49 +0800	Swift	No
 一个轻量化基于命令行的新型冠状病毒疫情数据获取，使用Python编写	https://github.com/Lang-Zhou/COVID-19-Command-Line-Tool	2020-02-19 19:07:35 +0800	Python	MIT license	1	None	0
 疫情填报统计	https://github.com/Gambler-Wang/epidemicReportStatic	2020-02-19 18:29:23 +0800	JavaScript	None	0	None	0
 疫情app	https://github.com/Zxx-ai/yiqing	2020-02-19 18:06:15 +0800	HTML	None	0	None	0
-2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API	https://github.com/BlankerL/DXY-COVID-19-Crawler	2020-02-19 17:59:52 +0800	Python	MIT license	991	crawler, realtime-api, 2019-ncov	1
 “协力抗疫，码力全开”线上公益黑客马拉松比赛，第六组【肺你不可】战队作品——“口罩给我”，本人担任前端开发	https://github.com/JJJinXxxx/TCB-Hackthon-Group06	2020-02-19 17:58:29 +0800	JavaScript	None	0	None	0
 awesome-wuhan_corona-kr	https://github.com/wuhan-corona-kr/awesome-wuhan_corona-kr	2020-02-19 17:57:47 +0800	None	None	0	None	0
 Dataset for Wuhan Covid-19 analysis	https://github.com/robertselvaraj/covid19	2020-02-19 17:45:17 +0800	None	None	0	None	0
@@ -1188,7 +1301,6 @@ Data and R code for analysis about COVID-19	https://github.com/Xinhai-Li/COVID-1
 新冠肺炎同程查询工具	https://github.com/ninimeow/trip-inquiry	2020-02-19 16:03:55 +0800	JavaScript	None	0	None	0
 防疫平台	https://github.com/xinkezhihui/epidemic_prevention	2020-02-19 16:00:08 +0800	HTML	None	0	None	0
 中国地质大学（武汉）研究生学位论文 TeX 模板。目前仍然在开发和完善中，如果有下载并且使用的同学，请时常记得来这里更新模板。	https://github.com/Timozer/CUGThesis	2020-02-19 15:55:37 +0800	TeX	GPL-3.0 license	22	None	0
-兰大疫情一键打卡，需要自己设置定时	https://github.com/ranxuebin/LZU_Quick_Check-in	2020-02-19 15:43:09 +0800	Python	None	2	None	0
 2019-ncov	https://github.com/kisrea/2019-ncov	2020-02-19 15:39:14 +0800	None	None	0	None	0
 基于微服务架构的疫情信息系统	https://github.com/TrouBleMaKerV/PlagueCompany	2020-02-19 15:14:09 +0800	Java	None	0	None	0
 本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Kotlin入门参考项目)	https://github.com/woshiluoyong/KotlinNcpApp	2020-02-19 15:10:36 +0800	Kotlin	None	1	kotlin, rxjava	0
@@ -1198,9 +1310,7 @@ back-wuhan	https://github.com/xiesj/back-wuhan	2020-02-19 14:50:53 +0800	Vue	Non
 wuhan	https://github.com/dogfaraway/wuhan	2020-02-19 14:25:44 +0800	HTML	None	0	None	0
 CoronaVirus_Dashboard	https://github.com/footfalcon/CoronaVirus_Dashboard	2020-02-19 14:14:47 +0800	Python	None	0	None	0
 bupt-ncov-report-action	https://github.com/Jason210314/bupt-ncov-report-action	2020-02-19 14:12:28 +0800	TypeScript	None	0	None	0
-武汉新型冠状病毒防疫信息收集平台-数据同步服务	https://github.com/wuhan2020/data-sync	2020-02-19 14:08:57 +0800	TypeScript	MIT license	84	None	0
 自动完成每日健康情况上报	https://github.com/nonPointer/BJUT_nCoV_Report	2020-02-19 14:03:54 +0800	Python	MIT license	0	None	0
-wuhan2020-test	https://github.com/wuhan2020/wuhan2020-test	2020-02-19 13:52:53 +0800	None	None	0	None	0
 2019 nCov 数据爬取	https://github.com/LianGee/akalid	2020-02-19 13:36:27 +0800	Python	MIT license	0	None	0
 Analysing the deaths, recovery, and spread of the COVID-19; virus using python	https://github.com/HarshavardhanK/coronavirus	2020-02-19 13:07:36 +0800	None	None	0	python, machine-learning, exploratory-data-analysis, matplotlib	0
 新冠肺炎每日新增确诊和死亡, 更新中	https://github.com/netroby/sars-cov-2	2020-02-19 12:57:14 +0800	JavaScript	None	0	None	0
@@ -1375,7 +1485,6 @@ virus_covid19	https://github.com/geekori/virus_covid19	2020-02-17 11:45:14 +0800
 CoronavirusData	https://github.com/gottesman/CoronavirusData	2020-02-17 10:35:21 +0800	JavaScript	GPL-3.0 license	0	None	0
 社区2019,2020疫情管理，外来人登记管理，日常出入登记管理，访客出入登记管理，人员健康汇报	https://github.com/snowflake09/ncov2019	2020-02-17 09:50:54 +0800	JavaScript	None	1	None	0
 使用 Grafana 展示疫情实时动态	https://github.com/sunny0826/wuhan2020-grafana	2020-02-17 09:36:57 +0800	Python	Apache-2.0 license	0	None	0
-2019-Coronavirus Map	https://github.com/genki-cat/2019-Coronavirus	2020-02-17 08:31:24 +0800	Vue	None	1	None	0
 2019-nCoV-AU	https://github.com/UniLauX/2019-nCoV-AU	2020-02-17 08:12:15 +0800	None	None	5	None	0
 COVID-19	https://github.com/lsalvador/COVID-19	2020-02-17 07:48:44 +0800	R	None	0	None	0
 A project dedicated to workers sacrificed themselves during the Coronavirus outbreak in China.	https://github.com/costoflies-org/wuhan-liquidators	2020-02-17 06:32:58 +0800	None	MIT license	0	None	0
@@ -1507,7 +1616,6 @@ COVID-19 Genomic Data and GenBank GBFF File to JSON Converter	https://github.com
 疫情严重，看看新闻	https://github.com/KevinYZF/getSomeNews	2020-02-15 11:51:57 +0800	JavaScript	Apache-2.0 license	0	None	0
 小说 半科幻 武汉病毒	https://github.com/voicevon/21cn	2020-02-15 11:29:35 +0800	None	None	0	None	0
 2019-nCoV 武汉新冠状病毒肺炎疫情信息导航	https://github.com/wuhan2020/2019-nCoV-Nav	2020-02-15 11:16:45 +0800	Go	MIT license	48	None	1
-Map, data and timeline of coronavirus (2019-nCoV)	https://github.com/sorxrob/2019-ncov-frontend	2020-02-15 11:06:06 +0800	Vue	None	47	None	0
 nCoVCrawler	https://github.com/Benknightdark/nCoVCrawler	2020-02-15 10:49:17 +0800	Jupyter Notebook	None	1	None	0
 疫情期间传视频	https://github.com/Ye-zhiyuan/---	2020-02-15 10:36:06 +0800	None	None	0	None	0
 疫情期间网课视频传送	https://github.com/Ye-zhiyuan/-1	2020-02-15 10:34:05 +0800	None	None	0	None	0
@@ -1589,7 +1697,6 @@ Dump 2019-nCoV epidemic information.	https://github.com/donyori/dump2019ncov	202
 To analyze the relationship between the number of cases of Coronavirus against the Stock Market by tracking the impac…	https://github.com/akalia25/StockMarket_Virus_Relationship	2020-02-14 11:00:27 +0800	Python	None	2	None	0
 Globe-Coronavirus-Visualisation	https://github.com/Kaleidot/Globe-Coronavirus-Visualisation	2020-02-14 10:57:13 +0800	None	None	0	None	0
 Phylodynamic estimation of nCoV incidence and prevalence	https://github.com/blab/ncov-phylodynamics	2020-02-14 10:42:31 +0800	Mathematica	None	7	None	0
-A simple map chart for coronavirus cases and deaths.	https://github.com/ergoproxyDNS/coronavirus-live-map	2020-02-14 10:42:10 +0800	HTML	None	1	None	0
 Trending charts for 2019 nCoV	https://github.com/ohdarling/2019-nCoV-Charts	2020-02-14 10:30:20 +0800	HTML	None	17	None	0
 wuhan-coronavirus-prediction-	https://github.com/Cricetulus/wuhan-coronavirus-prediction-	2020-02-14 10:24:23 +0800	Jupyter Notebook	None	0	None	0
 疫战2020 - yizhan2020.org站点	https://github.com/yizhan2020/yizhan2020.github.io	2020-02-14 10:11:21 +0800	HTML	None	3	None	0
@@ -1651,7 +1758,6 @@ Personal transcriptions for 2019ncovmemory/nCovMemory	https://github.com/troyeag
 基于Scrapy的python新型冠状病毒爬虫	https://github.com/Memory1031/2019-nCoV-Crawler	2020-02-13 17:37:27 +0800	Python	None	3	None	0
 新型肺炎小区查询小程序版本	https://github.com/JFiscome/2019-ncov-wxapp	2020-02-13 17:32:16 +0800	JavaScript	None	0	None	0
 vue3.0 composition-api编写的疫情实时详情项目	https://github.com/LadyChatterleyLover/victory	2020-02-13 17:20:49 +0800	Vue	None	1	None	0
-Courseware for Embedded Applications on Intelligent Systems	https://github.com/yfang1644/2019-nCoV	2020-02-13 17:16:14 +0800	None	None	0	None	0
 covid_spider	https://github.com/yuchen8888/covid_spider	2020-02-13 17:08:29 +0800	Python	None	0	None	0
 A3-coronavirus-alert	https://github.com/UW-CSE442-WI20/A3-coronavirus-alert	2020-02-13 16:57:36 +0800	JavaScript	None	0	None	0
 coronavirus-faqs	https://github.com/jasonleow/coronavirus-faqs	2020-02-13 16:56:09 +0800	JavaScript	None	0	None	0
@@ -1692,7 +1798,6 @@ Scripts to cleanup data from https://github.com/CSSEGISandData/2019-nCoV	https:/
 CoronaVirus	https://github.com/Barbar980/CoronaVirus	2020-02-13 04:37:42 +0800	C++	None	0	None	0
 Shiny Version of nCoV Map	https://github.com/japandan/shiny_ncov	2020-02-13 04:25:45 +0800	R	None	0	None	0
 coronavirus_search	https://github.com/simonjuleseric2/coronavirus_search	2020-02-13 03:47:22 +0800	Jupyter Notebook	None	0	None	0
-ncovr	https://github.com/pzhaonet/ncovr	2020-02-13 03:19:06 +0800	R	GPL-3.0 license	16	None	0
 Placeholder description: @blosky created this with repo-genesis	https://github.com/guardian/interactive-coronavirus-timeline	2020-02-13 03:11:03 +0800	HTML	None	0	@blosky	0
 Try to predict when the outbreak would be eliminated	https://github.com/jhpanda/2019ncov_prediction	2020-02-13 02:43:35 +0800	Python	None	0	None	0
 just a practice	https://github.com/huangpintian123/number-of-coronavirus-of-china	2020-02-13 02:25:29 +0800	Python	None	0	None	0
@@ -2003,7 +2108,6 @@ Visualization of Coronavirus cases	https://github.com/themindstorm/2019-nCoV	202
 nCoV_hackathon	https://github.com/NiaDavis/nCoV_hackathon	2020-02-09 01:17:56 +0800	Jupyter Notebook	None	0	None	0
 nCov2019	https://github.com/Uinspire/nCov2019	2020-02-08 23:51:21 +0800	None	None	0	None	0
 Script to watching pneumonia information.	https://github.com/wych/nCoV-watchdog	2020-02-08 23:46:03 +0800	Python	MIT license	0	None	0
-2019-nCov新型冠状病毒肺炎每日疫情数据可视化	https://github.com/tfx2001/2019-ncov-data-visualization	2020-02-08 23:37:35 +0800	Vue	None	0	None	0
 WuHan_Coronavirus	https://github.com/FaKeng/WuHan_Coronavirus	2020-02-08 23:34:30 +0800	None	None	0	None	0
 向医者致敬，收集奋战在一线的靓丽身影！	https://github.com/FamilyProtector/2019_ncov_TheOrdinaryWorld	2020-02-08 23:31:36 +0800	None	GPL-3.0 license	1	None	0
 天佑武汉 天耀中华	https://github.com/Sephiroth0119/weibo-0205	2020-02-08 23:05:38 +0800	PHP	None	0	None	0
@@ -2103,7 +2207,6 @@ Visualization of 2019-nCov Data	https://github.com/iam-abbas/Coronavirus-Data-Vi
 武汉理工大学 计算机（余）一些实验 源码加报告 C语言 编译原理 操作系统 数据库大实验 有缘人可以白嫖	https://github.com/whutxb/whut-C	2020-02-07 17:18:09 +0800	CSS	None	0	None	0
 Get and Visualize 2019nCoV Data	https://github.com/czxa/ncov	2020-02-07 17:09:33 +0800	R	None	3	None	0
 CoronavirusDetection	https://github.com/divyeshj02/CoronavirusDetection	2020-02-07 17:09:18 +0800	None	None	0	None	0
-2019-nCoV 疫情实时播报🅥 ｜武汉新冠状病毒肺炎疫情信息通知 ｜ 支持微信、钉钉群、微博	https://github.com/wangke0809/2019-nCoV-Push	2020-02-07 17:03:50 +0800	Python	None	10	2019-ncov	0
 wuhan2020-frontend-react-native-app	https://github.com/wuhan2020/wuhan2020-frontend-react-native-app	2020-02-07 16:43:33 +0800	TypeScript	MIT license	13	None	0
 A python virus broadcast simulation,inspired by VirusBroadcast.And I made some changes.	https://github.com/LaicZhang/VirusBroadcasts	2020-02-07 16:41:04 +0800	Python	None	2	None	0
 This is a code sample and tutorial for building nCoV map with Ginkgoch.	https://github.com/ginkgoch/nCoV-map	2020-02-07 16:15:44 +0800	JavaScript	None	3	None	0
@@ -2343,7 +2446,6 @@ Mapping the Corona outbreak of 2019 , Origin : Wuhan , China	https://github.com/
 A stochastic model for the transmission of a novel coronavirus in Wuhan	https://github.com/jdrakephd/wuhan-stochastic-model	2020-02-04 23:30:19 +0800	HTML	GPL-3.0 license	1	None	0
 nCov疫情大数据分析与预警平台	https://github.com/TIT-Lab/coronavirus-map	2020-02-04 23:24:58 +0800	Vue	None	5	None	0
 nCoV疫情大数据分析与预警平台后端代码，主要采用Node（Express），数据库使用PostgreSQL10.x，地图服务使用GeoServer等。	https://github.com/TIT-Lab/coronavirus-map-backend	2020-02-04 23:23:25 +0800	JavaScript	None	1	None	0
-an web service to monitor the progress of conoronirus at China	https://github.com/XinjieZeng/nCoVFeeder	2020-02-04 23:16:27 +0800	Java	None	0	None	0
 A website to survey the daily health conditions.	https://github.com/WunschUnreif/2019-nCoV-Investigation	2020-02-04 22:36:35 +0800	JavaScript	GPL-3.0 license	0	None	0
 Repositorio no oficial de las actualizaciones del informe de agrupamiento de casos de neumonía por nuevo coronavirus …	https://github.com/BrunoCdot/Actualizaciones-Coronavirus-2019-nCoV-Gobierno-de-Espana	2020-02-04 22:26:03 +0800	None	None	0	None	0
 寒假作业：疫情统计程序	https://github.com/herokilito/Coronavirus	2020-02-04 22:21:29 +0800	None	MIT license	0	None	0
@@ -2391,8 +2493,8 @@ Web Scraper for Tencent Coronavirus Update Page	https://github.com/AndyLPK247/co
 2091-nCoV	https://github.com/im/2019-nCoV-serve	2020-02-04 11:47:38 +0800	Vue	None	0	vue, netlify, element-ui, netlify-functions, ncov	0
 VirusBroadcast	https://github.com/yuwell1999/VirusBroadcast	2020-02-04 11:35:02 +0800	Java	None	1	None	0
 新型冠状病毒数据分布	https://github.com/visitor110/nCoVDataMap	2020-02-04 11:33:18 +0800	JavaScript	None	0	None	0
-To simulate the spread of novel coronaviruses.	https://github.com/AC-Stray/2019-nCoV_Simulation	2020-02-04 11:32:51 +0800	Python	None	0	None	0
 2019-ncov	https://github.com/spotify2junkie/2019-ncov	2020-02-04 11:32:51 +0800	HTML	None	0	None	0
+To simulate the spread of novel coronaviruses.	https://github.com/AC-Stray/2019-nCoV_Simulation	2020-02-04 11:32:51 +0800	Python	None	0	None	0
 新型冠状病毒肺炎个人防疫指南	https://github.com/githubmajia/xinxingguanzhuangfeiyan	2020-02-04 11:21:13 +0800	None	None	4	None	0
 Wuhan-Coronavirus	https://github.com/JILI1028/Wuhan-Coronavirus	2020-02-04 11:18:35 +0800	HTML	None	0	None	0
 ncov three.js	https://github.com/fabhiansan/ncov	2020-02-04 11:12:24 +0800	HTML	None	0	None	0
@@ -2402,8 +2504,8 @@ This is real video footage of what CoronaVirus really does to people.	https://gi
 wuhan	https://github.com/jackie77/wuhan	2020-02-04 10:07:01 +0800	CSS	None	0	None	0
 Network-based Drug Repurposing for Human Coronavirus	https://github.com/ChengF-Lab/2019-nCoV	2020-02-04 09:34:34 +0800	None	MIT license	1	None	0
 JAVA 冠状病毒爬虫/数据处理	https://github.com/linsinan1995/nCov-Java-Crawler	2020-02-04 09:31:06 +0800	Java	None	0	None	0
-新型肺炎疫情实时数据分析可视化报告，2019-ncov疫情可视化分析应用，疫情实时数据追踪导航,2019-nCov可视化数据分析	https://github.com/dubaopeng/2019-nCov	2020-02-04 08:57:15 +0800	None	MIT license	3	None	0
 新型肺炎疫情实时数据分析可视化报告，2019-ncov疫情可视化分析应用，疫情实时数据追踪导航,2019-nCov可视化数据分析	https://github.com/dubaopeng/sari	2020-02-04 08:57:15 +0800	None	MIT license	3	None	0
+新型肺炎疫情实时数据分析可视化报告，2019-ncov疫情可视化分析应用，疫情实时数据追踪导航,2019-nCov可视化数据分析	https://github.com/dubaopeng/2019-nCov	2020-02-04 08:57:15 +0800	None	MIT license	3	None	0
 coronavirustracker	https://github.com/nerocui/coronavirustracker	2020-02-04 08:48:32 +0800	JavaScript	None	0	None	0
 Analyses of the available nCov data	https://github.com/nicfel/nCov-Nicola	2020-02-04 08:01:49 +0800	MATLAB	None	0	None	0
 wuhan-coronavirus	https://github.com/cyrusxzw/wuhan-coronavirus	2020-02-04 06:16:03 +0800	HTML	None	0	None	0
