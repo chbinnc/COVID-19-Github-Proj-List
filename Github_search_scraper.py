@@ -147,8 +147,6 @@ if __name__ == '__main__':
     saved_project_list, saved_address_list = main(\
             search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=True)
 
-    if search_keywords != []:
-        waitOneMinute()
     # search with keyword in search_keywords.saved.txt
     saved_project_list, saved_address_list = main(\
             saved_search_keywords, saved_project_list, saved_address_list)
