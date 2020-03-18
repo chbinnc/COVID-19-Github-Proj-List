@@ -36,7 +36,15 @@ x = [datetime.strptime(d, 'Date:   %a %b %d %H:%M:%S %Y %z') for d in date_list[
 y0 = [i[0] for i in new_modified_list]
 y1 = [i[1] for i in new_modified_list]
 y2 = [i[2] for i in new_modified_list]
-y2[8:10] = [y2[10], y2[10]] # same date, noise
+y2[9] = y2[10] # noise
+
+def RemoveNoise(y):
+    for index, value in enumerate(y):
+        if value == 0 and index != 0:
+            y[index] = y[index - 1]
+            x[index] = x[index - 1]
+RemoveNoise(y1)
+RemoveNoise(y2)
 
 fig, ax_list = plt.subplots(2, figsize=(10,5))
 
@@ -50,5 +58,5 @@ for index, ax in enumerate(ax_list):
     ax.grid()
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%d'))
     ax.xaxis.set_major_locator(mdates.DayLocator(interval=5))
-    plt.gcf().autofmt_xdate()
+plt.gcf().autofmt_xdate()
 plt.savefig('trend_plot.png')
