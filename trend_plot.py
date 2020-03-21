@@ -47,6 +47,7 @@ def mergeToNext(i):
 mergeToNext(9) # y2[9] = 1834 = y0[8]
 mergeToNext(2) # y1[2:4] = [2, 279]
 mergeToNext(4) # y1[4:6] = [8, 628]
+mergeToNext(47) # y1[45:50] = [733, 675, 245, 596, 728]
 
 def removeNoise(y):
     for index, value in enumerate(y):
