@@ -44,7 +44,7 @@ def main(search_keywords, saved_project_list, saved_address_list, NEW_KEYWORD=Fa
                         print("No older project before {}, done!".format(last_updated_date_raw))
                         NO_OLDER_PROJECT = True
                         break
-                # the oldest project related to wuhan 2019-nCoV is after 2020-01-20
+                # the oldest project related to COVID-19 is after 2020-01-20
                 if date < OLDEST_DATE:
                     print("No older project before 2020-01-20, done!")
                     NO_OLDER_PROJECT = True
@@ -136,7 +136,7 @@ if __name__ == '__main__':
 
     saved_project_list = []
     saved_address_list = []
-    with open('Wuhan_nCoV_Github_Project_list.csv') as file:
+    with open('COVID-19_Github_Project_list.csv') as file:
         file.readline() # omit header
         for row in file:
             row_split = row.strip().split('\t')
@@ -153,12 +153,12 @@ if __name__ == '__main__':
 
     saved_project_list = sorted(saved_project_list, key=lambda entry: entry[2])[::-1] # sorted by date
 
-    with open('Wuhan_nCoV_Github_Project_list.csv', 'w') as file:
+    with open('COVID-19_Github_Project_list.csv', 'w') as file:
         file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
                 'Description', 'Address', 'Last Update', 'Language', \
                 'License', 'Star', 'Topics', 'Issues Need Help'))
 
-    with open('Wuhan_nCoV_Github_Project_list.csv', 'a') as file:
+    with open('COVID-19_Github_Project_list.csv', 'a') as file:
         for i in saved_project_list:
             file.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format( \
                         i[0], i[1], i[2], i[3], i[4], i[5], i[6], i[7]))
